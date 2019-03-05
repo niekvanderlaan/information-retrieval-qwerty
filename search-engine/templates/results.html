@@ -68,6 +68,20 @@ function view(headline, body) {
       </tr>
     </thead>
 
+  <!--
+  {% for hit in res['hits']['hits'] %}
+    <tbody>
+      <tr>
+        <th scope="row">{{ hit['_source']['date'] }}</th>
+          <td>{{ hit['_index'] }}</td>
+          <td><a href="{{ hit['_source']['url'] }}">{{ hit['_source']['title'] }}</a></td>
+          <td>{{ hit['_source']['tags'] }}</td>
+      </tr>
+    </tbody>
+{% endfor %}
+
+  -->
+
 {% for hit in res['hits']['hits'] %}
     <tbody>
       <tr>
