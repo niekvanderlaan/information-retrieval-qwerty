@@ -10,6 +10,7 @@ res = {}
 def home():
     return render_template("search.html")
 
+
 @app.route('/search/results', methods=['GET', 'POST'])
 def search_request():
     search_term = request.form["input"]
@@ -32,9 +33,21 @@ def search_request():
     print("Got %d Hits:" % res['hits']['total'])
     return render_template('results.html', res=res )
 
-@app.route('/search/results/view/<id>')
-def view_result(id):
-    webbrowser.open_new_tab('http://google.com')
+
+@app.route('/view/<docid>')
+def view_result(docid):
+    res = es.search(
+        index="aquaint",
+        size=20,
+        body={
+            "query": {
+                "match": {
+                    "_id": docid
+                }
+            }
+        }
+    )
+    return render_template('view.html', res=res['hits']['hits'][0])
 
 
 if __name__ == '__main__':
