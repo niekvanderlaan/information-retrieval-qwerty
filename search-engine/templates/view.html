@@ -7,6 +7,11 @@
   <link rel="icon" href="http://obj-cache.cloud.ruanbekker.com/favicon.ico">
   <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <style>
+        .white-space-pre {
+    white-space: pre-wrap;
+}
+    </style>
 
   <title>View</title>
     <script>
@@ -25,7 +30,7 @@
           <font size="8">{{res['_source']['headline']}}</font>
       </center>
     <br><br>
-      <div id="textDiv"></div>
+      <div class ="white-space-pre">{{ res['_source']['body'][0] }}</div>
         <footer class="footer">
           <p>&copy; 2019 Niek van der Laan & Daphne van Tetering</p>
         </footer>

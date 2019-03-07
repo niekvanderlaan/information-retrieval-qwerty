@@ -16,7 +16,7 @@ def search_request():
     search_term = request.form["input"]
     res = es.search(
         index="aquaint",
-        size=20,
+        size=10,
         body={
             "query": {
                 "multi_match" : {
@@ -38,7 +38,7 @@ def search_request():
 def view_result(docid):
     res = es.search(
         index="aquaint",
-        size=20,
+        size=1,
         body={
             "query": {
                 "match": {
@@ -47,7 +47,11 @@ def view_result(docid):
             }
         }
     )
-    return render_template('view.html', res=res['hits']['hits'][0])
+    result = res['hits']['hits'][0]
+    result['_source']['body'][0] = result['_source']['body'][0].replace('<p>', '')
+    result['_source']['body'][0] = result['_source']['body'][0].replace('</p>', '')
+    print(result)
+    return render_template('view.html', res=result)
 
 
 if __name__ == '__main__':
