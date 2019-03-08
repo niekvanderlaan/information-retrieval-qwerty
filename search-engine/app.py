@@ -4,34 +4,46 @@ import webbrowser
 
 app = Flask(__name__)
 es = Elasticsearch('127.0.0.1', port=9200)
-res = {}
+res={}
+relevant_ids = []
+
 
 @app.route('/')
 def home():
     return render_template("search.html")
 
 
-@app.route('/search/results', methods=['GET', 'POST'])
+@app.route('/search/results', methods=['POST'])
 def search_request():
-    search_term = request.form["input"]
-    res = es.search(
-        index="aquaint",
-        size=10,
-        body={
-            "query": {
-                "multi_match" : {
-                    "query": search_term,
-                    "fields": [
-                        "headline",
-                        "body"
-                    ]
-                }
-            }
-        }
-    )
+    if request.values.get('docid'):
+        id = request.values.get('docid')
+        checked = request.values.get('checked')
+        if checked=='true':
+            relevant_ids.append(id)
+        else:
+            relevant_ids.remove(id)
+        print('relevant ids: ', relevant_ids)
+    else:
+        search_term = request.form["input"]
+        global res
+        res = es.search(
+            index="aquaint",
+            size=10,
+            body={
+                "query": {
+                    "multi_match" : {
+                        "query": search_term,
+                        "fields": [
+                            "headline",
+                            "body"
+                     ]
+                 }
+             }
+         }
+        )
     # res = es.search(index="test-index", body={"query": {"match_all": {}}})
     print("Got %d Hits:" % res['hits']['total'])
-    return render_template('results.html', res=res )
+    return render_template('results.html', res=res, relevant_ids=relevant_ids )
 
 
 @app.route('/view/<docid>')
@@ -50,7 +62,7 @@ def view_result(docid):
     result = res['hits']['hits'][0]
     result['_source']['body'][0] = result['_source']['body'][0].replace('<p>', '')
     result['_source']['body'][0] = result['_source']['body'][0].replace('</p>', '')
-    print(result)
+
     return render_template('view.html', res=result)
 
 

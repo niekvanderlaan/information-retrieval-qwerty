@@ -7,25 +7,6 @@
     <link rel="icon" href="http://obj-cache.cloud.ruanbekker.com/favicon.ico">
     <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    <script type="text/javascript">
-      function view(headline, body) {
-
-         var mywindow = window.open('', headline, 'height=400,width=600');
-         mywindow.document.write('<html><head><title>{headline}</title>');
-
-         //External Css will not work in print
-         mywindow.document.write("<style>body{font-family:Arial}</style>");
-
-         mywindow.document.write('</head><body><table>');
-         mywindow.document.write(body);
-         mywindow.document.write('</table></body></html>');
-
-         mywindow.print();
-         mywindow.close();
-
-         return true;
-       }
-    </script>
 
     <script>
     $(document).ready(function(){
@@ -33,6 +14,19 @@
             window.open('/view/'+$(this).attr('id'), '_blank');
         });
     });
+
+    $(document).ready(function(){
+       $('.check').change(function(){
+           if($(this).is(':checked')) {
+               var id = $(this).attr('id');
+               $.post("/search/results",{docid:id, checked: true}, true);
+               console.log(id);
+           } else {
+               var id = $(this).attr('id');
+               $.post("/search/results",{docid:id, checked: false}, false)
+           }
+       })
+    })
 </script>
 
     <title>Bookmarks Search</title>
@@ -53,46 +47,58 @@
 
   <form action="/search/results" method="post">
     <div class="input-group">
-      <input type="text" class="form-control input-lg" name="input" placeholder="Search"  autofocus>
-      <div class="input-group-btn">
+        <fieldset>
+            <input type="text" class="form-control input-lg" name="input" placeholder="Search"  autofocus>
+        </fieldset>
+        <div class="input-group-btn">
         <button class="btn btn-primary btn-lg" type="submit">
           <i class="glyphicon glyphicon-search"></i>
         </button>
       </div>
     </div>
-  </form>
 
-  <center>
+
       <h1>Results: ({{ res['hits']['total'] }}) </h1>
-  </center>
 
-  <table class="table">
-    <thead>
-      <tr>
-        <th>Date Stamp</th>
-        <th>Source</th>
-        <th>Title</th>
-        <th>Link</th>
-      </tr>
-    </thead>
 
-{% for hit in res['hits']['hits'] %}
-    <tbody>
-      <tr>
-        <th scope="row">{{ hit['_source']['datetime'] }}</th>
-        <td>{{ hit['_index'] }}</td>
-        <td>{{ hit['_source']['headline'] }}</td>
-        <td><button class="view" id="{{ hit['_id'] }}">View</button></td>
-      </tr>
-    </tbody>
-{% endfor %}
-  </table>
+      <table class="table">
+        <thead>
+          <tr>
+              <th>Mark as relevant</th>
+              <th>Date Stamp</th>
+                <th>Source</th>
+                <th>Title</th>
+                <th>Link</th>
+          </tr>
+        </thead>
+        <tbody>
+            {% for hit in res['hits']['hits'] %}
+                  <tr>
+                      <td>
+                        <fieldset id="checkboxes {{ hit['_id'] }}">
+                            {%  if relevant_ids.__contains__(hit['_id']) %}
+                            <input class="check" type="checkbox" name="relevant" id = "{{ hit['_id'] }}" checked>
+                            {% else %}
+                            <input class="check" type="checkbox" name="relevant" id = "{{ hit['_id'] }}">
+                            {% endif %}
+                        </fieldset>
+                      </td>
+                    <th scope="row">{{ hit['_source']['datetime'] }}</th>
+                    <td>{{ hit['_index'] }}</td>
+                    <td>{{ hit['_source']['headline'] }}</td>
+                    <td><button type="button" class="view" id="{{ hit['_id'] }}">View</button></td>
+                  </tr>
+            {% endfor %}
+        </tbody>
+      </table>
 
         <footer class="footer">
           <p>&copy; 2019 Niek van der Laan & Daphne van Tetering</p>
         </footer>
-
+  </form>
       </div>
-    </div>
+
   </body>
+
+
 </html>
