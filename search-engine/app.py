@@ -1,11 +1,15 @@
 from flask import Flask, render_template, request
+from logging.handlers import RotatingFileHandler
 from elasticsearch import Elasticsearch
-import webbrowser
+from datetime import datetime
+import logging
 
 app = Flask(__name__)
+app.debug = True
 es = Elasticsearch('127.0.0.1', port=9200)
-res={}
+res = {}
 relevant_ids = []
+
 
 
 @app.route('/')
@@ -20,8 +24,10 @@ def search_request():
         checked = request.values.get('checked')
         if checked=='true':
             relevant_ids.append(id)
+            app.logger.info(str(datetime.now()) + ": " + "Marked " + id + " as relevant")
         else:
             relevant_ids.remove(id)
+            app.logger.info(str(datetime.now()) + ": " + "Unmarked " + id + " as relevant")
         print('relevant ids: ', relevant_ids)
     else:
         search_term = request.form["input"]
@@ -39,8 +45,10 @@ def search_request():
                      ]
                  }
              }
-         }
+        }
+
         )
+        app.logger.info(str(datetime.now()) + ": Entered query: " + search_term)
     # res = es.search(index="test-index", body={"query": {"match_all": {}}})
     print("Got %d Hits:" % res['hits']['total'])
     return render_template('results.html', res=res, relevant_ids=relevant_ids )
@@ -68,4 +76,7 @@ def view_result(docid):
 
 if __name__ == '__main__':
     app.secret_key = 'mysecret'
+    handler = RotatingFileHandler('engine.log', maxBytes=10000, backupCount=1)
+    handler.setLevel(logging.INFO)
+    app.logger.addHandler(handler)
     app.run(host='0.0.0.0', port=5000)
