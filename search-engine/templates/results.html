@@ -36,19 +36,19 @@
 
   <div class="container">
     <div style="background:transparent !important" class="jumbotron">
-      <div style="font-family: 'Pacifico', cursive;">
+      <div style="font-family: 'Times New Roman', cursive;">
         <p>
           <center>
-          <font size="8">Search for Blog Posts</font>
+          <font size="8">PyLastic Search Engine</font>
           </center>
         </p>
       </div>
     </div>
 
-  <form action="/search/results" method="post">
+  <form action="/search/results" method="post" autocomplete="off">
     <div class="input-group">
         <fieldset>
-            <input type="text" class="form-control input-lg" name="input" placeholder="Search"  autofocus>
+            <input type="text" class="form-control input-lg" name="input" placeholder="Search"  autofocus value="{{ search_term }}">
         </fieldset>
         <div class="input-group-btn">
         <button class="btn btn-primary btn-lg" type="submit">
@@ -56,17 +56,13 @@
         </button>
       </div>
     </div>
-
-
-      <h1>Results: ({{ res['hits']['total'] }}) </h1>
-
-
+      <br>
+  <br>
       <table class="table">
         <thead>
           <tr>
               <th>Mark as relevant</th>
               <th>Date Stamp</th>
-                <th>Source</th>
                 <th>Title</th>
                 <th>Link</th>
           </tr>
@@ -83,18 +79,13 @@
                             {% endif %}
                         </fieldset>
                       </td>
-                    <th scope="row">{{ hit['_source']['datetime'] }}</th>
-                    <td>{{ hit['_index'] }}</td>
+                    <th scope="row">{{ hit['_source']['datetime'] }} </th>
                     <td>{{ hit['_source']['headline'] }}</td>
                     <td><button type="button" class="view" id="{{ hit['_id'] }}">View</button></td>
                   </tr>
             {% endfor %}
         </tbody>
       </table>
-
-        <footer class="footer">
-          <p>&copy; 2019 Niek van der Laan & Daphne van Tetering</p>
-        </footer>
   </form>
       </div>
 

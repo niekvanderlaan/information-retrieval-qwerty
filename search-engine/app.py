@@ -9,6 +9,7 @@ app.debug = True
 es = Elasticsearch('127.0.0.1', port=9200)
 res = {}
 relevant_ids = []
+search_term = ""
 
 
 
@@ -19,6 +20,7 @@ def home():
 
 @app.route('/search/results', methods=['POST'])
 def search_request():
+    global search_term
     if request.values.get('docid'):
         id = request.values.get('docid')
         checked = request.values.get('checked')
@@ -34,7 +36,7 @@ def search_request():
         global res
         res = es.search(
             index="aquaint",
-            size=10,
+            size=1000,
             body={
                 "query": {
                     "multi_match" : {
@@ -51,7 +53,7 @@ def search_request():
         app.logger.info(str(datetime.now()) + ": Entered query: " + search_term)
     # res = es.search(index="test-index", body={"query": {"match_all": {}}})
     print("Got %d Hits:" % res['hits']['total'])
-    return render_template('results.html', res=res, relevant_ids=relevant_ids )
+    return render_template('results.html', res=res, search_term=search_term, relevant_ids=relevant_ids )
 
 
 @app.route('/view/<docid>')
@@ -68,8 +70,11 @@ def view_result(docid):
         }
     )
     result = res['hits']['hits'][0]
-    result['_source']['body'][0] = result['_source']['body'][0].replace('<p>', '')
-    result['_source']['body'][0] = result['_source']['body'][0].replace('</p>', '')
+    if type(result['_source']['body']) is list:
+        result['_source']['body'] = " ".join(str(x) for x in result['_source']['body'])
+
+    result['_source']['body'] = result['_source']['body'].replace('<p>', '')
+    result['_source']['body'] = result['_source']['body'].replace('</p>', '')
 
     return render_template('view.html', res=result)
 
