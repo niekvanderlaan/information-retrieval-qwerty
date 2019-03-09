@@ -65,7 +65,7 @@ railroading in general, new rail lines, new technology
 for safety, and safety and accident prevention
 are not relevant, unless an actual accident is described.
 
-<h1> teenage pregnancy </h1>
+<h2> teenage pregnancy </h2>
 
 <h4> Description: </h4>
 Find documents that discuss teenage pregnancy in the United States:
