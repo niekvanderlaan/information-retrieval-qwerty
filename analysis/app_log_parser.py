@@ -20,10 +20,15 @@ if not args.destination:
     sys.exit(1)
 
 with open(args.source) as f:
-    actions_per_query = {}
+    queries = []
+    num_clicked = 0
+    num_relevant = 0
+
+    time_of_query = False
     lines = f.readlines()
+
+    #Loop over each line
     for line in lines:
-        print(line)
         z = re.match("\d{4}\-\d{2}\-\d{2}\s(\d{2}:\d{2}:\d{2}).\d{6}:\s(\w*?\s\w*?):\s(.*?)$", line)
         if not z:
             print("No match at line: ", line)
@@ -34,10 +39,40 @@ with open(args.source) as f:
         value = groups[2]
 
         if action[0] == "Entered":
-            actions_per_query[value] = {
-                "num_relevant": 0,
-                "num_clicked": 0,
-            }
+            queries.append(value)
+
+            if not time_of_query:
+                print("first query")
+
+
+            continue
+
+
+        if action[0] == "Clicked":
+            num_clicked = num_clicked + 1
+            continue
+
+        if action[0] == "Marked":
+            if action[1] == "relevant":
+                num_relevant = num_relevant + 1
+            else:
+                num_relevant = num_relevant - 1
+
+    #End of lines
+
+    num_queries = len(queries)
+
+    with open(args.destination, "w+") as d:
+        d.write("#Queries: " + str(num_queries) + "\n")
+        d.write("#Relevant: "+ str(num_relevant) + "\n")
+        d.write("#Clicked: " + str(num_clicked) + "\n")
+
+
+
+
+
+
+
 
 
 
