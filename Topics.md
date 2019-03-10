@@ -2,20 +2,6 @@
 
 During the user study, the user will be asked to find relevant documents for the five topics listed below:
 
-<h2>International Art Crime</h2>
-
-<h4>Description:</h4>
-Isolate instances of fraud or embezzlement in the international
-art trade.
-
-<h4> Narrative: </h4>
-A relevant document is any report that identifies an instance
-of fraud or embezzlement in the international buying or selling
-of art objects.  Objects include paintings, jewelry, sculptures
-and any other valuable works of art.  Specific instances must be
-identified for a document to be relevant; generalities are not
-relevant.
-
 <h2> Black Bear Attacks </h2>
 
 <h4> Description: </h4>
@@ -65,7 +51,7 @@ railroading in general, new rail lines, new technology
 for safety, and safety and accident prevention
 are not relevant, unless an actual accident is described.
 
-<h2> teenage pregnancy </h2>
+<h2> Teenage pregnancy </h2>
 
 <h4> Description: </h4>
 Find documents that discuss teenage pregnancy in the United States:
