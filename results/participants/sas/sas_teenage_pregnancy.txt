@@ -1,0 +1,23 @@
+2019-03-09 23:51:32.988295: Entered query: birth rate for teenage mothers
+2019-03-09 23:51:48.787734: Clicked docid: gL8BXWkBNnvwcWWyT5j-
+2019-03-09 23:52:03.220049: Marked relevant: gL8BXWkBNnvwcWWyT5j-
+2019-03-09 23:52:10.361899: Clicked docid: j730XGkBNnvwcWWymGgB
+2019-03-09 23:52:23.747366: Marked relevant: j730XGkBNnvwcWWymGgB
+2019-03-09 23:52:25.016543: Marked relevant: lr30XGkBNnvwcWWymGgB
+2019-03-09 23:52:34.298304: Clicked docid: X730XGkBNnvwcWWyjWf3
+2019-03-09 23:53:05.188282: Marked relevant: X730XGkBNnvwcWWyjWf3
+2019-03-09 23:53:10.858095: Clicked docid: 9cACXWkBNnvwcWWyLBUE
+2019-03-09 23:53:53.187132: Clicked docid: hsIFXWkBNnvwcWWy6ynu
+2019-03-09 23:54:17.395596: Clicked docid: 9cADXWkBNnvwcWWyxvUY
+2019-03-09 23:55:01.585368: Marked relevant: sr8BXWkBNnvwcWWy8PFZ
+2019-03-09 23:55:20.000544: Marked relevant: BcACXWkBNnvwcWWy-IpX
+2019-03-09 23:55:27.792379: Clicked docid: k7voXGkBNnvwcWWy_sFm
+2019-03-09 23:55:44.697402: Clicked docid: Cr30XGkBNnvwcWWyjWf3
+2019-03-09 23:55:59.485389: Clicked docid: k7voXGkBNnvwcWWy_sFm
+2019-03-09 23:56:04.476370: Clicked docid: Cr30XGkBNnvwcWWyjWf3
+2019-03-09 23:56:08.645942: Marked relevant: Cr30XGkBNnvwcWWyjWf3
+2019-03-09 23:56:51.162598: Clicked docid: i8EEXWkBNnvwcWWyclOg
+2019-03-09 23:56:59.902206: Marked relevant: i8EEXWkBNnvwcWWyclOg
+2019-03-09 23:57:05.246435: Clicked docid: -bvoXGkBNnvwcWWyfqqV
+2019-03-09 23:57:58.520038: Clicked docid: b8ADXWkBNnvwcWWyn-QL
+2019-03-09 23:58:34.837013: Marked relevant: CbjcXGkBNnvwcWWykSwU

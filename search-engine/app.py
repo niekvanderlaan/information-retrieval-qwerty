@@ -26,10 +26,10 @@ def search_request():
         checked = request.values.get('checked')
         if checked=='true':
             relevant_ids.append(id)
-            app.logger.info(str(datetime.now()) + ": " + "Marked " + id + " as relevant")
+            app.logger.info(str(datetime.now()) + ": " + "Marked relevant: " + id)
         else:
             relevant_ids.remove(id)
-            app.logger.info(str(datetime.now()) + ": " + "Unmarked " + id + " as relevant")
+            app.logger.info(str(datetime.now()) + ": " + "Marked irrelevant: " + id)
         print('relevant ids: ', relevant_ids)
     else:
         search_term = request.form["input"]
@@ -81,7 +81,7 @@ def view_result(docid):
 
 if __name__ == '__main__':
     app.secret_key = 'mysecret'
-    handler = RotatingFileHandler('engine.log', maxBytes=10000, backupCount=1)
+    handler = RotatingFileHandler('edson.log', maxBytes=10000, backupCount=1)
     handler.setLevel(logging.INFO)
     app.logger.addHandler(handler)
     app.run(host='0.0.0.0', port=5000)
