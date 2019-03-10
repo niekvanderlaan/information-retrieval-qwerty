@@ -75,7 +75,7 @@ def view_result(docid):
 
     result['_source']['body'] = result['_source']['body'].replace('<p>', '')
     result['_source']['body'] = result['_source']['body'].replace('</p>', '')
-
+    app.logger.info(str(datetime.now()) + ": Clicked docid: " + docid)
     return render_template('view.html', res=result)
 
 
