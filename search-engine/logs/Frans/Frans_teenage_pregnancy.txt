@@ -1,0 +1,61 @@
+2019-03-10 17:00:44.592378: Entered query: teen pregnan
+2019-03-10 17:00:59.033648: Entered query: teen pregnancy
+2019-03-10 17:01:04.563669: Clicked docid: CLrkXGkBNnvwcWWypeZp
+2019-03-10 17:01:10.016312: Marked CLrkXGkBNnvwcWWypeZp as relevant
+2019-03-10 17:01:12.682356: Clicked docid: j7ngXGkBNnvwcWWyWJVw
+2019-03-10 17:01:16.753554: Marked j7ngXGkBNnvwcWWyWJVw as relevant
+2019-03-10 17:01:44.434917: Entered query: teen pregnancy states
+2019-03-10 17:01:51.692381: Marked sb7-XGkBNnvwcWWyHV5k as relevant
+2019-03-10 17:01:53.981087: Marked 78IGXWkBNnvwcWWyOVnn as relevant
+2019-03-10 17:01:56.606656: Marked srngXGkBNnvwcWWyU5NX as relevant
+2019-03-10 17:01:58.349974: Clicked docid: 2r4AXWkBNnvwcWWyHOVA
+2019-03-10 17:02:35.863924: Marked 2r4AXWkBNnvwcWWyHOVA as relevant
+2019-03-10 17:02:39.651790: Entered query: teen pregnancy US
+2019-03-10 17:02:44.070908: Marked LcACXWkBNnvwcWWyRyai as relevant
+2019-03-10 17:02:46.179328: Clicked docid: Cr30XGkBNnvwcWWyjWf3
+2019-03-10 17:02:51.152231: Marked Cr30XGkBNnvwcWWyjWf3 as relevant
+2019-03-10 17:02:55.493686: Marked SrngXGkBNnvwcWWyU5NX as relevant
+2019-03-10 17:02:56.865792: Marked QbngXGkBNnvwcWWyWJVw as relevant
+2019-03-10 17:02:58.395123: Marked RL8AXWkBNnvwcWWyXw7d as relevant
+2019-03-10 17:03:03.783260: Marked LbrkXGkBNnvwcWWy2_ai as relevant
+2019-03-10 17:03:05.646700: Marked BrngXGkBNnvwcWWyU5RX as relevant
+2019-03-10 17:03:09.923267: Clicked docid: w7rjXGkBNnvwcWWyzqoZ
+2019-03-10 17:03:19.010821: Marked w7rjXGkBNnvwcWWyzqoZ as relevant
+2019-03-10 17:03:30.017243: Clicked docid: X730XGkBNnvwcWWyjWf3
+2019-03-10 17:03:34.331860: Marked X730XGkBNnvwcWWyjWf3 as relevant
+2019-03-10 17:03:43.313555: Clicked docid: VrzvXGkBNnvwcWWyuMJF
+2019-03-10 17:04:35.403762: Marked VrzvXGkBNnvwcWWyuMJF as relevant
+2019-03-10 17:04:38.308871: Marked Ob8AXWkBNnvwcWWy4Ffb as relevant
+2019-03-10 17:04:43.673191: Marked c7zvXGkBNnvwcWWyuMJF as relevant
+2019-03-10 17:04:47.998222: Marked j730XGkBNnvwcWWymGgB as relevant
+2019-03-10 17:04:49.288541: Marked lr30XGkBNnvwcWWymGgB as relevant
+2019-03-10 17:04:50.974367: Marked G73yXGkBNnvwcWWy1y9K as relevant
+2019-03-10 17:04:57.261410: Marked jbzuXGkBNnvwcWWytKH4 as relevant
+2019-03-10 17:04:57.925652: Unmarked jbzuXGkBNnvwcWWytKH4 as relevant
+2019-03-10 17:04:59.794638: Clicked docid: jbzuXGkBNnvwcWWytKH4
+2019-03-10 17:05:04.139911: Marked jbzuXGkBNnvwcWWytKH4 as relevant
+2019-03-10 17:05:16.014780: Marked Hb33XGkBNnvwcWWyFro8 as relevant
+2019-03-10 17:05:17.010067: Clicked docid: Hb33XGkBNnvwcWWyFro8
+2019-03-10 17:05:23.803608: Clicked docid: 4rnfXGkBNnvwcWWyYEWu
+2019-03-10 17:05:27.201624: Marked 4rnfXGkBNnvwcWWyYEWu as relevant
+2019-03-10 17:05:34.924988: Clicked docid: H7vlXGkBNnvwcWWy-jYR
+2019-03-10 17:05:39.705701: Marked H7vlXGkBNnvwcWWy-jYR as relevant
+2019-03-10 17:05:40.826338: Clicked docid: hrzsXGkBNnvwcWWyJ0V_
+2019-03-10 17:05:46.557186: Clicked docid: k7voXGkBNnvwcWWy_sFm
+2019-03-10 17:05:52.203831: Marked hrzsXGkBNnvwcWWyJ0V_ as relevant
+2019-03-10 17:05:53.270365: Marked k7voXGkBNnvwcWWy_sFm as relevant
+2019-03-10 17:05:57.891347: Marked zrvlXGkBNnvwcWWy8TQy as relevant
+2019-03-10 17:06:03.427347: Marked 8rzrXGkBNnvwcWWyxDQq as relevant
+2019-03-10 17:06:05.959233: Clicked docid: 8rzrXGkBNnvwcWWyxDQq
+2019-03-10 17:06:22.466592: Marked Eb7-XGkBNnvwcWWyRWcA as relevant
+2019-03-10 17:06:24.374422: Unmarked Eb7-XGkBNnvwcWWyRWcA as relevant
+2019-03-10 17:06:30.690067: Clicked docid: Eb7-XGkBNnvwcWWyRWcA
+2019-03-10 17:06:44.348187: Marked Eb7-XGkBNnvwcWWyRWcA as relevant
+2019-03-10 17:06:47.223966: Marked e78AXWkBNnvwcWWy4Ffb as relevant
+2019-03-10 17:06:51.938817: Clicked docid: 57zuXGkBNnvwcWWytKD4
+2019-03-10 17:07:03.518875: Marked 57zuXGkBNnvwcWWytKD4 as relevant
+2019-03-10 17:07:05.216705: Clicked docid: D7zuXGkBNnvwcWWytKH4
+2019-03-10 17:07:13.013844: Marked D7zuXGkBNnvwcWWytKH4 as relevant
+2019-03-10 17:07:16.686648: Marked sLriXGkBNnvwcWWyBxsR as relevant
+2019-03-10 17:07:17.779446: Clicked docid: qL30XGkBNnvwcWWyjWb3
+2019-03-10 17:07:36.006853: Marked _cQKXWkBNnvwcWWySaFC as relevant
