@@ -1,0 +1,33 @@
+2019-03-10 19:42:18.983690: Entered query: Teenage pregnancy united states
+2019-03-10 19:42:22.267224: Clicked docid: RL8AXWkBNnvwcWWyXw7d
+2019-03-10 19:42:38.295367: Marked relevant: RL8AXWkBNnvwcWWyXw7d
+2019-03-10 19:42:42.370900: Clicked docid: LcACXWkBNnvwcWWyRyai
+2019-03-10 19:43:18.778852: Marked relevant: LcACXWkBNnvwcWWyRyai
+2019-03-10 19:43:27.228713: Clicked docid: e78AXWkBNnvwcWWy4Ffb
+2019-03-10 19:43:54.928439: Marked relevant: e78AXWkBNnvwcWWy4Ffb
+2019-03-10 19:44:00.103966: Clicked docid: JLnfXGkBNnvwcWWyIjNn
+2019-03-10 19:44:14.403503: Clicked docid: sb7-XGkBNnvwcWWyHV5k
+2019-03-10 19:44:29.358694: Marked relevant: sb7-XGkBNnvwcWWyHV5k
+2019-03-10 19:44:37.266631: Clicked docid: 2rriXGkBNnvwcWWyulLJ
+2019-03-10 19:44:45.124439: Marked relevant: 2rriXGkBNnvwcWWyulLJ
+2019-03-10 19:45:05.088010: Entered query: Teenage pregnancy birth rate
+2019-03-10 19:45:18.170329: Entered query: Teenage pregnancy birth rate america
+2019-03-10 19:45:34.784547: Clicked docid: LbrkXGkBNnvwcWWy2_ai
+2019-03-10 19:45:51.261726: Marked relevant: LbrkXGkBNnvwcWWy2_ai
+2019-03-10 19:45:57.806535: Clicked docid: srngXGkBNnvwcWWyU5NX
+2019-03-10 19:46:12.705810: Entered query: Teenage pregnancy prevent america
+2019-03-10 19:46:19.080715: Clicked docid: XL8BXWkBNnvwcWWyDXMF
+2019-03-10 19:46:28.049702: Marked relevant: XL8BXWkBNnvwcWWyDXMF
+2019-03-10 19:46:38.196246: Entered query: Teenage pregnancy prevent US
+2019-03-10 19:46:52.322372: Entered query: teen pregnancy prevent US
+2019-03-10 19:46:57.276711: Clicked docid: 2r4AXWkBNnvwcWWyHOVA
+2019-03-10 19:47:19.601619: Marked relevant: 2r4AXWkBNnvwcWWyHOVA
+2019-03-10 19:47:23.086881: Clicked docid: j7ngXGkBNnvwcWWyWJVw
+2019-03-10 19:47:28.330954: Clicked docid: j730XGkBNnvwcWWymGgB
+2019-03-10 19:47:40.696904: Clicked docid: QbngXGkBNnvwcWWyWJVw
+2019-03-10 19:47:48.457063: Marked relevant: QbngXGkBNnvwcWWyWJVw
+2019-03-10 19:47:52.043691: Clicked docid: y7ngXGkBNnvwcWWywbcr
+2019-03-10 19:48:19.388697: Clicked docid: Ob8AXWkBNnvwcWWy4Ffb
+2019-03-10 19:48:25.297284: Entered query: teen pregnancy cause
+2019-03-10 19:48:27.751753: Entered query: teen pregnancy cause US
+2019-03-10 19:49:03.466283: Clicked docid: Eb7-XGkBNnvwcWWyRWcA
