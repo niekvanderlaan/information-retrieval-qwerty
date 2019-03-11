@@ -10,7 +10,7 @@
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 12:51:48 2019] t
 
-[Window: Search Engine - Google Chrome - at Mon Mar 11 12:51:48 2019]  
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:51:48 2019]
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 12:51:48 2019] [BACKSPACE]
 
@@ -22,7 +22,7 @@
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 12:51:49 2019] h
 
-[Window: Search Engine - Google Chrome - at Mon Mar 11 12:51:49 2019]  
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:51:49 2019]
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 12:51:49 2019] r
 
@@ -32,7 +32,7 @@
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 12:51:50 2019] e
 
-[Window: Search Engine - Google Chrome - at Mon Mar 11 12:51:50 2019]  
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:51:50 2019]
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 12:51:50 2019] t
 
@@ -52,7 +52,7 @@
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 12:51:52 2019] e
 
-[Window: Search Engine - Google Chrome - at Mon Mar 11 12:51:52 2019]  
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:51:52 2019]
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 12:51:52 2019] m
 
@@ -66,7 +66,7 @@
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 12:51:53 2019] r
 
-[Window: Search Engine - Google Chrome - at Mon Mar 11 12:51:54 2019]  
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:51:54 2019]
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 12:51:54 2019] [SHIFT]
 
@@ -76,7 +76,7 @@
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 12:51:54 2019] [ENTER]
 
-[Window: Search Engine - Google Chrome - at Mon Mar 11 12:53:02 2019]  
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:53:02 2019]
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 12:53:04 2019] 2
 
@@ -120,7 +120,7 @@
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 12:54:03 2019] [BACKSPACE]
 
-[Window: Search Engine - Google Chrome - at Mon Mar 11 12:54:03 2019]  
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:54:03 2019]
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 12:54:03 2019] [SHIFT]
 
@@ -128,7 +128,7 @@
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 12:54:03 2019] S
 
-[Window: Search Engine - Google Chrome - at Mon Mar 11 12:54:03 2019]  
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:54:03 2019]
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 12:54:04 2019] [ENTER]
 
@@ -136,7 +136,7 @@
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 12:54:14 2019] [BACKSPACE]
 
-[Window: Search Engine - Google Chrome - at Mon Mar 11 12:54:15 2019]  
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:54:15 2019]
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 12:54:15 2019] i
 
@@ -148,7 +148,7 @@
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 12:54:16 2019] n
 
-[Window: Search Engine - Google Chrome - at Mon Mar 11 12:54:16 2019]  
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:54:16 2019]
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 12:54:16 2019] t
 
@@ -166,7 +166,7 @@
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 12:54:18 2019] n
 
-[Window: Search Engine - Google Chrome - at Mon Mar 11 12:54:18 2019]  
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:54:18 2019]
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 12:54:18 2019] t
 
@@ -176,7 +176,7 @@
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 12:54:19 2019] n
 
-[Window: Search Engine - Google Chrome - at Mon Mar 11 12:54:19 2019]  
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:54:19 2019]
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 12:54:19 2019] m
 
@@ -186,7 +186,7 @@
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 12:54:19 2019] s
 
-[Window: Search Engine - Google Chrome - at Mon Mar 11 12:54:20 2019]  
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:54:20 2019]
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 12:54:20 2019] [ENTER]
 
@@ -206,7 +206,7 @@
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 12:54:59 2019] e
 
-[Window: Search Engine - Google Chrome - at Mon Mar 11 12:54:59 2019]  
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:54:59 2019]
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 12:55:00 2019] [BACKSPACE]
 
@@ -216,7 +216,7 @@
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 12:55:00 2019] e
 
-[Window: Search Engine - Google Chrome - at Mon Mar 11 12:55:00 2019]  
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:55:00 2019]
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 12:55:01 2019] t
 
@@ -226,7 +226,7 @@
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 12:55:01 2019] n
 
-[Window: Search Engine - Google Chrome - at Mon Mar 11 12:55:01 2019]  
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:55:01 2019]
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 12:55:01 2019] m
 
@@ -234,7 +234,7 @@
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 12:55:01 2019] m
 
-[Window: Search Engine - Google Chrome - at Mon Mar 11 12:55:02 2019]  
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:55:02 2019]
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 12:55:06 2019]  
 
@@ -260,7 +260,7 @@
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 12:55:24 2019] e
 
-[Window: Search Engine - Google Chrome - at Mon Mar 11 12:55:24 2019]  
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:55:24 2019]
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 12:55:24 2019] [BACKSPACE]
 
@@ -278,7 +278,7 @@
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 12:55:25 2019] e
 
-[Window: Search Engine - Google Chrome - at Mon Mar 11 12:55:26 2019]  
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:55:26 2019]
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 12:55:26 2019] s
 
@@ -288,7 +288,7 @@
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 12:55:26 2019] s
 
-[Window: Search Engine - Google Chrome - at Mon Mar 11 12:55:26 2019]  
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:55:26 2019]
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 12:55:26 2019] t
 
@@ -304,7 +304,7 @@
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 12:55:27 2019] e
 
-[Window: Search Engine - Google Chrome - at Mon Mar 11 12:55:27 2019]  
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:55:27 2019]
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 12:55:27 2019] p
 
@@ -346,7 +346,7 @@
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 12:55:31 2019] [ENTER]
 
-[Window: Search Engine - Google Chrome - at Mon Mar 11 12:55:34 2019]  
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:55:34 2019]
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 12:55:34 2019] [SHIFT]
 
@@ -376,7 +376,7 @@
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 12:56:01 2019] s
 
-[Window: Search Engine - Google Chrome - at Mon Mar 11 12:56:01 2019]  
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:56:01 2019]
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 12:56:01 2019] t
 
@@ -396,7 +396,7 @@
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 12:56:03 2019] e
 
-[Window: Search Engine - Google Chrome - at Mon Mar 11 12:56:03 2019]  
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:56:03 2019]
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 12:56:03 2019] p
 
@@ -442,7 +442,7 @@
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 12:56:57 2019] n
 
-[Window: Search Engine - Google Chrome - at Mon Mar 11 12:56:57 2019]  
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:56:57 2019]
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 12:56:57 2019] p
 
@@ -470,7 +470,7 @@
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 12:56:59 2019] y
 
-[Window: Search Engine - Google Chrome - at Mon Mar 11 12:56:59 2019]  
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:56:59 2019]
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 12:56:59 2019] [SHIFT]
 
@@ -478,7 +478,7 @@
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 12:56:59 2019] S
 
-[Window: Search Engine - Google Chrome - at Mon Mar 11 12:56:59 2019]  
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:56:59 2019]
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 12:57:00 2019] [ENTER]
 
@@ -518,13 +518,13 @@
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 13:00:14 2019] t
 
-[Window: Search Engine - Google Chrome - at Mon Mar 11 13:00:14 2019]  
+[Window: Search Engine - Google Chrome - at Mon Mar 11 13:00:14 2019]
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 13:00:15 2019] [BACKSPACE]
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 13:00:15 2019] s
 
-[Window: Search Engine - Google Chrome - at Mon Mar 11 13:00:15 2019]  
+[Window: Search Engine - Google Chrome - at Mon Mar 11 13:00:15 2019]
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 13:00:16 2019] e
 
@@ -582,7 +582,7 @@
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 13:00:23 2019] n
 
-[Window: Search Engine - Google Chrome - at Mon Mar 11 13:00:23 2019]  
+[Window: Search Engine - Google Chrome - at Mon Mar 11 13:00:23 2019]
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 13:00:23 2019] w
 
@@ -600,7 +600,7 @@
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 13:00:25 2019] e
 
-[Window: Search Engine - Google Chrome - at Mon Mar 11 13:00:25 2019]  
+[Window: Search Engine - Google Chrome - at Mon Mar 11 13:00:25 2019]
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 13:00:25 2019] e
 
@@ -646,7 +646,7 @@
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 13:00:29 2019] n
 
-[Window: Search Engine - Google Chrome - at Mon Mar 11 13:00:29 2019]  
+[Window: Search Engine - Google Chrome - at Mon Mar 11 13:00:29 2019]
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 13:00:29 2019] [ENTER]
 
@@ -694,7 +694,7 @@
 
 [Window: New Tab - Google Chrome - at Mon Mar 11 13:01:52 2019] n
 
-[Window: New Tab - Google Chrome - at Mon Mar 11 13:01:52 2019]  
+[Window: New Tab - Google Chrome - at Mon Mar 11 13:01:52 2019]
 
 [Window: New Tab - Google Chrome - at Mon Mar 11 13:01:52 2019] e
 
@@ -750,7 +750,7 @@
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 13:01:59 2019] s
 
-[Window: Search Engine - Google Chrome - at Mon Mar 11 13:01:59 2019]  
+[Window: Search Engine - Google Chrome - at Mon Mar 11 13:01:59 2019]
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 13:02:00 2019] w
 
@@ -762,7 +762,7 @@
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 13:02:00 2019] e
 
-[Window: Search Engine - Google Chrome - at Mon Mar 11 13:02:00 2019]  
+[Window: Search Engine - Google Chrome - at Mon Mar 11 13:02:00 2019]
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 13:02:01 2019] [BACKSPACE]
 
@@ -776,7 +776,7 @@
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 13:02:02 2019] e
 
-[Window: Search Engine - Google Chrome - at Mon Mar 11 13:02:02 2019]  
+[Window: Search Engine - Google Chrome - at Mon Mar 11 13:02:02 2019]
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 13:02:02 2019] e
 
@@ -814,7 +814,7 @@
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 13:04:07 2019] p
 
-[Window: Search Engine - Google Chrome - at Mon Mar 11 13:04:08 2019]  
+[Window: Search Engine - Google Chrome - at Mon Mar 11 13:04:08 2019]
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 13:04:08 2019] w
 
@@ -854,7 +854,7 @@
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 13:04:40 2019] t
 
-[Window: Search Engine - Google Chrome - at Mon Mar 11 13:04:40 2019]  
+[Window: Search Engine - Google Chrome - at Mon Mar 11 13:04:40 2019]
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 13:04:40 2019] [BACKSPACE]
 
@@ -864,7 +864,7 @@
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 13:04:41 2019] n
 
-[Window: Search Engine - Google Chrome - at Mon Mar 11 13:04:41 2019]  
+[Window: Search Engine - Google Chrome - at Mon Mar 11 13:04:41 2019]
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 13:04:41 2019] w
 
@@ -898,7 +898,7 @@
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 13:04:44 2019] n
 
-[Window: Search Engine - Google Chrome - at Mon Mar 11 13:04:44 2019]  
+[Window: Search Engine - Google Chrome - at Mon Mar 11 13:04:44 2019]
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 13:04:44 2019] [BACKSPACE]
 
@@ -912,7 +912,7 @@
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 13:04:45 2019] n
 
-[Window: Search Engine - Google Chrome - at Mon Mar 11 13:04:46 2019]  
+[Window: Search Engine - Google Chrome - at Mon Mar 11 13:04:46 2019]
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 13:04:46 2019] a
 
@@ -936,7 +936,7 @@
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 13:04:48 2019] n
 
-[Window: Search Engine - Google Chrome - at Mon Mar 11 13:04:48 2019]  
+[Window: Search Engine - Google Chrome - at Mon Mar 11 13:04:48 2019]
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 13:04:49 2019] [BACKSPACE]
 
@@ -956,7 +956,7 @@
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 13:04:51 2019] n
 
-[Window: Search Engine - Google Chrome - at Mon Mar 11 13:04:51 2019]  
+[Window: Search Engine - Google Chrome - at Mon Mar 11 13:04:51 2019]
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 13:04:52 2019] [BACKSPACE]
 
@@ -982,7 +982,7 @@
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 13:04:54 2019] n
 
-[Window: Search Engine - Google Chrome - at Mon Mar 11 13:04:54 2019]  
+[Window: Search Engine - Google Chrome - at Mon Mar 11 13:04:54 2019]
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 13:04:54 2019] w
 
@@ -1000,7 +1000,7 @@
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 13:04:55 2019] e
 
-[Window: Search Engine - Google Chrome - at Mon Mar 11 13:04:55 2019]  
+[Window: Search Engine - Google Chrome - at Mon Mar 11 13:04:55 2019]
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 13:04:55 2019] [BACKSPACE]
 
@@ -1036,7 +1036,7 @@
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 13:04:57 2019] [ENTER]
 
-[Window: Search Engine - Google Chrome - at Mon Mar 11 13:05:05 2019]  
+[Window: Search Engine - Google Chrome - at Mon Mar 11 13:05:05 2019]
 
 [Window: Search Engine - Google Chrome - at Mon Mar 11 13:05:05 2019] g
 
