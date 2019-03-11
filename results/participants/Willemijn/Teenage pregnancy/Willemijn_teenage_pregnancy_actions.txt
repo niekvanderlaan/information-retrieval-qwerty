@@ -1,0 +1,30 @@
+2019-03-11 12:51:55.195412: Entered query: birth rate teenage mother US
+2019-03-11 12:52:13.990025: Clicked docid: RL8AXWkBNnvwcWWyXw7d
+2019-03-11 12:52:32.930138: Marked relevant: RL8AXWkBNnvwcWWyXw7d
+2019-03-11 12:52:34.123979: Clicked docid: j730XGkBNnvwcWWymGgB
+2019-03-11 12:52:54.940713: Marked relevant: lr30XGkBNnvwcWWymGgB
+2019-03-11 12:53:06.493283: Entered query: birth rate teenage mother US 20`9
+2019-03-11 12:53:16.162553: Entered query: birth rate teenage mother US 2019
+2019-03-11 12:53:22.951385: Clicked docid: LcACXWkBNnvwcWWyRyai
+2019-03-11 12:53:57.878693: Marked relevant: LcACXWkBNnvwcWWyRyai
+2019-03-11 12:54:05.105393: Entered query: aborth US
+2019-03-11 12:54:20.749262: Entered query: abortion teen moms US
+2019-03-11 12:54:26.150078: Clicked docid: j730XGkBNnvwcWWymGgB
+2019-03-11 12:54:42.730592: Clicked docid: 57nhXGkBNnvwcWWyAMw7
+2019-03-11 12:55:08.072957: Entered query: reduction teen mom
+2019-03-11 12:55:10.047920: Entered query: reduction teen mom
+2019-03-11 12:55:31.831935: Entered query: causes teenage pregnancy
+2019-03-11 12:55:35.184115: Entered query: causes teenage pregnancy US
+2019-03-11 12:55:36.939681: Entered query: causes teenage pregnancy US
+2019-03-11 12:56:05.581832: Entered query: results teenage pregnancy
+2019-03-11 12:56:14.313180: Clicked docid: e78AXWkBNnvwcWWy4Ffb
+2019-03-11 12:56:43.221560: Marked relevant: e78AXWkBNnvwcWWy4Ffb
+2019-03-11 12:57:00.487534: Entered query: teen pregnancy US
+2019-03-11 12:57:06.843544: Clicked docid: j7ngXGkBNnvwcWWyWJVw
+2019-03-11 12:57:27.407740: Marked relevant: j7ngXGkBNnvwcWWyWJVw
+2019-03-11 12:57:28.894854: Clicked docid: QbngXGkBNnvwcWWyWJVw
+2019-03-11 12:57:39.626270: Marked relevant: QbngXGkBNnvwcWWyWJVw
+2019-03-11 12:57:45.605842: Entered query: teen pregnancy statistics
+2019-03-11 12:57:53.861872: Clicked docid: LbrkXGkBNnvwcWWy2_ai
+2019-03-11 12:58:11.359243: Marked relevant: LbrkXGkBNnvwcWWy2_ai
+2019-03-11 12:58:13.723843: Clicked docid: jbzuXGkBNnvwcWWytKH4

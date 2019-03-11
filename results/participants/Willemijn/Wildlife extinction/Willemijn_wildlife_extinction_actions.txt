@@ -1,0 +1,25 @@
+2019-03-11 13:00:30.347431: Entered query: prevention wildlife extinction
+2019-03-11 13:00:37.268327: Clicked docid: 078BXWkBNnvwcWWyU5r1
+2019-03-11 13:01:10.617667: Entered query: prevent wildlife extinction git s
+2019-03-11 13:01:21.487385: Clicked docid: VLjdXGkBNnvwcWWyvKBa
+2019-03-11 13:02:04.440183: Entered query: measures wildlife extinction
+2019-03-11 13:02:11.181497: Clicked docid: B8ACXWkBNnvwcWWyhErS
+2019-03-11 13:02:26.973891: Marked relevant: B8ACXWkBNnvwcWWyhErS
+2019-03-11 13:02:36.358436: Clicked docid: N78BXWkBNnvwcWWy2-hy
+2019-03-11 13:03:00.689558: Marked relevant: N78BXWkBNnvwcWWy2-hy
+2019-03-11 13:03:16.432748: Clicked docid: QsEFXWkBNnvwcWWyCqeA
+2019-03-11 13:03:46.545109: Clicked docid: m7neXGkBNnvwcWWyqAbF
+2019-03-11 13:03:59.090136: Marked relevant: m7neXGkBNnvwcWWyqAbF
+2019-03-11 13:04:10.777989: Entered query: help wildlife
+2019-03-11 13:04:16.941371: Clicked docid: 9sULXWkBNnvwcWWy134J
+2019-03-11 13:04:58.077659: Entered query: prevention extinction animals
+2019-03-11 13:05:07.197413: Entered query: prevention extinction animals government
+2019-03-11 13:05:12.106308: Clicked docid: 278AXWkBNnvwcWWy0E3p
+2019-03-11 13:05:36.319914: Entered query: extinction animals government
+2019-03-11 13:05:41.876615: Clicked docid: hcACXWkBNnvwcWWyQyOT
+2019-03-11 13:05:56.923523: Clicked docid: XsEFXWkBNnvwcWWylPZ3
+2019-03-11 13:06:06.640426: Marked relevant: XsEFXWkBNnvwcWWylPZ3
+2019-03-11 13:06:17.924187: Clicked docid: CsMJXWkBNnvwcWWyAui4
+2019-03-11 13:06:37.793949: Marked relevant: CsMJXWkBNnvwcWWyAui4
+2019-03-11 13:06:42.077647: Clicked docid: CcULXWkBNnvwcWWyFBAI
+2019-03-11 13:07:09.738501: Marked relevant: CcULXWkBNnvwcWWyFBAI
