@@ -1,31 +1,31 @@
 2019-03-10 16:51:47.781865: Entered query: saving wildlife efforts europe
-2019-03-10 16:51:59.868889: Marked gr8BXWkBNnvwcWWyxdt_ as relevant
-2019-03-10 16:52:01.810950: Marked 0cQKXWkBNnvwcWWyQZ1O as relevant
-2019-03-10 16:52:11.466108: Marked UrrjXGkBNnvwcWWyzqoZ as relevant
-2019-03-10 16:52:22.851956: Marked ab8BXWkBNnvwcWWyVZtu as relevant
+2019-03-10 16:51:59.868889: Marked relevant: gr8BXWkBNnvwcWWyxdt_
+2019-03-10 16:52:01.810950: Marked relevant: 0cQKXWkBNnvwcWWyQZ1O
+2019-03-10 16:52:11.466108: Marked relevant: UrrjXGkBNnvwcWWyzqoZ
+2019-03-10 16:52:22.851956: Marked relevant: ab8BXWkBNnvwcWWyVZtu
 2019-03-10 16:52:45.557097: Entered query: save wildlife
-2019-03-10 16:52:52.471029: Marked c8QJXWkBNnvwcWWynjlG as relevant
-2019-03-10 16:52:54.738481: Marked B8EEXWkBNnvwcWWyxn89 as relevant
-2019-03-10 16:53:06.115197: Marked VLjdXGkBNnvwcWWyvKBa as relevant
+2019-03-10 16:52:52.471029: Marked relevant: c8QJXWkBNnvwcWWynjlG
+2019-03-10 16:52:54.738481: Marked relevant: B8EEXWkBNnvwcWWyxn89
+2019-03-10 16:53:06.115197: Marked relevant: VLjdXGkBNnvwcWWyvKBa
 2019-03-10 16:53:56.566517: Entered query: save wild animal
-2019-03-10 16:54:04.256027: Marked msULXWkBNnvwcWWy_pbc as relevant
+2019-03-10 16:54:04.256027: Marked relevant: msULXWkBNnvwcWWy_pbc
 2019-03-10 16:54:47.441040: Entered query: elephant
 2019-03-10 16:54:57.071194: Entered query: elephant save
 2019-03-10 16:54:57.222196: Entered query: elephant save
 2019-03-10 16:55:07.861438: Entered query: elephant protect
-2019-03-10 16:55:11.221061: Marked ucUMXWkBNnvwcWWyPbz_ as relevant
+2019-03-10 16:55:11.221061: Marked relevant: ucUMXWkBNnvwcWWyPbz_
 2019-03-10 16:55:31.756916: Entered query: protect animal
 2019-03-10 16:55:53.678990: Entered query: protect wild animal
-2019-03-10 16:55:57.840879: Marked JMIGXWkBNnvwcWWyfH-Y as relevant
-2019-03-10 16:56:05.988275: Marked gMULXWkBNnvwcWWyhVHG as relevant
-2019-03-10 16:56:13.412783: Marked csEEXWkBNnvwcWWyo2u5 as relevant
-2019-03-10 16:56:27.455385: Marked OsEEXWkBNnvwcWWy1YeV as relevant
-2019-03-10 16:56:31.574818: Marked 88ACXWkBNnvwcWWyHg0B as relevant
-2019-03-10 16:56:47.581206: Marked C8IGXWkBNnvwcWWyIksi as relevant
-2019-03-10 16:56:51.679415: Marked Kr8BXWkBNnvwcWWyvtfH as relevant
-2019-03-10 16:57:15.298866: Marked 08QKXWkBNnvwcWWysts5 as relevant
-2019-03-10 16:57:31.868598: Marked EcIGXWkBNnvwcWWyHUgl as relevant
-2019-03-10 16:57:38.725059: Marked GMIHXWkBNnvwcWWyAcyH as relevant
+2019-03-10 16:55:57.840879: Marked relevant: JMIGXWkBNnvwcWWyfH-Y
+2019-03-10 16:56:05.988275: Marked relevant: gMULXWkBNnvwcWWyhVHG
+2019-03-10 16:56:13.412783: Marked relevant: csEEXWkBNnvwcWWyo2u5
+2019-03-10 16:56:27.455385: Marked relevant: OsEEXWkBNnvwcWWy1YeV
+2019-03-10 16:56:31.574818: Marked relevant: 88ACXWkBNnvwcWWyHg0B
+2019-03-10 16:56:47.581206: Marked relevant: C8IGXWkBNnvwcWWyIksi
+2019-03-10 16:56:51.679415: Marked relevant: Kr8BXWkBNnvwcWWyvtfH
+2019-03-10 16:57:15.298866: Marked relevant: 08QKXWkBNnvwcWWysts5
+2019-03-10 16:57:31.868598: Marked relevant: EcIGXWkBNnvwcWWyHUgl
+2019-03-10 16:57:38.725059: Marked relevant: GMIHXWkBNnvwcWWyAcyH
 2019-03-10 16:57:56.452937: Clicked docid: X8EFXWkBNnvwcWWyCqeA
 2019-03-10 16:58:20.394057: Clicked docid: ksQKXWkBNnvwcWWyiMOt
 2019-03-10 16:58:39.337740: Clicked docid: ksQKXWkBNnvwcWWyiMOt
@@ -33,64 +33,64 @@
 2019-03-10 17:00:44.592378: Entered query: teen pregnan
 2019-03-10 17:00:59.033648: Entered query: teen pregnancy
 2019-03-10 17:01:04.563669: Clicked docid: CLrkXGkBNnvwcWWypeZp
-2019-03-10 17:01:10.016312: Marked CLrkXGkBNnvwcWWypeZp as relevant
+2019-03-10 17:01:10.016312: Marked relevant: CLrkXGkBNnvwcWWypeZp
 2019-03-10 17:01:12.682356: Clicked docid: j7ngXGkBNnvwcWWyWJVw
-2019-03-10 17:01:16.753554: Marked j7ngXGkBNnvwcWWyWJVw as relevant
+2019-03-10 17:01:16.753554: Marked relevant: j7ngXGkBNnvwcWWyWJVw
 2019-03-10 17:01:44.434917: Entered query: teen pregnancy states
-2019-03-10 17:01:51.692381: Marked sb7-XGkBNnvwcWWyHV5k as relevant
-2019-03-10 17:01:53.981087: Marked 78IGXWkBNnvwcWWyOVnn as relevant
-2019-03-10 17:01:56.606656: Marked srngXGkBNnvwcWWyU5NX as relevant
+2019-03-10 17:01:51.692381: Marked relevant: sb7-XGkBNnvwcWWyHV5k
+2019-03-10 17:01:53.981087: Marked relevant: 78IGXWkBNnvwcWWyOVnn
+2019-03-10 17:01:56.606656: Marked relevant: srngXGkBNnvwcWWyU5NX
 2019-03-10 17:01:58.349974: Clicked docid: 2r4AXWkBNnvwcWWyHOVA
-2019-03-10 17:02:35.863924: Marked 2r4AXWkBNnvwcWWyHOVA as relevant
+2019-03-10 17:02:35.863924: Marked relevant: 2r4AXWkBNnvwcWWyHOVA
 2019-03-10 17:02:39.651790: Entered query: teen pregnancy US
-2019-03-10 17:02:44.070908: Marked LcACXWkBNnvwcWWyRyai as relevant
+2019-03-10 17:02:44.070908: Marked relevant: LcACXWkBNnvwcWWyRyai
 2019-03-10 17:02:46.179328: Clicked docid: Cr30XGkBNnvwcWWyjWf3
-2019-03-10 17:02:51.152231: Marked Cr30XGkBNnvwcWWyjWf3 as relevant
-2019-03-10 17:02:55.493686: Marked SrngXGkBNnvwcWWyU5NX as relevant
-2019-03-10 17:02:56.865792: Marked QbngXGkBNnvwcWWyWJVw as relevant
-2019-03-10 17:02:58.395123: Marked RL8AXWkBNnvwcWWyXw7d as relevant
-2019-03-10 17:03:03.783260: Marked LbrkXGkBNnvwcWWy2_ai as relevant
-2019-03-10 17:03:05.646700: Marked BrngXGkBNnvwcWWyU5RX as relevant
+2019-03-10 17:02:51.152231: Marked relevant: Cr30XGkBNnvwcWWyjWf3
+2019-03-10 17:02:55.493686: Marked relevant: SrngXGkBNnvwcWWyU5NX
+2019-03-10 17:02:56.865792: Marked relevant: QbngXGkBNnvwcWWyWJVw
+2019-03-10 17:02:58.395123: Marked relevant: RL8AXWkBNnvwcWWyXw7d
+2019-03-10 17:03:03.783260: Marked relevant: LbrkXGkBNnvwcWWy2_ai
+2019-03-10 17:03:05.646700: Marked relevant: BrngXGkBNnvwcWWyU5RX
 2019-03-10 17:03:09.923267: Clicked docid: w7rjXGkBNnvwcWWyzqoZ
-2019-03-10 17:03:19.010821: Marked w7rjXGkBNnvwcWWyzqoZ as relevant
+2019-03-10 17:03:19.010821: Marked relevant: w7rjXGkBNnvwcWWyzqoZ
 2019-03-10 17:03:30.017243: Clicked docid: X730XGkBNnvwcWWyjWf3
-2019-03-10 17:03:34.331860: Marked X730XGkBNnvwcWWyjWf3 as relevant
+2019-03-10 17:03:34.331860: Marked relevant: X730XGkBNnvwcWWyjWf3
 2019-03-10 17:03:43.313555: Clicked docid: VrzvXGkBNnvwcWWyuMJF
-2019-03-10 17:04:35.403762: Marked VrzvXGkBNnvwcWWyuMJF as relevant
-2019-03-10 17:04:38.308871: Marked Ob8AXWkBNnvwcWWy4Ffb as relevant
-2019-03-10 17:04:43.673191: Marked c7zvXGkBNnvwcWWyuMJF as relevant
-2019-03-10 17:04:47.998222: Marked j730XGkBNnvwcWWymGgB as relevant
-2019-03-10 17:04:49.288541: Marked lr30XGkBNnvwcWWymGgB as relevant
-2019-03-10 17:04:50.974367: Marked G73yXGkBNnvwcWWy1y9K as relevant
-2019-03-10 17:04:57.261410: Marked jbzuXGkBNnvwcWWytKH4 as relevant
-2019-03-10 17:04:57.925652: Unmarked jbzuXGkBNnvwcWWytKH4 as relevant
+2019-03-10 17:04:35.403762: Marked relevant: VrzvXGkBNnvwcWWyuMJF
+2019-03-10 17:04:38.308871: Marked relevant: Ob8AXWkBNnvwcWWy4Ffb
+2019-03-10 17:04:43.673191: Marked relevant: c7zvXGkBNnvwcWWyuMJF
+2019-03-10 17:04:47.998222: Marked relevant: j730XGkBNnvwcWWymGgB
+2019-03-10 17:04:49.288541: Marked relevant: lr30XGkBNnvwcWWymGgB
+2019-03-10 17:04:50.974367: Marked relevant: G73yXGkBNnvwcWWy1y9K
+2019-03-10 17:04:57.261410: Marked relevant: jbzuXGkBNnvwcWWytKH4
+2019-03-10 17:04:57.925652: Marked unrelevant: jbzuXGkBNnvwcWWytKH4
 2019-03-10 17:04:59.794638: Clicked docid: jbzuXGkBNnvwcWWytKH4
-2019-03-10 17:05:04.139911: Marked jbzuXGkBNnvwcWWytKH4 as relevant
-2019-03-10 17:05:16.014780: Marked Hb33XGkBNnvwcWWyFro8 as relevant
+2019-03-10 17:05:04.139911: Marked relevant: jbzuXGkBNnvwcWWytKH4
+2019-03-10 17:05:16.014780: Marked relevant: Hb33XGkBNnvwcWWyFro8
 2019-03-10 17:05:17.010067: Clicked docid: Hb33XGkBNnvwcWWyFro8
 2019-03-10 17:05:23.803608: Clicked docid: 4rnfXGkBNnvwcWWyYEWu
-2019-03-10 17:05:27.201624: Marked 4rnfXGkBNnvwcWWyYEWu as relevant
+2019-03-10 17:05:27.201624: Marked relevant: 4rnfXGkBNnvwcWWyYEWu
 2019-03-10 17:05:34.924988: Clicked docid: H7vlXGkBNnvwcWWy-jYR
-2019-03-10 17:05:39.705701: Marked H7vlXGkBNnvwcWWy-jYR as relevant
+2019-03-10 17:05:39.705701: Marked relevant: H7vlXGkBNnvwcWWy-jYR
 2019-03-10 17:05:40.826338: Clicked docid: hrzsXGkBNnvwcWWyJ0V_
 2019-03-10 17:05:46.557186: Clicked docid: k7voXGkBNnvwcWWy_sFm
-2019-03-10 17:05:52.203831: Marked hrzsXGkBNnvwcWWyJ0V_ as relevant
-2019-03-10 17:05:53.270365: Marked k7voXGkBNnvwcWWy_sFm as relevant
-2019-03-10 17:05:57.891347: Marked zrvlXGkBNnvwcWWy8TQy as relevant
-2019-03-10 17:06:03.427347: Marked 8rzrXGkBNnvwcWWyxDQq as relevant
+2019-03-10 17:05:52.203831: Marked relevant: hrzsXGkBNnvwcWWyJ0V_
+2019-03-10 17:05:53.270365: Marked relevant: k7voXGkBNnvwcWWy_sFm
+2019-03-10 17:05:57.891347: Marked relevant: zrvlXGkBNnvwcWWy8TQy
+2019-03-10 17:06:03.427347: Marked relevant: 8rzrXGkBNnvwcWWyxDQq
 2019-03-10 17:06:05.959233: Clicked docid: 8rzrXGkBNnvwcWWyxDQq
-2019-03-10 17:06:22.466592: Marked Eb7-XGkBNnvwcWWyRWcA as relevant
-2019-03-10 17:06:24.374422: Unmarked Eb7-XGkBNnvwcWWyRWcA as relevant
+2019-03-10 17:06:22.466592: Marked relevant: Eb7-XGkBNnvwcWWyRWcA
+2019-03-10 17:06:24.374422: Marked unrelevant: Eb7-XGkBNnvwcWWyRWcA
 2019-03-10 17:06:30.690067: Clicked docid: Eb7-XGkBNnvwcWWyRWcA
-2019-03-10 17:06:44.348187: Marked Eb7-XGkBNnvwcWWyRWcA as relevant
-2019-03-10 17:06:47.223966: Marked e78AXWkBNnvwcWWy4Ffb as relevant
+2019-03-10 17:06:44.348187: Marked relevant: Eb7-XGkBNnvwcWWyRWcA
+2019-03-10 17:06:47.223966: Marked relevant: e78AXWkBNnvwcWWy4Ffb
 2019-03-10 17:06:51.938817: Clicked docid: 57zuXGkBNnvwcWWytKD4
-2019-03-10 17:07:03.518875: Marked 57zuXGkBNnvwcWWytKD4 as relevant
+2019-03-10 17:07:03.518875: Marked relevant: 57zuXGkBNnvwcWWytKD4
 2019-03-10 17:07:05.216705: Clicked docid: D7zuXGkBNnvwcWWytKH4
-2019-03-10 17:07:13.013844: Marked D7zuXGkBNnvwcWWytKH4 as relevant
-2019-03-10 17:07:16.686648: Marked sLriXGkBNnvwcWWyBxsR as relevant
+2019-03-10 17:07:13.013844: Marked relevant: D7zuXGkBNnvwcWWytKH4
+2019-03-10 17:07:16.686648: Marked relevant: sLriXGkBNnvwcWWyBxsR
 2019-03-10 17:07:17.779446: Clicked docid: qL30XGkBNnvwcWWyjWb3
-2019-03-10 17:07:36.006853: Marked _cQKXWkBNnvwcWWySaFC as relevant
+2019-03-10 17:07:36.006853: Marked relevant: _cQKXWkBNnvwcWWySaFC
 2019-03-10 17:08:43.084885: Entered query: curb bear attack
 2019-03-10 17:08:48.837370: Clicked docid: qbrkXGkBNnvwcWWyiN9L
 2019-03-10 17:09:03.757227: Entered query: preventbear attack
@@ -104,7 +104,7 @@
 2019-03-10 17:11:36.115195: Clicked docid: UL79XGkBNnvwcWWy8FU9
 2019-03-10 17:13:30.579244: Entered query: cause black bear attack
 2019-03-10 17:13:35.878399: Clicked docid: qbrkXGkBNnvwcWWyiN9L
-2019-03-10 17:15:00.457526: Marked UL79XGkBNnvwcWWy8FU9 as relevant
+2019-03-10 17:15:00.457526: Marked relevant: UL79XGkBNnvwcWWy8FU9
 2019-03-10 17:15:01.510412: Clicked docid: UL79XGkBNnvwcWWy8FU9
 2019-03-10 17:15:35.648226: Entered query: frequency black bear attack
 2019-03-10 17:15:44.573376: Entered query: frequency bear attack

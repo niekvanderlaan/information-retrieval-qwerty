@@ -1,33 +1,33 @@
 2019-03-10 11:07:38.600721: Entered query: teenage pregnancies united states 
 2019-03-10 11:08:04.192717: Entered query: teenage pregnancy rates in the united states
-2019-03-10 11:08:08.230132: Marked RL8AXWkBNnvwcWWyXw7d as relevant
-2019-03-10 11:08:15.330507: Marked LcACXWkBNnvwcWWyRyai as relevant
+2019-03-10 11:08:08.230132: Marked relevant: RL8AXWkBNnvwcWWyXw7d
+2019-03-10 11:08:15.330507: Marked relevant: LcACXWkBNnvwcWWyRyai
 2019-03-10 11:08:36.145696: Clicked docid: JLnfXGkBNnvwcWWyIjNn
 2019-03-10 11:08:59.713979: Clicked docid: QLriXGkBNnvwcWWyulPJ
-2019-03-10 11:09:10.703915: Marked QLriXGkBNnvwcWWyulPJ as relevant
-2019-03-10 11:09:15.381341: Marked 78IGXWkBNnvwcWWyOVnn as relevant
+2019-03-10 11:09:10.703915: Marked relevant: QLriXGkBNnvwcWWyulPJ
+2019-03-10 11:09:15.381341: Marked relevant: 78IGXWkBNnvwcWWyOVnn
 2019-03-10 11:09:31.175322: Clicked docid: mbriXGkBNnvwcWWyvlNo
-2019-03-10 11:09:52.762734: Marked lr30XGkBNnvwcWWymGgB as relevant
-2019-03-10 11:09:53.189861: Marked j730XGkBNnvwcWWymGgB as relevant
+2019-03-10 11:09:52.762734: Marked relevant: lr30XGkBNnvwcWWymGgB
+2019-03-10 11:09:53.189861: Marked relevant: j730XGkBNnvwcWWymGgB
 2019-03-10 11:10:05.208256: Clicked docid: Hb33XGkBNnvwcWWyFro8
-2019-03-10 11:10:15.020897: Marked Hb33XGkBNnvwcWWyFro8 as relevant
+2019-03-10 11:10:15.020897: Marked relevant: Hb33XGkBNnvwcWWyFro8
 2019-03-10 11:10:27.294787: Entered query: teenage pregnancy rates in americ
 2019-03-10 11:10:30.868617: Entered query: teenage pregnancy rates in america
-2019-03-10 11:10:45.464963: Marked CLriXGkBNnvwcWWyulPJ as relevant
-2019-03-10 11:10:48.521434: Marked 2rriXGkBNnvwcWWyulLJ as relevant
-2019-03-10 11:11:08.965879: Marked srngXGkBNnvwcWWyU5NX as relevant
-2019-03-10 11:11:09.381458: Marked j7ngXGkBNnvwcWWyWJVw as relevant
+2019-03-10 11:10:45.464963: Marked relevant: CLriXGkBNnvwcWWyulPJ
+2019-03-10 11:10:48.521434: Marked relevant: 2rriXGkBNnvwcWWyulLJ
+2019-03-10 11:11:08.965879: Marked relevant: srngXGkBNnvwcWWyU5NX
+2019-03-10 11:11:09.381458: Marked relevant: j7ngXGkBNnvwcWWyWJVw
 2019-03-10 11:11:30.153834: Entered query: teenage abortion united states
 2019-03-10 11:12:07.846453: Entered query: united states teenage pregnancy
 2019-03-10 11:12:21.251722: Entered query: VS teenage pregnancy
 2019-03-10 11:12:46.533965: Entered query: united states unplanned teenage pregnancie
 2019-03-10 11:12:49.196322: Entered query: united states unplanned teenage pregnancy
 2019-03-10 11:12:52.268620: Clicked docid: JLnfXGkBNnvwcWWyIjNn
-2019-03-10 11:13:05.516337: Marked JLnfXGkBNnvwcWWyIjNn as relevant
+2019-03-10 11:13:05.516337: Marked relevant: JLnfXGkBNnvwcWWyIjNn
 2019-03-10 11:13:26.183089: Entered query: united states abortion rates teen
 2019-03-10 11:13:32.065193: Clicked docid: CLrkXGkBNnvwcWWypeZp
-2019-03-10 11:13:42.961181: Marked CLrkXGkBNnvwcWWypeZp as relevant
-2019-03-10 11:13:49.713216: Marked SrngXGkBNnvwcWWyU5NX as relevant
-2019-03-10 11:13:51.083898: Unmarked SrngXGkBNnvwcWWyU5NX as relevant
-2019-03-10 11:13:51.309369: Marked SrngXGkBNnvwcWWyU5NX as relevant
+2019-03-10 11:13:42.961181: Marked relevant: CLrkXGkBNnvwcWWypeZp
+2019-03-10 11:13:49.713216: Marked relevant: SrngXGkBNnvwcWWyU5NX
+2019-03-10 11:13:51.083898: Marked unrelevant: SrngXGkBNnvwcWWyU5NX
+2019-03-10 11:13:51.309369: Marked relevant: SrngXGkBNnvwcWWyU5NX
 2019-03-10 11:14:24.001804: Entered query: teenage pregnancy rates in united states

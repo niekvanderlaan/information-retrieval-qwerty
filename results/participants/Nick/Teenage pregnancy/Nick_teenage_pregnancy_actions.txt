@@ -1,28 +1,28 @@
 2019-03-09 19:50:28.292340: Entered query: teenage abortion usa
-2019-03-09 19:50:33.775526: Marked RL8AXWkBNnvwcWWyXw7d as relevant
+2019-03-09 19:50:33.775526: Marked relevant: RL8AXWkBNnvwcWWyXw7d
 2019-03-09 19:50:40.928421: Entered query: teenage pregnancy abortion usa
 2019-03-09 19:50:52.125400: Entered query: teenage pregnancy abortion united states of america
-2019-03-09 19:50:59.532556: Marked JLnfXGkBNnvwcWWyIjNn as relevant
-2019-03-09 19:51:10.638582: Marked 2rriXGkBNnvwcWWyulLJ as relevant
-2019-03-09 19:51:11.450968: Marked CLriXGkBNnvwcWWyulPJ as relevant
-2019-03-09 19:51:13.429119: Marked mbriXGkBNnvwcWWyvlNo as relevant
-2019-03-09 19:51:14.018002: Marked QLriXGkBNnvwcWWyulPJ as relevant
-2019-03-09 19:51:18.695056: Marked LcACXWkBNnvwcWWyRyai as relevant
-2019-03-09 19:51:33.351645: Marked sb7-XGkBNnvwcWWyHV5k as relevant
-2019-03-09 19:51:43.891827: Marked abvlXGkBNnvwcWWyTRcR as relevant
-2019-03-09 19:51:51.748423: Marked sb7-XGkBNnvwcWWyuX5d as relevant
-2019-03-09 19:52:14.710309: Marked Nr7_XGkBNnvwcWWyv7XG as relevant
-2019-03-09 19:52:21.016139: Marked -7vlXGkBNnvwcWWyTRYR as relevant
+2019-03-09 19:50:59.532556: Marked relevant: JLnfXGkBNnvwcWWyIjNn
+2019-03-09 19:51:10.638582: Marked relevant: 2rriXGkBNnvwcWWyulLJ
+2019-03-09 19:51:11.450968: Marked relevant: CLriXGkBNnvwcWWyulPJ
+2019-03-09 19:51:13.429119: Marked relevant: mbriXGkBNnvwcWWyvlNo
+2019-03-09 19:51:14.018002: Marked relevant: QLriXGkBNnvwcWWyulPJ
+2019-03-09 19:51:18.695056: Marked relevant: LcACXWkBNnvwcWWyRyai
+2019-03-09 19:51:33.351645: Marked relevant: sb7-XGkBNnvwcWWyHV5k
+2019-03-09 19:51:43.891827: Marked relevant: abvlXGkBNnvwcWWyTRcR
+2019-03-09 19:51:51.748423: Marked relevant: sb7-XGkBNnvwcWWyuX5d
+2019-03-09 19:52:14.710309: Marked relevant: Nr7_XGkBNnvwcWWyv7XG
+2019-03-09 19:52:21.016139: Marked relevant: -7vlXGkBNnvwcWWyTRYR
 2019-03-09 19:52:34.796426: Entered query: planned parenthodd
 2019-03-09 19:52:40.100497: Entered query: planned parenthood
-2019-03-09 19:52:44.600988: Marked Kb3yXGkBNnvwcWWyfCGF as relevant
-2019-03-09 19:52:46.322006: Marked XL8BXWkBNnvwcWWyDXMF as relevant
-2019-03-09 19:52:47.550972: Marked TrnfXGkBNnvwcWWyhlIN as relevant
-2019-03-09 19:53:06.964638: Marked 6LvlXGkBNnvwcWWy8TQy as relevant
-2019-03-09 19:53:08.366661: Marked oLvpXGkBNnvwcWWyNMvv as relevant
-2019-03-09 19:53:12.082490: Marked CLnfXGkBNnvwcWWyhlIN as relevant
-2019-03-09 19:53:14.712260: Marked eb31XGkBNnvwcWWyjYfi as relevant
-2019-03-09 19:53:21.859504: Marked BrriXGkBNnvwcWWys1H2 as relevant
+2019-03-09 19:52:44.600988: Marked relevant: Kb3yXGkBNnvwcWWyfCGF
+2019-03-09 19:52:46.322006: Marked relevant: XL8BXWkBNnvwcWWyDXMF
+2019-03-09 19:52:47.550972: Marked relevant: TrnfXGkBNnvwcWWyhlIN
+2019-03-09 19:53:06.964638: Marked relevant: 6LvlXGkBNnvwcWWy8TQy
+2019-03-09 19:53:08.366661: Marked relevant: oLvpXGkBNnvwcWWyNMvv
+2019-03-09 19:53:12.082490: Marked relevant: CLnfXGkBNnvwcWWyhlIN
+2019-03-09 19:53:14.712260: Marked relevant: eb31XGkBNnvwcWWyjYfi
+2019-03-09 19:53:21.859504: Marked relevant: BrriXGkBNnvwcWWys1H2
 2019-03-09 19:53:51.085786: Entered query: planned parenthood teenage
 2019-03-09 19:54:05.786325: Entered query: planned parenthood teenage pregnancy
 2019-03-09 19:54:35.915213: Entered query: planned parenthood teenage pregnancy RU-486
@@ -30,11 +30,11 @@
 2019-03-09 19:54:51.412734: Entered query: teenage pregnancy RU-486 america
 2019-03-09 19:55:09.799147: Entered query: teenage pregnancy RU-486 america teen
 2019-03-09 19:55:19.044923: Entered query: teenage pregnancy  america teen
-2019-03-09 19:55:25.747515: Marked X730XGkBNnvwcWWyjWf3 as relevant
-2019-03-09 19:55:31.109922: Marked Cr30XGkBNnvwcWWyjWf3 as relevant
-2019-03-09 19:56:04.307643: Marked ar30XGkBNnvwcWWyUF_s as relevant
-2019-03-09 19:56:12.695996: Marked CLrkXGkBNnvwcWWypeZp as relevant
-2019-03-09 19:56:21.173530: Marked ab30XGkBNnvwcWWyUF_s as relevant
-2019-03-09 19:56:50.308226: Marked QbngXGkBNnvwcWWyWJVw as relevant
+2019-03-09 19:55:25.747515: Marked relevant: X730XGkBNnvwcWWyjWf3
+2019-03-09 19:55:31.109922: Marked relevant: Cr30XGkBNnvwcWWyjWf3
+2019-03-09 19:56:04.307643: Marked relevant: ar30XGkBNnvwcWWyUF_s
+2019-03-09 19:56:12.695996: Marked relevant: CLrkXGkBNnvwcWWypeZp
+2019-03-09 19:56:21.173530: Marked relevant: ab30XGkBNnvwcWWyUF_s
+2019-03-09 19:56:50.308226: Marked relevant: QbngXGkBNnvwcWWyWJVw
 2019-03-09 19:56:55.325529: Entered query: teenage pregnancy  america states
-2019-03-09 19:57:13.201661: Marked e78AXWkBNnvwcWWy4Ffb as relevant
+2019-03-09 19:57:13.201661: Marked relevant: e78AXWkBNnvwcWWy4Ffb

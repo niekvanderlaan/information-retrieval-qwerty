@@ -4,8 +4,8 @@
 2019-03-10 11:16:14.146650: Entered query: black bear attack 
 2019-03-10 11:17:27.592428: Entered query: black bear attack worldwide
 2019-03-10 11:17:32.346738: Clicked docid: WsEDXWkBNnvwcWWy5Ac_
-2019-03-10 11:17:41.859832: Marked WsEDXWkBNnvwcWWy5Ac_ as relevant
-2019-03-10 11:17:55.087982: Unmarked WsEDXWkBNnvwcWWy5Ac_ as relevant
+2019-03-10 11:17:41.859832: Marked relevant: WsEDXWkBNnvwcWWy5Ac_
+2019-03-10 11:17:55.087982: Marked unrelevant: WsEDXWkBNnvwcWWy5Ac_
 2019-03-10 11:18:11.488992: Entered query: causes black bear attacking humans
 2019-03-10 11:18:16.214724: Clicked docid: Tr7_XGkBNnvwcWWyhamg
 2019-03-10 11:19:02.314237: Clicked docid: 47riXGkBNnvwcWWyWjVJ
