@@ -1,0 +1,2939 @@
+
+
+[Window: New Tab - Google Chrome - at Mon Mar 11 11:48:13 2019] l
+
+[Window: New Tab - Google Chrome - at Mon Mar 11 11:48:13 2019] o
+
+[Window: New Tab - Google Chrome - at Mon Mar 11 11:48:13 2019] c
+
+[Window: New Tab - Google Chrome - at Mon Mar 11 11:48:14 2019] [RIGHT]
+
+[Window: New Tab - Google Chrome - at Mon Mar 11 11:48:15 2019] [ENTER]
+
+[Window: Windows PowerShell - at Mon Mar 11 11:48:23 2019] [UP]
+
+[Window: Windows PowerShell - at Mon Mar 11 11:48:25 2019] [ENTER]
+
+[Window: New Tab - Google Chrome - at Mon Mar 11 11:48:28 2019] g
+
+[Window: New Tab - Google Chrome - at Mon Mar 11 11:48:28 2019] i
+
+[Window: New Tab - Google Chrome - at Mon Mar 11 11:48:28 2019] t
+
+[Window: New Tab - Google Chrome - at Mon Mar 11 11:48:31 2019] [DOWN]
+
+[Window: New Tab - Google Chrome - at Mon Mar 11 11:48:33 2019] [DOWN]
+
+[Window: New Tab - Google Chrome - at Mon Mar 11 11:48:33 2019] [DOWN]
+
+[Window: New Tab - Google Chrome - at Mon Mar 11 11:48:34 2019] [DOWN]
+
+[Window: New Tab - Google Chrome - at Mon Mar 11 11:48:35 2019] [CONTROL]
+
+[Window: New Tab - Google Chrome - at Mon Mar 11 11:48:35 2019] a
+
+[Window: New Tab - Google Chrome - at Mon Mar 11 11:48:36 2019] g
+
+[Window: New Tab - Google Chrome - at Mon Mar 11 11:48:36 2019] i
+
+[Window: New Tab - Google Chrome - at Mon Mar 11 11:48:36 2019] t
+
+[Window: New Tab - Google Chrome - at Mon Mar 11 11:48:36 2019] h
+
+[Window: New Tab - Google Chrome - at Mon Mar 11 11:48:36 2019] u
+
+[Window: New Tab - Google Chrome - at Mon Mar 11 11:48:36 2019] b
+
+[Window: New Tab - Google Chrome - at Mon Mar 11 11:48:40 2019] s
+
+[Window: New Tab - Google Chrome - at Mon Mar 11 11:48:41 2019] .
+
+[Window: New Tab - Google Chrome - at Mon Mar 11 11:48:41 2019] [BACKSPACE]
+
+[Window: New Tab - Google Chrome - at Mon Mar 11 11:48:41 2019] [BACKSPACE]
+
+[Window: New Tab - Google Chrome - at Mon Mar 11 11:48:42 2019] .
+
+[Window: New Tab - Google Chrome - at Mon Mar 11 11:48:42 2019] c
+
+[Window: New Tab - Google Chrome - at Mon Mar 11 11:48:42 2019] o
+
+[Window: New Tab - Google Chrome - at Mon Mar 11 11:48:42 2019] m
+
+[Window: New Tab - Google Chrome - at Mon Mar 11 11:48:42 2019] /
+
+[Window: New Tab - Google Chrome - at Mon Mar 11 11:48:43 2019] n
+
+[Window: New Tab - Google Chrome - at Mon Mar 11 11:48:43 2019] [ENTER]
+
+[Window: New Tab - Google Chrome - at Mon Mar 11 11:48:52 2019] l
+
+[Window: New Tab - Google Chrome - at Mon Mar 11 11:48:52 2019] o
+
+[Window: New Tab - Google Chrome - at Mon Mar 11 11:48:52 2019] c
+
+[Window: New Tab - Google Chrome - at Mon Mar 11 11:48:52 2019] [ENTER]
+
+[Window: Search Engine Pre-Questionnaire - Google Chrome - at Mon Mar 11 11:49:06 2019] [SHIFT]
+
+[Window: Search Engine Pre-Questionnaire - Google Chrome - at Mon Mar 11 11:49:06 2019] I
+
+[Window: Search Engine Pre-Questionnaire - Google Chrome - at Mon Mar 11 11:49:06 2019] r
+
+[Window: Search Engine Pre-Questionnaire - Google Chrome - at Mon Mar 11 11:49:06 2019] e
+
+[Window: Search Engine Pre-Questionnaire - Google Chrome - at Mon Mar 11 11:49:06 2019] n
+
+[Window: Search Engine Pre-Questionnaire - Google Chrome - at Mon Mar 11 11:49:06 2019] e
+
+[Window: Search Engine Pre-Questionnaire - Google Chrome - at Mon Mar 11 11:49:07 2019]  
+
+[Window: Search Engine Pre-Questionnaire - Google Chrome - at Mon Mar 11 11:49:07 2019] [SHIFT]
+
+[Window: Search Engine Pre-Questionnaire - Google Chrome - at Mon Mar 11 11:49:07 2019] V
+
+[Window: Search Engine Pre-Questionnaire - Google Chrome - at Mon Mar 11 11:49:07 2019] o
+
+[Window: Search Engine Pre-Questionnaire - Google Chrome - at Mon Mar 11 11:49:07 2019] o
+
+[Window: Search Engine Pre-Questionnaire - Google Chrome - at Mon Mar 11 11:49:07 2019] i
+
+[Window: Search Engine Pre-Questionnaire - Google Chrome - at Mon Mar 11 11:49:07 2019] j
+
+[Window: Search Engine Pre-Questionnaire - Google Chrome - at Mon Mar 11 11:49:07 2019] s
+
+[Window: Search Engine Pre-Questionnaire - Google Chrome - at Mon Mar 11 11:49:07 2019] [TAB]
+
+[Window: Search Engine Pre-Questionnaire - Google Chrome - at Mon Mar 11 11:49:08 2019] 2
+
+[Window: Search Engine Pre-Questionnaire - Google Chrome - at Mon Mar 11 11:49:09 2019] 1
+
+[Window: Search Engine Pre-Questionnaire - Google Chrome - at Mon Mar 11 11:49:10 2019] [BACKSPACE]
+
+[Window: Search Engine Pre-Questionnaire - Google Chrome - at Mon Mar 11 11:49:10 2019] 2
+
+[Window: Search Engine Pre-Questionnaire - Google Chrome - at Mon Mar 11 11:49:11 2019] [TAB]
+
+[Window: Search Engine Pre-Questionnaire - Google Chrome - at Mon Mar 11 11:49:12 2019] [TAB]
+
+[Window: Search Engine Pre-Questionnaire - Google Chrome - at Mon Mar 11 11:49:19 2019] [SHIFT]
+
+[Window: Search Engine Pre-Questionnaire - Google Chrome - at Mon Mar 11 11:49:19 2019] M
+
+[Window: Search Engine Pre-Questionnaire - Google Chrome - at Mon Mar 11 11:49:19 2019] a
+
+[Window: Search Engine Pre-Questionnaire - Google Chrome - at Mon Mar 11 11:49:19 2019] t
+
+[Window: Search Engine Pre-Questionnaire - Google Chrome - at Mon Mar 11 11:49:19 2019] h
+
+[Window: Search Engine Pre-Questionnaire - Google Chrome - at Mon Mar 11 11:49:19 2019] e
+
+[Window: Search Engine Pre-Questionnaire - Google Chrome - at Mon Mar 11 11:49:19 2019] m
+
+[Window: Search Engine Pre-Questionnaire - Google Chrome - at Mon Mar 11 11:49:19 2019] a
+
+[Window: Search Engine Pre-Questionnaire - Google Chrome - at Mon Mar 11 11:49:19 2019] t
+
+[Window: Search Engine Pre-Questionnaire - Google Chrome - at Mon Mar 11 11:49:20 2019] i
+
+[Window: Search Engine Pre-Questionnaire - Google Chrome - at Mon Mar 11 11:49:20 2019] c
+
+[Window: Search Engine Pre-Questionnaire - Google Chrome - at Mon Mar 11 11:49:20 2019] s
+
+[Window: Search Engine Pre-Questionnaire - Google Chrome - at Mon Mar 11 11:49:20 2019] [TAB]
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:32 2019] c
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:32 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:32 2019] m
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:32 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:32 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:33 2019] c
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:33 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:33 2019] m
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:33 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:33 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:33 2019] g
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:33 2019] r
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:33 2019] o
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:33 2019] u
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:34 2019] p
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:34 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:34 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:34 2019] r
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:34 2019] y
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:34 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:34 2019] w
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:35 2019] [BACKSPACE]
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:35 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:35 2019] w
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:35 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:35 2019] y
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:35 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:35 2019] y
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:35 2019] o
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:36 2019] u
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:36 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:36 2019] o
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:36 2019] v
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:36 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:36 2019] r
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:36 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:36 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:36 2019] h
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:36 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:37 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:37 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:37 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:37 2019] n
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:37 2019] d
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:37 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:37 2019] r
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:37 2019] i
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:37 2019] g
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:37 2019] h
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:37 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:38 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:38 2019] m
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:38 2019] u
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:38 2019] s
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:38 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:38 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:38 2019] w
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:38 2019] h
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:38 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:38 2019] n
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:38 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:39 2019] s
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:39 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:39 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:39 2019] r
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:39 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:39 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:40 2019] p
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:40 2019] i
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:40 2019] c
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:40 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:40 2019] u
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:40 2019] r
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:40 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:40 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:41 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:41 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:41 2019] l
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:41 2019] k
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:41 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:41 2019] b
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:41 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:41 2019] g
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:41 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:41 2019] n
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:42 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:42 2019] d
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:42 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:42 2019] y
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:42 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:42 2019] l
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:42 2019] i
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:42 2019] v
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:42 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:42 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:43 2019] s
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:43 2019] o
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:43 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:43 2019] [BACKSPACE]
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:44 2019] [BACKSPACE]
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:44 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:44 2019] o
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:44 2019] r
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:44 2019] y
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:44 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:44 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:44 2019] h
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:44 2019] i
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:45 2019] n
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:45 2019] g
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:45 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:45 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:45 2019] n
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:45 2019] o
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:45 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:45 2019] h
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:45 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:45 2019] r
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:45 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:46 2019] b
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:46 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:46 2019] f
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:46 2019] o
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:46 2019] r
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:46 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:46 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:46 2019] s
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:46 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:47 2019] o
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:47 2019] p
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:47 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:47 2019] s
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:47 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:47 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:47 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:48 2019] q
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:48 2019] u
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:48 2019] i
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:48 2019] c
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:48 2019] k
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:48 2019] l
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:48 2019] y
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:48 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:49 2019] o
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:49 2019] n
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:49 2019] c
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:49 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:49 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:49 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:49 2019] n
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:49 2019] o
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:49 2019] u
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:49 2019] g
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:50 2019] h
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:50 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:50 2019] s
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:50 2019] o
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:50 2019] m
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:50 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:50 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:50 2019] i
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:50 2019] m
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:50 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:51 2019] s
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:51 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:51 2019] m
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:51 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:51 2019] n
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:51 2019] y
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:51 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:51 2019] g
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:52 2019] r
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:52 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:52 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:52 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:52 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:52 2019] n
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:52 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:52 2019] x
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:52 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:52 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:53 2019] w
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:53 2019] h
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:53 2019] i
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:53 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:53 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:53 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:53 2019] u
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:53 2019] n
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:54 2019] d
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:54 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:54 2019] r
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:54 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:54 2019] b
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:54 2019] o
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:54 2019] o
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:54 2019] k
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:54 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:54 2019] w
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:54 2019] h
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:54 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:55 2019] r
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:55 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:55 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:55 2019] i
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:55 2019] f
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:55 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:55 2019] v
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:55 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:55 2019] r
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:55 2019] y
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:55 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:56 2019] b
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:56 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:56 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:56 2019] u
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:56 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:56 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:57 2019] p
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:57 2019] o
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:57 2019] i
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:57 2019] n
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:57 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:58 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:58 2019] r
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:58 2019] i
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:58 2019] v
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:58 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:58 2019] r
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:58 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:58 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:59 2019] l
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:59 2019] l
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:59 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:59 2019] i
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:59 2019] n
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:59 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:59 2019] o
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:59 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:59 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:51:59 2019] h
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:00 2019] s
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:00 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:00 2019] [BACKSPACE]
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:00 2019] [BACKSPACE]
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:00 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:01 2019] s
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:01 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:01 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:01 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:01 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:01 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:01 2019] o
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:01 2019] v
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:02 2019] [BACKSPACE]
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:02 2019] f
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:02 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:02 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:02 2019] n
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:02 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:02 2019] i
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:02 2019] n
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:02 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:02 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:03 2019] l
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:03 2019] l
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:03 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:03 2019] m
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:03 2019] u
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:03 2019] s
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:03 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:03 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:04 2019] s
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:04 2019] [BACKSPACE]
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:04 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:04 2019] n
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:04 2019] s
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:05 2019] w
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:05 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:05 2019] r
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:05 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:05 2019] s
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:05 2019] [BACKSPACE]
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:05 2019] c
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:05 2019] i
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:06 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:06 2019] y
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:06 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:06 2019] m
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:06 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:06 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:06 2019] n
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:07 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:07 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:07 2019] i
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:07 2019] m
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:07 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:07 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:07 2019] w
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:07 2019] h
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:08 2019] y
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:08 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:08 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:08 2019] n
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:08 2019] i
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:08 2019] m
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:08 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:08 2019] l
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:08 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:09 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:09 2019] h
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:09 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:09 2019] m
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:09 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:09 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:09 2019] x
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:10 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:10 2019] m
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:10 2019] p
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:10 2019] l
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:10 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:10 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:10 2019] i
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:10 2019] s
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:10 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:10 2019] f
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:11 2019] i
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:11 2019] r
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:11 2019] s
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:11 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:11 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:11 2019] i
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:11 2019] l
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:11 2019] i
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:12 2019] [BACKSPACE]
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:12 2019] [BACKSPACE]
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:12 2019] [BACKSPACE]
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:12 2019] l
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:12 2019] i
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:12 2019] v
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:12 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:13 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:13 2019] f
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:13 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:13 2019] m
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:13 2019] l
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:13 2019] i
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:14 2019] [BACKSPACE]
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:14 2019] [BACKSPACE]
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:14 2019] i
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:14 2019] l
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:14 2019] y
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:15 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:15 2019] g
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:15 2019] i
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:15 2019] r
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:15 2019] l
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:15 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:15 2019] w
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:16 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:16 2019] l
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:16 2019] k
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:16 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:16 2019] s
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:16 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:16 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:16 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:17 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:17 2019] n
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:17 2019] i
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:17 2019] m
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:17 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:17 2019] l
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:17 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:17 2019] r
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:17 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:17 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:18 2019] d
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:18 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:18 2019] s
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:18 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:18 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:18 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:19 2019] o
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:19 2019] f
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:19 2019] f
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:19 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:19 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:19 2019] h
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:19 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:19 2019] y
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:19 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:20 2019] s
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:20 2019] o
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:20 2019] n
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:20 2019] g
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:20 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:20 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:20 2019] o
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:20 2019] g
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:20 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:21 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:21 2019] h
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:21 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:21 2019] r
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:21 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:21 2019] y
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:21 2019] o
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:21 2019] u
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:22 2019] r
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:22 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:22 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:22 2019] h
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:22 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:22 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:22 2019] l
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:22 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:22 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:22 2019] r
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:22 2019] n
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:23 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:23 2019] m
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:23 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:23 2019] d
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:23 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:23 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:23 2019] d
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:23 2019] o
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:23 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:23 2019] s
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:24 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:24 2019] m
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:24 2019] o
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:24 2019] v
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:24 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:24 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:24 2019] m
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:24 2019] [BACKSPACE]
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:25 2019] n
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:25 2019] u
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:25 2019] m
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:25 2019] b
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:25 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:25 2019] r
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:25 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:26 2019] u
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:26 2019] n
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:26 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:26 2019] i
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:26 2019] l
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:26 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:27 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:27 2019] n
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:27 2019] d
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:27 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:27 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:27 2019] w
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:27 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:28 2019] y
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:28 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:28 2019] s
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:28 2019] o
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:28 2019] m
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:28 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:28 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:28 2019] n
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:29 2019] [BACKSPACE]
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:29 2019] [BACKSPACE]
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:29 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:29 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:29 2019] n
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:30 2019] y
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:30 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:30 2019] s
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:30 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:30 2019] u
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:30 2019] d
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:30 2019] y
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:30 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:31 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:31 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:31 2019] c
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:31 2019] h
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:31 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:31 2019] h
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:31 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:31 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:31 2019] r
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:32 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:32 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:32 2019] g
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:32 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:32 2019] i
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:32 2019] n
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:34 2019] =
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:34 2019] =
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:34 2019] =
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:35 2019] [BACKSPACE]
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:35 2019] [BACKSPACE]
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:35 2019] [BACKSPACE]
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:35 2019] [BACKSPACE]
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:35 2019] [BACKSPACE]
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:35 2019] [BACKSPACE]
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:35 2019] [BACKSPACE]
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:35 2019] [BACKSPACE]
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:35 2019] [BACKSPACE]
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:35 2019] [BACKSPACE]
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:35 2019] [BACKSPACE]
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:46 2019] o
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:46 2019] r
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:46 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:46 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:46 2019] i
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:46 2019] m
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:47 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:47 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:47 2019] s
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:47 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:48 2019] y
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:48 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:48 2019] f
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:48 2019] i
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:48 2019] r
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:48 2019] s
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:48 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:48 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:49 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:49 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:49 2019] l
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:49 2019] k
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:49 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:49 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:49 2019] n
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:49 2019] s
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:50 2019] w
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:50 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:50 2019] r
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:50 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:50 2019] h
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:50 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:50 2019] s
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:51 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:51 2019] b
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:51 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:51 2019] c
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:51 2019] k
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:51 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:51 2019] m
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:51 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:51 2019] n
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:52 2019] y
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:52 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:52 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:52 2019] d
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:52 2019] d
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:52 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:52 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:52 2019] l
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:53 2019] w
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:53 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:53 2019] y
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:53 2019] s
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:53 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:53 2019] w
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:53 2019] o
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:53 2019] r
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:54 2019] d
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:54 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:54 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:54 2019] h
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:54 2019] o
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:54 2019] u
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:55 2019] [BACKSPACE]
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:55 2019] [BACKSPACE]
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:55 2019] r
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:55 2019] o
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:55 2019] u
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:55 2019] g
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:55 2019] h
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:55 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:55 2019] w
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:56 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:56 2019] y
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:56 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:56 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:56 2019] h
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:56 2019] o
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:56 2019] u
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:57 2019] g
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:57 2019] h
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:57 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:57 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:57 2019] m
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:57 2019] o
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:57 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:57 2019] h
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:57 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:58 2019] r
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:58 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:58 2019] o
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:58 2019] n
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:58 2019] c
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:58 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:58 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:58 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:58 2019] n
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:58 2019] g
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:58 2019] o
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:58 2019] u
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:59 2019] [BACKSPACE]
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:59 2019] [BACKSPACE]
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:59 2019] [BACKSPACE]
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:59 2019] o
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:52:59 2019] u
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:00 2019] g
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:00 2019] h
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:00 2019] h
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:00 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:01 2019] s
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:01 2019] u
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:01 2019] c
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:01 2019] h
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:01 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:01 2019] m
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:01 2019] i
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:01 2019] s
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:01 2019] s
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:01 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:02 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:02 2019] h
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:02 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:02 2019] y
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:02 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:02 2019] w
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:02 2019] o
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:02 2019] u
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:03 2019] l
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:03 2019] d
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:03 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:03 2019] f
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:03 2019] r
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:03 2019] o
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:03 2019] m
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:03 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:04 2019] o
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:04 2019] f
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:04 2019] f
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:04 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:04 2019] w
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:04 2019] h
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:04 2019] i
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:04 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:04 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:04 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:05 2019] i
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:05 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:05 2019] '
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:05 2019] s
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:05 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:05 2019] b
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:05 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:06 2019] c
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:06 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:06 2019] u
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:06 2019] s
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:06 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:06 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:06 2019] w
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:06 2019] o
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:06 2019] u
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:07 2019] l
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:07 2019] d
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:07 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:07 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:07 2019] o
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:07 2019] g
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:07 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:08 2019] h
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:08 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:08 2019] [BACKSPACE]
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:08 2019] [BACKSPACE]
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:08 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:08 2019] h
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:08 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:08 2019] r
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:08 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:09 2019] f
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:09 2019] i
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:09 2019] r
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:09 2019] s
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:09 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:09 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:09 2019] d
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:09 2019] o
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:09 2019] n
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:10 2019] '
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:10 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:10 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:10 2019] s
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:10 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:10 2019] u
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:10 2019] d
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:10 2019] y
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:10 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:11 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:11 2019] n
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:11 2019] s
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:11 2019] w
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:11 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:11 2019] r
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:11 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:12 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:12 2019] [BACKSPACE]
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:12 2019] w
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:12 2019] h
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:12 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:12 2019] r
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:12 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:13 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:13 2019] c
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:13 2019] o
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:13 2019] u
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:13 2019] l
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:13 2019] d
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:13 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:13 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:14 2019] o
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:14 2019] o
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:14 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:14 2019] k
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:14 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:14 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:14 2019] p
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:14 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:14 2019] l
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:15 2019] i
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:15 2019] k
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:15 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:15 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:15 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:15 2019] g
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:15 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:15 2019] i
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:16 2019] n
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:16 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:16 2019] g
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:16 2019] [BACKSPACE]
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:16 2019] c
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:16 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:16 2019] r
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:16 2019] r
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:17 2019] y
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:17 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:17 2019] s
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:17 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:17 2019] c
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:17 2019] o
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:17 2019] n
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:17 2019] d
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:18 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:18 2019] o
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:18 2019] p
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:18 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:18 2019] n
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:18 2019] d
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:18 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:19 2019] l
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:19 2019] o
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:19 2019] o
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:19 2019] k
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:19 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:19 2019] n
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:19 2019] o
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:19 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:19 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:20 2019] m
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:20 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:20 2019] n
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:20 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:20 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:20 2019] h
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:20 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:20 2019] n
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:20 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:20 2019] b
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:21 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:21 2019] g
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:21 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:21 2019] n
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:21 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:21 2019] i
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:21 2019] n
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:21 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:21 2019] o
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:21 2019] n
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:21 2019] l
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:22 2019] y
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:22 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:22 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:22 2019] w
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:22 2019] o
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:22 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:22 2019] n
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:22 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:23 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:23 2019] r
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:23 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:23 2019] h
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:23 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:23 2019] r
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:23 2019] d
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:23 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:23 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:24 2019] h
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:24 2019] o
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:24 2019] s
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:24 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:24 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:24 2019] g
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:24 2019] o
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:24 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:25 2019] s
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:25 2019] h
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:25 2019] o
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:25 2019] w
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:25 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:26 2019] m
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:26 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:26 2019] k
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:26 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:26 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:26 2019] o
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:26 2019] r
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:26 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:26 2019] o
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:27 2019] o
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:27 2019] k
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:27 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:27 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:27 2019] n
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:27 2019] d
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:27 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:28 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:28 2019] h
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:28 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:28 2019] s
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:28 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:28 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:28 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:29 2019] n
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:29 2019] y
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:29 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:29 2019] s
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:29 2019] h
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:29 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:29 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:29 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:30 2019] i
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:30 2019] m
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:30 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:30 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:30 2019] p
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:30 2019] l
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:30 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:30 2019] c
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:31 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:31 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:31 2019] b
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:31 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:31 2019] g
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:31 2019] i
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:31 2019] [BACKSPACE]
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:32 2019] [BACKSPACE]
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:32 2019] i
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:32 2019] n
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:32 2019] g
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:32 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:32 2019] q
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:32 2019] u
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:32 2019] i
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:33 2019] c
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:33 2019] k
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:33 2019] l
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:33 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:34 2019] n
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:34 2019] o
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:34 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:34 2019] d
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:34 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:35 2019] y
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:35 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:35 2019] i
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:35 2019] n
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:35 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:35 2019] o
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:35 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:35 2019] b
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:35 2019] u
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:35 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:36 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:36 2019] s
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:36 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:36 2019] i
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:36 2019] d
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:36 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:36 2019] v
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:36 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:36 2019] r
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:36 2019] y
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:37 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:37 2019] o
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:37 2019] f
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:37 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:37 2019] m
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:37 2019] i
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:37 2019] l
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:37 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:38 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:38 2019] h
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:38 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:38 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:38 2019] [BACKSPACE]
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:38 2019] [BACKSPACE]
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:39 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:39 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:39 2019] r
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:39 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:39 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:40 2019] h
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:40 2019] i
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:40 2019] n
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:40 2019] k
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:40 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:40 2019] y
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:40 2019] o
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:40 2019] u
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:40 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:41 2019] s
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:41 2019] h
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:41 2019] [BACKSPACE]
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:41 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:41 2019] a
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:41 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:41 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:41 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:42 2019] d
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:42 2019] o
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:42 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:42 2019] s
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:42 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:42 2019] s
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:43 2019] o
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:43 2019] m
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:43 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:43 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:43 2019] h
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:43 2019] i
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:43 2019] n
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:43 2019] g
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:43 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:44 2019] s
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:44 2019] o
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:44 2019] m
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:44 2019] e
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:44 2019] t
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:44 2019] h
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:44 2019] i
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:44 2019] n
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:45 2019] g
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:45 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:45 2019] w
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:45 2019] n
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:45 2019] h
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:45 2019] y
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:45 2019]  
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:46 2019] s
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:46 2019] l
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:46 2019] i
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:46 2019] [BACKSPACE]
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:46 2019] [BACKSPACE]
+
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Mon Mar 11 11:53:46 2019] [BACKSPACE]
+
+[Window: Search Engine Pre-Questionnaire - Google Chrome - at Mon Mar 11 11:53:54 2019] 9
+
+[Window: Search Engine Pre-Questionnaire - Google Chrome - at Mon Mar 11 11:53:54 2019] 1
+
+[Window: Search Engine Pre-Questionnaire - Google Chrome - at Mon Mar 11 11:53:59 2019] 8
+
+[Window: Search Engine Pre-Questionnaire - Google Chrome - at Mon Mar 11 11:54:00 2019] 2
+
+[Window: Search Engine Pre-Questionnaire - Google Chrome - at Mon Mar 11 11:54:54 2019] [CONTROL]
+
+[Window: Search Engine Pre-Questionnaire - Google Chrome - at Mon Mar 11 11:54:54 2019] v
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:56:58 2019] w
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:56:58 2019] i
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:56:58 2019] l
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:56:59 2019] d
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:56:59 2019] l
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:56:59 2019] i
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:56:59 2019] f
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:56:59 2019] e
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:56:59 2019]  
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:57:00 2019] e
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:57:00 2019] x
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:57:00 2019] t
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:57:00 2019] i
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:57:00 2019] c
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:57:01 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:57:01 2019] n
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:57:01 2019] c
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:57:01 2019] t
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:57:01 2019] i
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:57:01 2019] o
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:57:02 2019] n
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:57:02 2019]  
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:57:03 2019] a
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:57:03 2019] m
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:57:03 2019] e
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:57:03 2019] r
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:57:03 2019] i
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:57:03 2019] c
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:57:04 2019] a
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:57:04 2019] [ENTER]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:59:13 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:59:13 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:59:13 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:59:13 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:59:13 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:59:13 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:59:13 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:59:13 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:59:13 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:59:13 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:59:13 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:59:13 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:59:14 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:59:14 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:59:14 2019] e
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:59:14 2019] n
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:59:14 2019] d
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:59:14 2019] e
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:59:15 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:59:15 2019] a
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:59:15 2019] g
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:59:15 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:59:15 2019] n
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:59:15 2019] g
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:59:16 2019] e
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:59:16 2019] r
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:59:16 2019] e
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:59:16 2019] d
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:59:16 2019]  
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:59:16 2019] p
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:59:17 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:59:17 2019] s
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:59:17 2019] p
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:59:17 2019] e
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:59:17 2019] c
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:59:17 2019] i
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:59:17 2019] e
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:59:18 2019] s
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 11:59:18 2019] [ENTER]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:01:12 2019] q
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:01:12 2019] i
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:01:12 2019] l
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:01:12 2019] l
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:01:13 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:01:13 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:01:13 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:01:13 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:01:13 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:01:13 2019] w
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:01:14 2019] i
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:01:14 2019] l
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:01:14 2019] d
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:01:14 2019] l
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:01:14 2019] i
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:01:14 2019] f
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:01:14 2019] e
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:01:14 2019]  
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:01:14 2019] p
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:01:14 2019] r
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:01:15 2019] o
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:01:15 2019] t
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:01:15 2019] e
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:01:15 2019] c
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:01:16 2019] t
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:01:16 2019] i
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:01:16 2019] o
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:01:16 2019] n
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:01:16 2019] [ENTER]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:02:46 2019] a
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:02:47 2019] n
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:02:47 2019] i
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:02:47 2019] m
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:02:47 2019] a
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:02:47 2019] l
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:02:47 2019]  
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:02:48 2019] [ENTER]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:04:28 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:04:28 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:04:29 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:04:29 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:04:29 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:04:29 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:04:29 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:04:29 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:04:30 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:05:04 2019] b
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:05:04 2019] l
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:05:04 2019] a
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:05:04 2019] c
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:05:04 2019] k
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:05:04 2019]  
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:05:05 2019] b
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:05:05 2019] e
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:05:05 2019] a
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:05:05 2019] u
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:05:05 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:05:06 2019] r
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:05:06 2019]  
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:05:06 2019] a
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:05:06 2019] t
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:05:06 2019] t
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:05:06 2019] a
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:05:06 2019] c
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:05:07 2019] k
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:05:07 2019]  
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:05:07 2019] c
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:05:07 2019] a
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:05:07 2019] u
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:05:08 2019] s
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:05:08 2019] e
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:05:08 2019] [ENTER]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:05:42 2019] c
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:05:42 2019] o
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:05:42 2019] s
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:05:42 2019] m
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:05:42 2019] e
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:05:43 2019] t
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:05:43 2019] i
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:05:43 2019] c
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:05:43 2019] s
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:05:43 2019] [ENTER]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:06:51 2019] f
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:06:52 2019] r
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:06:52 2019] e
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:06:52 2019] q
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:06:52 2019] y
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:06:52 2019] e
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:06:52 2019] c
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:06:53 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:06:53 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:06:53 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:06:53 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:06:54 2019] q
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:06:54 2019] u
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:06:54 2019] e
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:06:54 2019] n
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:06:54 2019] c
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:06:54 2019] y
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:06:55 2019] [ENTER]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:07:34 2019]  
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:07:34 2019] r
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:07:34 2019] e
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:07:34 2019] s
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:07:34 2019] e
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:07:34 2019] a
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:07:34 2019] r
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:07:35 2019] c
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:07:35 2019]  
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:07:35 2019] h
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:07:35 2019] [ENTER]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:07:38 2019]  
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:07:39 2019] [ENTER]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:08:56 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:08:56 2019] s
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:08:57 2019] [ENTER]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:09:43 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:09:46 2019]  
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:09:46 2019] f
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:09:46 2019] r
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:09:46 2019] f
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:09:46 2019] e
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:09:47 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:09:47 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:09:47 2019] e
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:09:47 2019] [TAB]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:09:48 2019] u
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:09:48 2019] e
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:09:48 2019] n
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:09:50 2019] q
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:09:50 2019] u
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:09:50 2019] e
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:09:50 2019] n
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:09:50 2019] t
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:09:50 2019] [ENTER]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:10:30 2019] b
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:10:30 2019] l
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:10:30 2019] a
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:10:30 2019] c
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:10:30 2019] k
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:10:30 2019]  
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:10:32 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:10:33 2019] [ENTER]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:10:54 2019] c
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:10:54 2019] a
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:10:54 2019] u
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:10:54 2019] s
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:10:54 2019] e
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:10:54 2019] [ENTER]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:11:49 2019]  
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:11:49 2019] h
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:11:50 2019] u
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:11:50 2019] n
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:11:50 2019] g
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:11:50 2019] r
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:11:50 2019] y
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:11:50 2019] [ENTER]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:12:24 2019] t
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:12:24 2019] e
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:12:24 2019] e
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:12:25 2019] n
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:12:25 2019] a
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:12:25 2019] g
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:12:25 2019] e
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:12:25 2019]  
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:12:25 2019] p
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:12:25 2019] r
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:12:26 2019] e
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:12:26 2019] g
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:12:26 2019] n
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:12:26 2019] a
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:12:26 2019] n
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:12:27 2019] c
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:12:27 2019] y
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:12:27 2019]  
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:12:27 2019] u
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:12:27 2019] s
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:12:27 2019]  
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:12:28 2019] [ENTER]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:12:56 2019] m
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:12:56 2019] e
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:12:56 2019] r
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:12:57 2019] i
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:12:57 2019] c
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:12:57 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:12:57 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:12:57 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:12:57 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:12:58 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:12:58 2019] a
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:12:58 2019] m
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:12:58 2019] e
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:12:58 2019] r
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:12:58 2019] i
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:12:58 2019] c
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:12:59 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:12:59 2019] c
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:12:59 2019] a
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:12:59 2019] [ENTER]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:15:03 2019]  
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:15:03 2019] p
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:15:03 2019] r
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:15:03 2019] o
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:15:03 2019] e
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:15:04 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:15:04 2019] t
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:15:04 2019] e
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:15:04 2019] c
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:15:04 2019] t
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:15:04 2019] i
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:15:04 2019] o
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:15:04 2019] n
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:15:04 2019] [ENTER]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:15:23 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:15:23 2019] b
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:15:23 2019] i
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:15:23 2019] r
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:15:24 2019] t
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:15:24 2019] h
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:15:24 2019]  
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:15:24 2019] c
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:15:24 2019] o
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:15:24 2019] n
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:15:25 2019] t
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:15:25 2019] r
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:15:25 2019] o
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:15:25 2019] l
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:15:25 2019]  
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:15:26 2019] t
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:15:26 2019] e
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:15:26 2019] n
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:15:26 2019] n
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:15:26 2019] a
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:15:26 2019] g
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:15:26 2019] e
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:15:27 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:15:27 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:15:27 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:15:27 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:15:27 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:15:28 2019] e
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:15:28 2019] n
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:15:28 2019] a
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:15:28 2019] g
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:15:28 2019] e
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:15:32 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:15:32 2019] [ENTER]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:16:21 2019] [CONTROL]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:16:21 2019] [TAB]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:16:22 2019] [ENTER]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:17:28 2019] z
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:17:28 2019] w
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:17:28 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:17:28 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:17:28 2019] s
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:17:28 2019] e
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:17:29 2019] c
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:17:29 2019]  
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:17:29 2019] e
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:17:29 2019] d
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:17:29 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:17:29 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:17:30 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:17:30 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:17:30 2019] x
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:17:30 2019]  
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:17:30 2019] e
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:17:30 2019] d
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:17:30 2019] u
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:17:30 2019] c
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:17:31 2019] a
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:17:31 2019] t
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:17:31 2019] i
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:17:31 2019] o
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:17:31 2019] n
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:17:31 2019]  
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:17:31 2019] a
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:17:31 2019] m
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:17:32 2019] e
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:17:32 2019] r
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:17:32 2019] i
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:17:32 2019] c
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:17:32 2019] a
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:17:33 2019] [ENTER]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:19:13 2019] t
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:19:14 2019] e
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:19:14 2019] e
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:19:14 2019] n
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:19:14 2019] a
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:19:14 2019] g
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:19:14 2019] e
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:19:14 2019]  
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:19:14 2019] p
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:19:15 2019] r
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:19:15 2019] e
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:19:15 2019] c
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:19:15 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:19:16 2019] g
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:19:16 2019] n
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:19:16 2019] a
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:19:16 2019] n
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:19:16 2019] c
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:19:16 2019] y
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:19:17 2019] [BACKSPACE]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:19:17 2019] i
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:19:17 2019] e
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:19:17 2019] s
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:19:17 2019]  
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:19:18 2019] a
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:19:18 2019] m
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:19:18 2019] o
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:19:18 2019] u
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:19:18 2019] n
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:19:18 2019] t
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:19:18 2019] [ENTER]
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:19:23 2019]  
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:19:24 2019] a
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:19:24 2019] m
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:19:25 2019] e
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:19:25 2019] r
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:19:25 2019] i
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:19:25 2019] c
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:19:25 2019] a
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:19:25 2019]  
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:19:25 2019] u
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:19:25 2019] s
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:19:25 2019] a
+
+[Window: Search Engine - Google Chrome - at Mon Mar 11 12:19:25 2019] [ENTER]
+
+[Window: Search Engine Post-Questionnaire - Google Chrome - at Mon Mar 11 12:19:47 2019] [SHIFT]
+
+[Window: Search Engine Post-Questionnaire - Google Chrome - at Mon Mar 11 12:19:48 2019] I
+
+[Window: Search Engine Post-Questionnaire - Google Chrome - at Mon Mar 11 12:19:48 2019] r
+
+[Window: Search Engine Post-Questionnaire - Google Chrome - at Mon Mar 11 12:19:48 2019] e
+
+[Window: Search Engine Post-Questionnaire - Google Chrome - at Mon Mar 11 12:19:48 2019] n
+
+[Window: Search Engine Post-Questionnaire - Google Chrome - at Mon Mar 11 12:19:48 2019] e
+
+[Window: Search Engine Post-Questionnaire - Google Chrome - at Mon Mar 11 12:19:48 2019]  
+
+[Window: Search Engine Post-Questionnaire - Google Chrome - at Mon Mar 11 12:19:48 2019] [SHIFT]
+
+[Window: Search Engine Post-Questionnaire - Google Chrome - at Mon Mar 11 12:19:48 2019] V
+
+[Window: Search Engine Post-Questionnaire - Google Chrome - at Mon Mar 11 12:19:48 2019] o
+
+[Window: Search Engine Post-Questionnaire - Google Chrome - at Mon Mar 11 12:19:49 2019] o
+
+[Window: Search Engine Post-Questionnaire - Google Chrome - at Mon Mar 11 12:19:49 2019] i
+
+[Window: Search Engine Post-Questionnaire - Google Chrome - at Mon Mar 11 12:19:49 2019] j
+
+[Window: Search Engine Post-Questionnaire - Google Chrome - at Mon Mar 11 12:19:49 2019] s

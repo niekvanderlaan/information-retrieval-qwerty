@@ -1,0 +1,40 @@
+2019-03-10 19:20:46.984264: Entered query: black bear extinction worldwide
+2019-03-10 19:20:57.416330: Entered query: black bear attacks worldwide
+2019-03-10 19:21:33.589500: Clicked docid: 2sUMXWkBNnvwcWWyF6TH
+2019-03-10 19:22:08.803619: Entered query: black bear attack food
+2019-03-10 19:22:16.891406: Clicked docid: WsEDXWkBNnvwcWWy5Ac_
+2019-03-10 19:22:40.756838: Clicked docid: 0rvlXGkBNnvwcWWy-jYR
+2019-03-10 19:23:29.698305: Clicked docid: s7rkXGkBNnvwcWWyit85
+2019-03-10 19:24:02.283345: Entered query: black bear attack why
+2019-03-10 19:24:09.977843: Clicked docid: 57rkXGkBNnvwcWWyq-db
+2019-03-10 19:25:03.642157: Marked relevant: 57rkXGkBNnvwcWWyq-db
+2019-03-10 19:25:20.463195: Clicked docid: 2sUMXWkBNnvwcWWyF6TH
+2019-03-10 19:25:47.787797: Clicked docid: 3b79XGkBNnvwcWWybD0K
+2019-03-10 19:26:31.502498: Marked relevant: 3b79XGkBNnvwcWWybD0K
+2019-03-10 19:26:47.240599: Entered query: black bear attack prevent
+2019-03-10 19:27:23.962750: Entered query: black bear attack worldwide
+2019-03-10 19:27:33.878780: Entered query: black bear attack world
+2019-03-10 19:27:41.662081: Entered query: black bear attack causes
+2019-03-10 19:27:59.417602: Clicked docid: 2sUMXWkBNnvwcWWyF6TH
+2019-03-10 19:28:06.357642: Clicked docid: yLvmXGkBNnvwcWWyT0VG
+2019-03-10 19:28:27.282803: Marked relevant: yLvmXGkBNnvwcWWyT0VG
+2019-03-10 19:28:31.316446: Clicked docid: 8MEDXWkBNnvwcWWy3gIZ
+2019-03-10 19:28:56.061987: Marked relevant: 8MEDXWkBNnvwcWWy3gIZ
+2019-03-10 19:29:07.160575: Entered query: black bear attack act
+2019-03-10 19:29:16.406538: Entered query: black bear attack law
+2019-03-10 19:29:21.169025: Entered query: black bear attack prevent
+2019-03-10 19:29:29.641304: Clicked docid: 9L7_XGkBNnvwcWWyeaZh
+2019-03-10 19:30:04.097112: Clicked docid: 2sUMXWkBNnvwcWWyF6TH
+2019-03-10 19:30:09.370884: Clicked docid: Z7rkXGkBNnvwcWWybtjg
+2019-03-10 19:30:29.710850: Marked relevant: Z7rkXGkBNnvwcWWybtjg
+2019-03-10 19:30:46.745991: Clicked docid: Cb8BXWkBNnvwcWWyGXpy
+2019-03-10 19:31:02.268285: Clicked docid: uLrkXGkBNnvwcWWyd9pP
+2019-03-10 19:31:14.834459: Entered query: black bear attack plan
+2019-03-10 19:31:21.996340: Clicked docid: EbnhXGkBNnvwcWWynvoi
+2019-03-10 19:31:35.927457: Clicked docid: qbrkXGkBNnvwcWWyiN9L
+2019-03-10 19:32:00.033758: Clicked docid: O7rkXGkBNnvwcWWy0fOZ
+2019-03-10 19:32:11.734621: Marked relevant: O7rkXGkBNnvwcWWy0fOZ
+2019-03-10 19:32:12.801072: Clicked docid: sbrkXGkBNnvwcWWyXtOM
+2019-03-10 19:32:39.771226: Entered query: black bear attack reasons
+2019-03-10 19:32:46.480380: Clicked docid: qbrkXGkBNnvwcWWyiN9L
+2019-03-10 19:32:58.215627: Clicked docid: 47riXGkBNnvwcWWyWjVJ

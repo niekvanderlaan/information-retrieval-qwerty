@@ -1,0 +1,17 @@
+2019-03-10 17:08:43.084885: Entered query: curb bear attack
+2019-03-10 17:08:48.837370: Clicked docid: qbrkXGkBNnvwcWWyiN9L
+2019-03-10 17:09:03.757227: Entered query: preventbear attack
+2019-03-10 17:09:07.701272: Entered query: prevent bear attack
+2019-03-10 17:09:42.381770: Entered query: control bear attack
+2019-03-10 17:09:44.954831: Clicked docid: Tr7_XGkBNnvwcWWyhamg
+2019-03-10 17:10:09.434270: Clicked docid: eLnhXGkBNnvwcWWynvoi
+2019-03-10 17:11:12.727152: Clicked docid: WsEDXWkBNnvwcWWy5Ac_
+2019-03-10 17:11:29.353969: Entered query: control black bear attack
+2019-03-10 17:11:31.552934: Entered query: black bear attack
+2019-03-10 17:11:36.115195: Clicked docid: UL79XGkBNnvwcWWy8FU9
+2019-03-10 17:13:30.579244: Entered query: cause black bear attack
+2019-03-10 17:13:35.878399: Clicked docid: qbrkXGkBNnvwcWWyiN9L
+2019-03-10 17:15:00.457526: Marked UL79XGkBNnvwcWWy8FU9 as relevant
+2019-03-10 17:15:01.510412: Clicked docid: UL79XGkBNnvwcWWy8FU9
+2019-03-10 17:15:35.648226: Entered query: frequency black bear attack
+2019-03-10 17:15:44.573376: Entered query: frequency bear attack

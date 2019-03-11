@@ -1,0 +1,35 @@
+2019-03-11 12:05:09.207215: Entered query: black bear attack cause
+2019-03-11 12:05:19.493290: Marked relevant: qL7_XGkBNnvwcWWytLLB
+2019-03-11 12:05:31.202382: Marked relevant: pbfbXGkBNnvwcWWyh80d
+2019-03-11 12:05:34.074505: Marked relevant: x77_XGkBNnvwcWWyW6BG
+2019-03-11 12:05:44.461283: Entered query: black bear attack cosmetics
+2019-03-11 12:05:58.428602: Clicked docid: 57rkXGkBNnvwcWWyq-db
+2019-03-11 12:06:27.761626: Marked relevant: 57rkXGkBNnvwcWWyq-db
+2019-03-11 12:06:31.728385: Clicked docid: EbnhXGkBNnvwcWWynvoi
+2019-03-11 12:06:55.652953: Entered query: black bear attack frequency
+2019-03-11 12:06:59.270920: Clicked docid: UL79XGkBNnvwcWWy8FU9
+2019-03-11 12:07:25.858721: Clicked docid: -r79XGkBNnvwcWWyXDmb
+2019-03-11 12:07:35.713269: Entered query: black bear attack frequency researc h
+2019-03-11 12:07:40.025411: Entered query: black bear attack frequency research
+2019-03-11 12:08:03.712834: Marked relevant: nLvnXGkBNnvwcWWyTXMm
+2019-03-11 12:08:21.326537: Clicked docid: PL75XGkBNnvwcWWythTk
+2019-03-11 12:08:57.892731: Entered query: black bear attacks
+2019-03-11 12:09:02.048418: Marked relevant: ZL7-XGkBNnvwcWWyGF0a
+2019-03-11 12:09:07.429330: Marked relevant: vbzrXGkBNnvwcWWyjCuH
+2019-03-11 12:09:34.592469: Clicked docid: fr33XGkBNnvwcWWyWsKy
+2019-03-11 12:09:51.421833: Entered query: bear attacks frequent
+2019-03-11 12:09:54.844709: Marked relevant: k7fbXGkBNnvwcWWyl9OR
+2019-03-11 12:10:14.863576: Clicked docid: sLrkXGkBNnvwcWWyreg0
+2019-03-11 12:10:34.048099: Entered query: black bear frequent
+2019-03-11 12:10:38.430850: Marked relevant: O7rkXGkBNnvwcWWy0fOZ
+2019-03-11 12:10:39.126836: Marked relevant: sbrkXGkBNnvwcWWyXtOM
+2019-03-11 12:10:46.941958: Marked relevant: UL79XGkBNnvwcWWy8FU9
+2019-03-11 12:10:49.688746: Marked relevant: 2sUMXWkBNnvwcWWyF6TH
+2019-03-11 12:10:55.280084: Entered query: black bear cause
+2019-03-11 12:11:08.232462: Marked relevant: qbrkXGkBNnvwcWWyiN9L
+2019-03-11 12:11:09.869390: Clicked docid: frrkXGkBNnvwcWWyiN9L
+2019-03-11 12:11:19.196600: Marked relevant: frrkXGkBNnvwcWWyiN9L
+2019-03-11 12:11:30.642937: Clicked docid: Z7rkXGkBNnvwcWWybtjg
+2019-03-11 12:11:51.572333: Entered query: black bear cause hungry
+2019-03-11 12:11:57.502852: Clicked docid: 47riXGkBNnvwcWWyWjVJ
+2019-03-11 12:12:09.582111: Marked relevant: 47riXGkBNnvwcWWyWjVJ

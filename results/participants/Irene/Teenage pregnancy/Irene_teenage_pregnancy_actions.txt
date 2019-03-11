@@ -1,0 +1,40 @@
+2019-03-11 12:12:28.741834: Entered query: teenage pregnancy us 
+2019-03-11 12:12:35.171019: Marked relevant: t8EDXWkBNnvwcWWy3wOA
+2019-03-11 12:12:36.596945: Marked relevant: LcACXWkBNnvwcWWyRyai
+2019-03-11 12:12:45.255792: Clicked docid: a7jdXGkBNnvwcWWyIWAE
+2019-03-11 12:13:00.497042: Entered query: teenage pregnancy america
+2019-03-11 12:13:15.317970: Marked relevant: RL8AXWkBNnvwcWWyXw7d
+2019-03-11 12:13:28.372171: Clicked docid: XL8BXWkBNnvwcWWyDXMF
+2019-03-11 12:13:47.192792: Marked relevant: b8IFXWkBNnvwcWWyqQPM
+2019-03-11 12:13:51.466009: Marked irrelevant: b8IFXWkBNnvwcWWyqQPM
+2019-03-11 12:13:52.893011: Marked relevant: XL8BXWkBNnvwcWWyDXMF
+2019-03-11 12:13:55.237014: Clicked docid: D7zrXGkBNnvwcWWy6TsW
+2019-03-11 12:14:27.940179: Clicked docid: urztXGkBNnvwcWWyAWfX
+2019-03-11 12:14:43.752987: Marked relevant: urztXGkBNnvwcWWyAWfX
+2019-03-11 12:14:49.664688: Marked relevant: SrngXGkBNnvwcWWyh6SF
+2019-03-11 12:14:52.346927: Clicked docid: SrngXGkBNnvwcWWyh6SF
+2019-03-11 12:15:05.587892: Entered query: teenage pregnancy america protection
+2019-03-11 12:15:32.990758: Entered query: birth control teenage america 
+2019-03-11 12:15:37.489519: Clicked docid: bbvmXGkBNnvwcWWyT0VG
+2019-03-11 12:15:53.643331: Marked relevant: bbvmXGkBNnvwcWWyT0VG
+2019-03-11 12:15:59.097984: Clicked docid: hr30XGkBNnvwcWWyZGG9
+2019-03-11 12:16:23.222568: Clicked docid: hr30XGkBNnvwcWWyZGG9
+2019-03-11 12:16:32.939358: Marked relevant: 9LrkXGkBNnvwcWWyit85
+2019-03-11 12:16:36.927165: Marked relevant: wLnhXGkBNnvwcWWyZuhp
+2019-03-11 12:16:38.569961: Clicked docid: wLnhXGkBNnvwcWWyZuhp
+2019-03-11 12:16:56.606294: Marked irrelevant: wLnhXGkBNnvwcWWyZuhp
+2019-03-11 12:16:57.805948: Clicked docid: 9LrkXGkBNnvwcWWyit85
+2019-03-11 12:17:26.014453: Marked relevant: g7jdXGkBNnvwcWWyDFgZ
+2019-03-11 12:17:33.448108: Entered query: sex education america
+2019-03-11 12:17:39.622344: Clicked docid: qLvnXGkBNnvwcWWy_JOe
+2019-03-11 12:17:46.747249: Marked relevant: qLvnXGkBNnvwcWWy_JOe
+2019-03-11 12:17:52.223353: Clicked docid: 77voXGkBNnvwcWWyGpep
+2019-03-11 12:18:04.670526: Marked relevant: 77voXGkBNnvwcWWyGpep
+2019-03-11 12:18:05.550922: Marked relevant: XLztXGkBNnvwcWWyzoON
+2019-03-11 12:18:07.472853: Clicked docid: XLztXGkBNnvwcWWyzoON
+2019-03-11 12:18:23.462419: Clicked docid: 2bvpXGkBNnvwcWWyC8TO
+2019-03-11 12:18:46.724974: Marked relevant: 2bvpXGkBNnvwcWWyC8TO
+2019-03-11 12:18:50.914896: Clicked docid: mrneXGkBNnvwcWWyqAfF
+2019-03-11 12:19:07.204407: Marked relevant: JL32XGkBNnvwcWWyBZfT
+2019-03-11 12:19:19.213657: Entered query: teenage pregnancies amount
+2019-03-11 12:19:26.251033: Entered query: teenage pregnancies amount america usa

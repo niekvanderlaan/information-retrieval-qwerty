@@ -1,0 +1,41 @@
+2019-03-11 11:57:05.559891: Entered query: wildlife extinction america
+2019-03-11 11:57:32.747848: Marked relevant: 2cIHXWkBNnvwcWWyNelV
+2019-03-11 11:57:45.600749: Clicked docid: 078BXWkBNnvwcWWyU5r1
+2019-03-11 11:57:56.781980: Marked relevant: 078BXWkBNnvwcWWyU5r1
+2019-03-11 11:58:02.920028: Clicked docid: 57rhXGkBNnvwcWWyvwRj
+2019-03-11 11:58:25.703071: Marked relevant: 5rnhXGkBNnvwcWWyF9Sx
+2019-03-11 11:58:31.489106: Clicked docid: WLriXGkBNnvwcWWy5GFY
+2019-03-11 11:58:49.184904: Marked relevant: 5rneXGkBNnvwcWWyngLh
+2019-03-11 11:58:53.310797: Clicked docid: D7fbXGkBNnvwcWWyhM2c
+2019-03-11 11:58:58.357174: Marked relevant: D7fbXGkBNnvwcWWyhM2c
+2019-03-11 11:59:18.801541: Entered query: endangered species
+2019-03-11 11:59:23.157462: Clicked docid: F7zqXGkBNnvwcWWyhAMc
+2019-03-11 11:59:36.206190: Marked relevant: mcQKXWkBNnvwcWWy0-x-
+2019-03-11 11:59:37.343334: Marked relevant: N8EFXWkBNnvwcWWySMkw
+2019-03-11 11:59:42.781322: Marked relevant: B7nhXGkBNnvwcWWyeO4w
+2019-03-11 12:00:00.904708: Marked relevant: 6LrhXGkBNnvwcWWyvwRj
+2019-03-11 12:00:13.451157: Marked relevant: C8IGXWkBNnvwcWWyIksi
+2019-03-11 12:00:14.320695: Marked relevant: LMMIXWkBNnvwcWWyoKzT
+2019-03-11 12:00:34.262319: Clicked docid: DrnfXGkBNnvwcWWyhlIN
+2019-03-11 12:00:48.917701: Marked relevant: DrnfXGkBNnvwcWWyhlIN
+2019-03-11 12:00:57.607291: Clicked docid: 8briXGkBNnvwcWWyyVa4
+2019-03-11 12:01:17.128004: Entered query: wildlife protection
+2019-03-11 12:01:21.743411: Marked relevant: ab4AXWkBNnvwcWWyLvDr
+2019-03-11 12:01:25.584869: Marked relevant: xMQKXWkBNnvwcWWyNpah
+2019-03-11 12:01:29.479500: Marked relevant: uMIGXWkBNnvwcWWy_clc
+2019-03-11 12:01:40.884308: Marked relevant: 0cQKXWkBNnvwcWWyQZ1O
+2019-03-11 12:01:49.663461: Marked relevant: dcEEXWkBNnvwcWWy5JC5
+2019-03-11 12:02:04.439562: Marked relevant: SMIGXWkBNnvwcWWyQl-g
+2019-03-11 12:02:30.395027: Marked relevant: hMQKXWkBNnvwcWWyabRg
+2019-03-11 12:02:34.614109: Marked relevant: ab8BXWkBNnvwcWWyVZtu
+2019-03-11 12:02:48.715821: Entered query: animal protection
+2019-03-11 12:02:52.810440: Marked relevant: Lb4AXWkBNnvwcWWyQfsr
+2019-03-11 12:02:57.793763: Marked relevant: csEEXWkBNnvwcWWyo2u5
+2019-03-11 12:03:00.857246: Marked relevant: asEEXWkBNnvwcWWyKzG3
+2019-03-11 12:03:04.201843: Marked relevant: 6cQKXWkBNnvwcWWyZLHX
+2019-03-11 12:03:05.403600: Marked relevant: aMIGXWkBNnvwcWWy6b0Q
+2019-03-11 12:03:38.471328: Marked relevant: fMEEXWkBNnvwcWWyQDk2
+2019-03-11 12:03:41.189014: Marked relevant: V8ACXWkBNnvwcWWyd0Lo
+2019-03-11 12:03:44.755422: Marked relevant: F8ULXWkBNnvwcWWypmMs
+2019-03-11 12:03:53.368104: Marked relevant: gcMIXWkBNnvwcWWyq7P6
+2019-03-11 12:03:56.861409: Clicked docid: gcMIXWkBNnvwcWWyq7P6
