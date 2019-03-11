@@ -1,0 +1,14 @@
+2019-03-11 17:16:38.365626: Entered query: wildlife extinction
+2019-03-11 17:16:42.001019: Clicked docid: 078BXWkBNnvwcWWyU5r1
+2019-03-11 17:16:51.693055: Marked relevant: 078BXWkBNnvwcWWyU5r1
+2019-03-11 17:16:54.434441: Clicked docid: D7fbXGkBNnvwcWWyhM2c
+2019-03-11 17:17:33.305493: Marked relevant: D7fbXGkBNnvwcWWyhM2c
+2019-03-11 17:17:37.079613: Clicked docid: 5rneXGkBNnvwcWWyngLh
+2019-03-11 17:17:53.725837: Marked relevant: 5rneXGkBNnvwcWWyngLh
+2019-03-11 17:17:58.456951: Clicked docid: 2cIHXWkBNnvwcWWyNelV
+2019-03-11 17:18:42.451024: Marked relevant: 2cIHXWkBNnvwcWWyNelV
+2019-03-11 17:18:55.619005: Clicked docid: VMEEXWkBNnvwcWWyTEBo
+2019-03-11 17:19:34.357302: Marked relevant: VMEEXWkBNnvwcWWyTEBo
+2019-03-11 17:19:41.795564: Marked relevant: 5MULXWkBNnvwcWWyRSy6
+2019-03-11 17:19:46.081244: Clicked docid: QcMJXWkBNnvwcWWyAOas
+2019-03-11 17:19:57.433019: Marked relevant: QcMJXWkBNnvwcWWyAOas

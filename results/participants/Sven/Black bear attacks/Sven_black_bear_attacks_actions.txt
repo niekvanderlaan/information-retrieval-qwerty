@@ -1,0 +1,44 @@
+2019-03-11 15:50:14.069745: Entered query: black bear attacks
+2019-03-11 15:50:24.941731: Entered query: black bear attacks statistics
+2019-03-11 15:50:27.705421: Marked relevant: qL7_XGkBNnvwcWWytLLB
+2019-03-11 15:50:30.937002: Clicked docid: 57rkXGkBNnvwcWWyq-db
+2019-03-11 15:50:39.718740: Marked relevant: ZL7-XGkBNnvwcWWyGF0a
+2019-03-11 15:50:41.389238: Clicked docid: ZL7-XGkBNnvwcWWyGF0a
+2019-03-11 15:50:46.872174: Marked irrelevant: ZL7-XGkBNnvwcWWyGF0a
+2019-03-11 15:50:51.214651: Entered query: amount black bear attacks
+2019-03-11 15:51:13.905058: Clicked docid: X8EFXWkBNnvwcWWyCqeA
+2019-03-11 15:51:22.196237: Entered query: black bear attacks
+2019-03-11 15:51:33.059508: Entered query: black bear attacks survey
+2019-03-11 15:51:43.793661: Clicked docid: k7fbXGkBNnvwcWWyl9OR
+2019-03-11 15:51:51.588403: Marked relevant: k7fbXGkBNnvwcWWyl9OR
+2019-03-11 15:52:00.766012: Clicked docid: s7rkXGkBNnvwcWWyit85
+2019-03-11 15:52:06.437633: Entered query: black bear attack survey
+2019-03-11 15:52:14.029032: Clicked docid: -r79XGkBNnvwcWWyXDmb
+2019-03-11 15:52:18.321707: Clicked docid: UL79XGkBNnvwcWWy8FU9
+2019-03-11 15:52:30.731338: Marked relevant: UL79XGkBNnvwcWWy8FU9
+2019-03-11 15:52:32.438400: Marked relevant: WsEDXWkBNnvwcWWy5Ac_
+2019-03-11 15:52:34.273914: Clicked docid: WsEDXWkBNnvwcWWy5Ac_
+2019-03-11 15:52:40.007405: Entered query: black bear attack why
+2019-03-11 15:52:46.511550: Clicked docid: DbjcXGkBNnvwcWWyNgz-
+2019-03-11 15:53:04.330847: Entered query: bear attacks
+2019-03-11 15:53:08.317946: Clicked docid: qL7_XGkBNnvwcWWytLLB
+2019-03-11 15:53:31.261946: Marked relevant: 8MEDXWkBNnvwcWWy3gIZ
+2019-03-11 15:53:40.383697: Entered query: bear attack numbers
+2019-03-11 15:53:48.959034: Clicked docid: jLrkXGkBNnvwcWWyHMJx
+2019-03-11 15:54:07.910865: Entered query: bear attack frequency
+2019-03-11 15:54:10.639500: Clicked docid: qbrkXGkBNnvwcWWyiN9L
+2019-03-11 15:54:16.857997: Entered query: black bear frequency
+2019-03-11 15:54:22.732751: Entered query: black bear death frequency
+2019-03-11 15:54:55.224769: Entered query: black bear death survey
+2019-03-11 15:55:02.659853: Entered query: black bear death study
+2019-03-11 15:55:08.158133: Clicked docid: ZL7-XGkBNnvwcWWyGF0a
+2019-03-11 15:55:37.640851: Clicked docid: x77_XGkBNnvwcWWyW6BG
+2019-03-11 15:55:42.908059: Marked relevant: x77_XGkBNnvwcWWyW6BG
+2019-03-11 15:55:44.547279: Clicked docid: x77_XGkBNnvwcWWyW6BG
+2019-03-11 15:56:18.232931: Entered query: black bear
+2019-03-11 15:56:22.360472: Entered query: black bear frequency
+2019-03-11 15:56:31.008503: Entered query: black bear numbers
+2019-03-11 15:56:37.754551: Clicked docid: 3b79XGkBNnvwcWWybD0K
+2019-03-11 15:56:55.683532: Clicked docid: jLrkXGkBNnvwcWWyHMJx
+2019-03-11 15:57:07.310608: Clicked docid: yLvmXGkBNnvwcWWyT0VG
+2019-03-11 15:57:22.827056: Marked relevant: yLvmXGkBNnvwcWWyT0VG

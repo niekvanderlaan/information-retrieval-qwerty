@@ -1,0 +1,36 @@
+2019-03-11 16:24:24.093674: Entered query: black bear attacks
+2019-03-11 16:24:36.111037: Clicked docid: qL7_XGkBNnvwcWWytLLB
+2019-03-11 16:24:54.037024: Marked relevant: qL7_XGkBNnvwcWWytLLB
+2019-03-11 16:25:05.174226: Clicked docid: 3b79XGkBNnvwcWWybD0K
+2019-03-11 16:25:53.931061: Marked relevant: 3b79XGkBNnvwcWWybD0K
+2019-03-11 16:26:09.070269: Entered query: black bear attacks measures
+2019-03-11 16:26:16.249837: Clicked docid: ZL7-XGkBNnvwcWWyGF0a
+2019-03-11 16:26:34.838765: Marked relevant: ZL7-XGkBNnvwcWWyGF0a
+2019-03-11 16:26:44.674303: Entered query: black bear control
+2019-03-11 16:26:49.586714: Clicked docid: ZrzwXGkBNnvwcWWyfNwR
+2019-03-11 16:27:10.147689: Marked relevant: ZrzwXGkBNnvwcWWyfNwR
+2019-03-11 16:27:14.229958: Clicked docid: X8EFXWkBNnvwcWWyCqeA
+2019-03-11 16:27:25.997935: Clicked docid: yLvmXGkBNnvwcWWyT0VG
+2019-03-11 16:27:37.572066: Marked relevant: yLvmXGkBNnvwcWWyT0VG
+2019-03-11 16:27:49.990590: Entered query: black bear cosmetics
+2019-03-11 16:28:02.875849: Clicked docid: 2sUMXWkBNnvwcWWyF6TH
+2019-03-11 16:28:28.932083: Entered query: black bear attack frequency
+2019-03-11 16:28:43.136887: Entered query: cause increase bear attack
+2019-03-11 16:28:59.727165: Entered query: increase bear attack
+2019-03-11 16:29:11.670075: Entered query: bear control measure
+2019-03-11 16:29:36.639857: Entered query: blac bear control measure
+2019-03-11 16:29:40.624593: Entered query: black bear control measure
+2019-03-11 16:29:50.412606: Clicked docid: m7rkXGkBNnvwcWWytOpJ
+2019-03-11 16:30:08.488928: Marked relevant: m7rkXGkBNnvwcWWytOpJ
+2019-03-11 16:30:12.015328: Entered query: black bear hunt
+2019-03-11 16:30:18.268216: Clicked docid: 57rkXGkBNnvwcWWyq-db
+2019-03-11 16:30:31.819271: Marked relevant: 57rkXGkBNnvwcWWyq-db
+2019-03-11 16:30:45.612675: Entered query: black bear population
+2019-03-11 16:30:53.673387: Entered query: black bear suburban
+2019-03-11 16:31:05.665341: Clicked docid: 47riXGkBNnvwcWWyWjVJ
+2019-03-11 16:31:31.451016: Marked relevant: 47riXGkBNnvwcWWyWjVJ
+2019-03-11 16:32:28.409014: Entered query: teenage pregnancy us
+2019-03-11 16:32:33.225606: Clicked docid: LcACXWkBNnvwcWWyRyai
+2019-03-11 16:32:46.876808: Marked relevant: LcACXWkBNnvwcWWyRyai
+2019-03-11 16:32:52.473404: Clicked docid: RL8AXWkBNnvwcWWyXw7d
+2019-03-11 16:33:04.842774: Marked relevant: RL8AXWkBNnvwcWWyXw7d

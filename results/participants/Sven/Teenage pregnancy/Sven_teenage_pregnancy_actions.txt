@@ -1,0 +1,69 @@
+2019-03-11 15:42:30.837510: Entered query: teenage pregnancy united states
+2019-03-11 15:42:34.104055: Marked relevant: RL8AXWkBNnvwcWWyXw7d
+2019-03-11 15:42:38.885807: Marked relevant: LcACXWkBNnvwcWWyRyai
+2019-03-11 15:42:47.679576: Marked relevant: b8IFXWkBNnvwcWWyqQPM
+2019-03-11 15:42:50.049869: Clicked docid: b8IFXWkBNnvwcWWyqQPM
+2019-03-11 15:43:14.514375: Marked relevant: JLnfXGkBNnvwcWWyIjNn
+2019-03-11 15:43:16.153024: Clicked docid: JLnfXGkBNnvwcWWyIjNn
+2019-03-11 15:43:26.156825: Clicked docid: sb7-XGkBNnvwcWWyHV5k
+2019-03-11 15:43:30.939180: Marked relevant: sb7-XGkBNnvwcWWyHV5k
+2019-03-11 15:43:35.172224: Clicked docid: CLrkXGkBNnvwcWWypeZp
+2019-03-11 15:43:39.713555: Marked relevant: CLrkXGkBNnvwcWWypeZp
+2019-03-11 15:43:41.771283: Clicked docid: Cr30XGkBNnvwcWWyjWf3
+2019-03-11 15:43:48.364263: Marked relevant: Cr30XGkBNnvwcWWyjWf3
+2019-03-11 15:43:50.090772: Clicked docid: k7voXGkBNnvwcWWy_sFm
+2019-03-11 15:43:57.280392: Marked relevant: k7voXGkBNnvwcWWy_sFm
+2019-03-11 15:43:59.850043: Clicked docid: X730XGkBNnvwcWWyjWf3
+2019-03-11 15:44:03.041070: Marked relevant: X730XGkBNnvwcWWyjWf3
+2019-03-11 15:44:23.836733: Marked relevant: 2rriXGkBNnvwcWWyulLJ
+2019-03-11 15:44:24.326051: Marked relevant: CLriXGkBNnvwcWWyulPJ
+2019-03-11 15:44:25.419705: Marked relevant: QLriXGkBNnvwcWWyulPJ
+2019-03-11 15:44:34.299532: Clicked docid: PbjcXGkBNnvwcWWy-FD1
+2019-03-11 15:44:40.840782: Marked relevant: 3b8AXWkBNnvwcWWy3VUb
+2019-03-11 15:44:42.527252: Clicked docid: 3b8AXWkBNnvwcWWy3VUb
+2019-03-11 15:44:50.787343: Marked irrelevant: 3b8AXWkBNnvwcWWy3VUb
+2019-03-11 15:45:10.103712: Entered query: teen pregnancy united states
+2019-03-11 15:45:14.079099: Marked relevant: 78IGXWkBNnvwcWWyOVnn
+2019-03-11 15:45:17.041130: Marked relevant: j730XGkBNnvwcWWymGgB
+2019-03-11 15:45:18.542377: Marked relevant: lr30XGkBNnvwcWWymGgB
+2019-03-11 15:45:23.283265: Marked relevant: LbrkXGkBNnvwcWWy2_ai
+2019-03-11 15:45:27.529337: Clicked docid: 57zuXGkBNnvwcWWytKD4
+2019-03-11 15:45:33.470601: Marked relevant: 57zuXGkBNnvwcWWytKD4
+2019-03-11 15:45:35.662173: Marked relevant: j7ngXGkBNnvwcWWyWJVw
+2019-03-11 15:45:36.585653: Marked relevant: srngXGkBNnvwcWWyU5NX
+2019-03-11 15:45:37.037498: Marked relevant: SrngXGkBNnvwcWWyU5NX
+2019-03-11 15:45:39.654747: Marked relevant: Hb33XGkBNnvwcWWyFro8
+2019-03-11 15:45:40.052284: Marked relevant: QbngXGkBNnvwcWWyWJVw
+2019-03-11 15:46:03.984133: Entered query: teen abortion united states
+2019-03-11 15:46:06.812532: Marked relevant: -rriXGkBNnvwcWWywFTM
+2019-03-11 15:46:07.540905: Marked relevant: -briXGkBNnvwcWWywFTM
+2019-03-11 15:46:08.776155: Marked relevant: RbriXGkBNnvwcWWywFXN
+2019-03-11 15:46:09.779633: Marked relevant: 37riXGkBNnvwcWWywFTM
+2019-03-11 15:46:23.071364: Marked relevant: Y732XGkBNnvwcWWyx6-8
+2019-03-11 15:46:26.082600: Marked relevant: x7ngXGkBNnvwcWWy58Sd
+2019-03-11 15:46:27.868678: Clicked docid: x7ngXGkBNnvwcWWy58Sd
+2019-03-11 15:46:40.058888: Marked relevant: G73yXGkBNnvwcWWy1y9K
+2019-03-11 15:46:51.083655: Entered query: teen pregnancy causes united states
+2019-03-11 15:46:57.939408: Marked relevant: FLvoXGkBNnvwcWWyDJVW
+2019-03-11 15:47:08.962557: Marked relevant: mbriXGkBNnvwcWWyvlNo
+2019-03-11 15:47:17.482099: Entered query: teen pregnancy causes america
+2019-03-11 15:47:25.607173: Entered query: teen pregnancy study causes america
+2019-03-11 15:47:32.124752: Marked relevant: Ob8AXWkBNnvwcWWy4Ffb
+2019-03-11 15:47:44.034283: Marked relevant: _cQKXWkBNnvwcWWySaFC
+2019-03-11 15:47:52.603720: Entered query: teen pregnancy study US
+2019-03-11 15:47:57.670608: Clicked docid: 2r4AXWkBNnvwcWWyHOVA
+2019-03-11 15:48:01.401353: Marked relevant: 2r4AXWkBNnvwcWWyHOVA
+2019-03-11 15:48:05.824410: Marked relevant: SbnhXGkBNnvwcWWyqv5L
+2019-03-11 15:48:12.139449: Marked relevant: jbzuXGkBNnvwcWWytKH4
+2019-03-11 15:48:18.130624: Clicked docid: _LzuXGkBNnvwcWWyv6Lx
+2019-03-11 15:48:26.547048: Marked relevant: VrzvXGkBNnvwcWWyuMJF
+2019-03-11 15:48:27.489574: Marked relevant: c7zvXGkBNnvwcWWyuMJF
+2019-03-11 15:48:36.100752: Entered query: teen pregnancy US
+2019-03-11 15:48:40.892812: Clicked docid: 0rrjXGkBNnvwcWWyvqV4
+2019-03-11 15:48:47.946518: Marked relevant: BrngXGkBNnvwcWWyU5RX
+2019-03-11 15:49:02.640031: Clicked docid: H7vlXGkBNnvwcWWy-jYR
+2019-03-11 15:49:06.142373: Clicked docid: hrzsXGkBNnvwcWWyJ0V_
+2019-03-11 15:49:13.859151: Marked relevant: 8rzrXGkBNnvwcWWyxDQq
+2019-03-11 15:49:16.883437: Marked relevant: zrvlXGkBNnvwcWWy8TQy
+2019-03-11 15:49:26.718383: Entered query: teen abortion study US
+2019-03-11 15:49:30.907178: Clicked docid: _bjeXGkBNnvwcWWyk_1R

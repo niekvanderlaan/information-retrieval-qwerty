@@ -1,0 +1,10 @@
+Typing Time / Query: 3.625
+Assessment Time / Query: 48.875
+Total Time / Query: 52.5
+On-Topic Typing / Query (WPM): 56.275862068965516
+Typed Characters / Query: 17.0
+Error Characters / Query: 4.75
+Output Characters / Query: 12.25
+Number of Queries: 8
+Documents Marked: 9
+Documents clicked: 16

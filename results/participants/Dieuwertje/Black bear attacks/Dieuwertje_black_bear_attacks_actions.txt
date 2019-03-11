@@ -1,0 +1,20 @@
+2019-03-11 16:39:51.258545: Entered query: black bear attacks
+2019-03-11 16:40:00.917986: Clicked docid: 57rkXGkBNnvwcWWyq-db
+2019-03-11 16:40:47.627386: Entered query: black bear attacks cosmetics
+2019-03-11 16:40:54.980441: Clicked docid: 57rkXGkBNnvwcWWyq-db
+2019-03-11 16:41:24.327280: Marked relevant: 57rkXGkBNnvwcWWyq-db
+2019-03-11 16:41:28.336807: Clicked docid: qL7_XGkBNnvwcWWytLLB
+2019-03-11 16:41:59.538959: Marked relevant: qL7_XGkBNnvwcWWytLLB
+2019-03-11 16:42:11.166030: Clicked docid: k7fbXGkBNnvwcWWyl9OR
+2019-03-11 16:42:40.122522: Entered query: bear attacks humans cosmetics
+2019-03-11 16:43:07.713376: Entered query: bears attracted by cosmetics
+2019-03-11 16:43:35.354270: Entered query: black bear attacks food cosmetics
+2019-03-11 16:43:44.781716: Clicked docid: 3b79XGkBNnvwcWWybD0K
+2019-03-11 16:44:33.761924: Marked relevant: 3b79XGkBNnvwcWWybD0K
+2019-03-11 16:44:52.132572: Entered query: correlation cosmetics bear attacks
+2019-03-11 16:45:17.696351: Marked relevant: pbfbXGkBNnvwcWWyh80d
+2019-03-11 16:45:31.165306: Entered query: correlation food bear attacks
+2019-03-11 16:45:42.289900: Clicked docid: 2bvlXGkBNnvwcWWy6TI1
+2019-03-11 16:46:03.428208: Entered query: black bear attacks wildlife
+2019-03-11 16:46:09.494845: Clicked docid: ZL7-XGkBNnvwcWWyGF0a
+2019-03-11 16:46:27.922576: Clicked docid: yLvmXGkBNnvwcWWyT0VG

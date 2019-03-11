@@ -1,0 +1,42 @@
+2019-03-11 17:59:43.531474: Entered query: Wildlife Extinction
+2019-03-11 18:00:00.187161: Clicked docid: 078BXWkBNnvwcWWyU5r1
+2019-03-11 18:00:06.700460: Marked relevant: 078BXWkBNnvwcWWyU5r1
+2019-03-11 18:00:10.078990: Marked relevant: 5rneXGkBNnvwcWWyngLh
+2019-03-11 18:00:13.387565: Marked relevant: 2cIHXWkBNnvwcWWyNelV
+2019-03-11 18:00:19.379102: Marked relevant: QcMJXWkBNnvwcWWyAOas
+2019-03-11 18:00:21.266556: Marked relevant: 5MULXWkBNnvwcWWyRSy6
+2019-03-11 18:00:35.261028: Entered query: wildlife death increase
+2019-03-11 18:00:40.398759: Marked relevant: B8ACXWkBNnvwcWWyhErS
+2019-03-11 18:01:10.575180: Entered query: animals death
+2019-03-11 18:01:16.984161: Entered query: animals extinction
+2019-03-11 18:01:30.041531: Clicked docid: lb8AXWkBNnvwcWWyrjsQ
+2019-03-11 18:01:35.671067: Marked relevant: lb8AXWkBNnvwcWWyrjsQ
+2019-03-11 18:01:45.271857: Clicked docid: c7jdXGkBNnvwcWWyHV-h
+2019-03-11 18:02:29.434722: Clicked docid: Ar8BXWkBNnvwcWWyDXMF
+2019-03-11 18:02:34.840506: Marked relevant: Ar8BXWkBNnvwcWWyDXMF
+2019-03-11 18:02:49.185820: Entered query: wildlife death extinction
+2019-03-11 18:02:52.890280: Clicked docid: TrnhXGkBNnvwcWWyROKO
+2019-03-11 18:03:12.814855: Marked relevant: cMIHXWkBNnvwcWWyXP6A
+2019-03-11 18:03:18.659525: Clicked docid: VMEEXWkBNnvwcWWyTEBo
+2019-03-11 18:03:34.942060: Marked relevant: VMEEXWkBNnvwcWWyTEBo
+2019-03-11 18:03:41.788175: Marked relevant: m7neXGkBNnvwcWWyqAbF
+2019-03-11 18:03:55.069064: Entered query: wildlife extintion
+2019-03-11 18:04:11.255856: Entered query: wildlife extinction
+2019-03-11 18:04:16.447133: Clicked docid: D7fbXGkBNnvwcWWyhM2c
+2019-03-11 18:04:21.051577: Marked relevant: D7fbXGkBNnvwcWWyhM2c
+2019-03-11 18:04:33.659325: Clicked docid: UMQJXWkBNnvwcWWy8m2E
+2019-03-11 18:05:08.241865: Marked relevant: HbrjXGkBNnvwcWWyEW8-
+2019-03-11 18:05:16.241161: Entered query: wildlife extinction increasing amout
+2019-03-11 18:05:18.458279: Entered query: wildlife extinction increasing amount
+2019-03-11 18:05:24.215472: Marked relevant: -rjdXGkBNnvwcWWy7LWU
+2019-03-11 18:05:31.911167: Clicked docid: Y7jeXGkBNnvwcWWyVeDs
+2019-03-11 18:05:36.443263: Marked relevant: Y7jeXGkBNnvwcWWyVeDs
+2019-03-11 18:05:44.250307: Clicked docid: iLvqXGkBNnvwcWWyMvZ9
+2019-03-11 18:05:50.327255: Marked relevant: iLvqXGkBNnvwcWWyMvZ9
+2019-03-11 18:05:56.552239: Clicked docid: cbzxXGkBNnvwcWWydv5u
+2019-03-11 18:06:04.318522: Marked relevant: cbzxXGkBNnvwcWWydv5u
+2019-03-11 18:06:10.188957: Marked relevant: 9sULXWkBNnvwcWWyWDfw
+2019-03-11 18:06:15.413648: Marked relevant: kcMIXWkBNnvwcWWyjaAR
+2019-03-11 18:06:20.386123: Clicked docid: 77riXGkBNnvwcWWyHyJV
+2019-03-11 18:06:42.723771: Clicked docid: 4rzuXGkBNnvwcWWyGIwF
+2019-03-11 18:06:47.046419: Marked relevant: 4rzuXGkBNnvwcWWyGIwF

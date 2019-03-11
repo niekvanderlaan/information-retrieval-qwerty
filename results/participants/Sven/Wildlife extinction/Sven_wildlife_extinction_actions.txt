@@ -1,0 +1,36 @@
+2019-03-11 15:58:43.235239: Entered query: wild life extinction
+2019-03-11 15:58:47.050394: Marked relevant: LcULXWkBNnvwcWWy0nxb
+2019-03-11 15:58:47.703014: Marked relevant: 8MQJXWkBNnvwcWWy3V8S
+2019-03-11 15:58:50.372167: Clicked docid: 8MQJXWkBNnvwcWWy3V8S
+2019-03-11 15:59:11.724797: Entered query: wild life extinction prevention
+2019-03-11 15:59:23.044859: Entered query: wild animal extinction prevention
+2019-03-11 15:59:27.452768: Marked relevant: CcIHXWkBNnvwcWWyNepV
+2019-03-11 15:59:30.806601: Marked relevant: gcMIXWkBNnvwcWWyq7P6
+2019-03-11 15:59:39.933628: Marked relevant: BMUMXWkBNnvwcWWyApnv
+2019-03-11 15:59:42.528709: Marked relevant: 2L8AXWkBNnvwcWWyrzx3
+2019-03-11 15:59:50.643665: Marked relevant: msULXWkBNnvwcWWy_pbc
+2019-03-11 15:59:53.935805: Marked relevant: psIFXWkBNnvwcWWy9C_C
+2019-03-11 16:00:01.259832: Marked relevant: 7sUMXWkBNnvwcWWyPbv_
+2019-03-11 16:00:10.811396: Marked relevant: x78BXWkBNnvwcWWygrY8
+2019-03-11 16:00:12.437244: Clicked docid: x78BXWkBNnvwcWWygrY8
+2019-03-11 16:00:25.856485: Marked relevant: EcADXWkBNnvwcWWyMqo_
+2019-03-11 16:00:34.326394: Clicked docid: nsULXWkBNnvwcWWybUPd
+2019-03-11 16:00:46.134452: Marked relevant: rr8AXWkBNnvwcWWygyKo
+2019-03-11 16:01:08.255123: Entered query: escape extinction
+2019-03-11 16:01:18.024511: Entered query: animal escape extinction
+2019-03-11 16:01:22.684664: Entered query: wild escape extinction
+2019-03-11 16:01:54.998835: Marked relevant: CcUMXWkBNnvwcWWypPpM
+2019-03-11 16:02:17.424247: Entered query: wild animal extinction
+2019-03-11 16:02:24.386361: Marked relevant: XsEFXWkBNnvwcWWylPZ3
+2019-03-11 16:02:52.324979: Marked relevant: kr7_XGkBNnvwcWWyMJj1
+2019-03-11 16:02:53.590003: Clicked docid: kr7_XGkBNnvwcWWyMJj1
+2019-03-11 16:02:56.936726: Marked irrelevant: kr7_XGkBNnvwcWWyMJj1
+2019-03-11 16:03:02.940080: Clicked docid: c7jdXGkBNnvwcWWyHV-h
+2019-03-11 16:03:06.623979: Marked relevant: c7jdXGkBNnvwcWWyHV-h
+2019-03-11 16:03:12.639544: Marked relevant: Ar8BXWkBNnvwcWWyDXMF
+2019-03-11 16:03:15.384239: Marked relevant: B8ACXWkBNnvwcWWyhErS
+2019-03-11 16:03:20.876105: Marked relevant: dMUMXWkBNnvwcWWyh-cm
+2019-03-11 16:03:46.220544: Entered query: wild increase number
+2019-03-11 16:03:57.118311: Entered query: wild increase number extinct
+2019-03-11 16:04:05.158228: Marked relevant: YsEDXWkBNnvwcWWy-BPT
+2019-03-11 16:04:12.535382: Marked relevant: BsQJXWkBNnvwcWWysEU4

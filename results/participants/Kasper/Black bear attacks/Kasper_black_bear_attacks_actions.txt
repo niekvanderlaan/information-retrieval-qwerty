@@ -1,0 +1,36 @@
+2019-03-11 17:43:50.865142: Entered query: black bear attacks cause
+2019-03-11 17:44:03.430215: Clicked docid: qbrkXGkBNnvwcWWyiN9L
+2019-03-11 17:44:36.384372: Entered query: black bear attacks how many times
+2019-03-11 17:44:41.267422: Clicked docid: qL7_XGkBNnvwcWWytLLB
+2019-03-11 17:44:59.699805: Marked relevant: qL7_XGkBNnvwcWWytLLB
+2019-03-11 17:45:03.768172: Marked relevant: 57rkXGkBNnvwcWWyq-db
+2019-03-11 17:45:32.752009: Entered query: yearly attack black bear
+2019-03-11 17:45:37.214113: Clicked docid: UL79XGkBNnvwcWWy8FU9
+2019-03-11 17:45:44.360181: Marked relevant: UL79XGkBNnvwcWWy8FU9
+2019-03-11 17:45:54.412038: Clicked docid: vbzrXGkBNnvwcWWyjCuH
+2019-03-11 17:46:07.995173: Marked relevant: pbfbXGkBNnvwcWWyh80d
+2019-03-11 17:46:19.298838: Marked relevant: x77_XGkBNnvwcWWyW6BG
+2019-03-11 17:46:28.970643: Marked relevant: 2sUMXWkBNnvwcWWyF6TH
+2019-03-11 17:46:36.060653: Clicked docid: RLjcXGkBNnvwcWWymC7K
+2019-03-11 17:46:58.084739: Entered query: black bear cosmetic attack
+2019-03-11 17:47:02.646022: Clicked docid: -r79XGkBNnvwcWWyXDmb
+2019-03-11 17:47:18.328186: Marked relevant: -r79XGkBNnvwcWWyXDmb
+2019-03-11 17:47:21.781077: Marked relevant: WsEDXWkBNnvwcWWy5Ac_
+2019-03-11 17:47:25.600176: Clicked docid: eLnhXGkBNnvwcWWynvoi
+2019-03-11 17:47:38.690843: Marked relevant: eLnhXGkBNnvwcWWynvoi
+2019-03-11 17:47:44.352842: Clicked docid: ZL7-XGkBNnvwcWWyGF0a
+2019-03-11 17:48:02.426183: Marked relevant: ZL7-XGkBNnvwcWWyGF0a
+2019-03-11 17:48:10.732075: Clicked docid: DbjcXGkBNnvwcWWyNgz-
+2019-03-11 17:48:27.572651: Clicked docid: yLvmXGkBNnvwcWWyT0VG
+2019-03-11 17:48:55.669628: Marked relevant: dLngXGkBNnvwcWWyqq8G
+2019-03-11 17:49:09.525766: Entered query: frequency bear attacks
+2019-03-11 17:49:13.241727: Entered query: frequency bear attacks food
+2019-03-11 17:49:16.270167: Entered query: frequency bear attacks 
+2019-03-11 17:49:19.468774: Clicked docid: k7fbXGkBNnvwcWWyl9OR
+2019-03-11 17:49:28.612289: Marked relevant: k7fbXGkBNnvwcWWyl9OR
+2019-03-11 17:49:41.860949: Clicked docid: sLrkXGkBNnvwcWWyreg0
+2019-03-11 17:50:06.324820: Entered query: black bear attack location
+2019-03-11 17:50:23.735545: Entered query: black bear attacks human
+2019-03-11 17:50:30.108813: Clicked docid: 0MUMXWkBNnvwcWWyMrV2
+2019-03-11 17:50:46.507210: Clicked docid: vbzrXGkBNnvwcWWyjCuH
+2019-03-11 17:50:49.638045: Marked relevant: vbzrXGkBNnvwcWWyjCuH

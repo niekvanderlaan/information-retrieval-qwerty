@@ -1,0 +1,36 @@
+2019-03-11 16:16:02.192100: Entered query: wildlife preservation measures
+2019-03-11 16:16:06.209602: Clicked docid: yMULXWkBNnvwcWWyBwnw
+2019-03-11 16:16:33.597970: Marked relevant: yMULXWkBNnvwcWWyBwnw
+2019-03-11 16:16:38.339565: Clicked docid: lcULXWkBNnvwcWWyUjRV
+2019-03-11 16:16:51.745966: Clicked docid: tsQKXWkBNnvwcWWyZLHX
+2019-03-11 16:17:17.582624: Marked relevant: tsQKXWkBNnvwcWWyZLHX
+2019-03-11 16:17:22.444002: Clicked docid: B8ACXWkBNnvwcWWyhErS
+2019-03-11 16:17:41.939497: Marked relevant: B8ACXWkBNnvwcWWyhErS
+2019-03-11 16:17:53.072235: Clicked docid: crfbXGkBNnvwcWWyl9SR
+2019-03-11 16:18:11.538558: Clicked docid: 5b8AXWkBNnvwcWWybxYe
+2019-03-11 16:18:31.134174: Entered query: bird preservation measures
+2019-03-11 16:18:42.018760: Clicked docid: Hb8AXWkBNnvwcWWydxuy
+2019-03-11 16:18:53.570336: Clicked docid: h8MIXWkBNnvwcWWy9uHf
+2019-03-11 16:19:09.259090: Marked relevant: h8MIXWkBNnvwcWWy9uHf
+2019-03-11 16:19:12.743298: Clicked docid: RsYMXWkBNnvwcWWytwYq
+2019-03-11 16:19:28.248291: Marked relevant: RsYMXWkBNnvwcWWytwYq
+2019-03-11 16:19:38.048980: Entered query: animal preservation measures
+2019-03-11 16:19:42.998825: Clicked docid: HcMHXWkBNnvwcWWyvjT9
+2019-03-11 16:20:08.057374: Clicked docid: 173xXGkBNnvwcWWy3Avc
+2019-03-11 16:20:32.611791: Entered query: nature preservation measures
+2019-03-11 16:20:36.892756: Clicked docid: TsACXWkBNnvwcWWyZzmW
+2019-03-11 16:20:46.050115: Clicked docid: m7neXGkBNnvwcWWyqAbF
+2019-03-11 16:21:03.572272: Marked relevant: m7neXGkBNnvwcWWyqAbF
+2019-03-11 16:21:16.760475: Clicked docid: 4sACXWkBNnvwcWWyg0hM
+2019-03-11 16:21:30.191452: Marked relevant: 4sACXWkBNnvwcWWyg0hM
+2019-03-11 16:21:42.767319: Entered query: environment protection
+2019-03-11 16:21:47.692583: Clicked docid: iMULXWkBNnvwcWWy5ojy
+2019-03-11 16:21:56.750573: Entered query: environment protection wildlife
+2019-03-11 16:22:01.386554: Clicked docid: b8EEXWkBNnvwcWWyKS-_
+2019-03-11 16:22:09.065240: Marked relevant: b8EEXWkBNnvwcWWyKS-_
+2019-03-11 16:22:10.388612: Clicked docid: mcIGXWkBNnvwcWWyFUP9
+2019-03-11 16:22:27.367430: Entered query: environment protection wildlife us
+2019-03-11 16:22:32.382842: Entered query: environment protection wildlife united states
+2019-03-11 16:22:39.812294: Entered query: environment protection wildlife europe
+2019-03-11 16:22:47.203693: Clicked docid: QsEEXWkBNnvwcWWy_Z-r
+2019-03-11 16:22:56.687506: Marked relevant: QsEEXWkBNnvwcWWy_Z-r

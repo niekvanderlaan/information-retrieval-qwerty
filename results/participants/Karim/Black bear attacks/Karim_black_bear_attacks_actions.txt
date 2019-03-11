@@ -1,0 +1,24 @@
+2019-03-11 17:29:27.146729: Entered query: black bear
+2019-03-11 17:30:01.736265: Entered query: black bear attaract
+2019-03-11 17:30:06.052040: Entered query: black bear attract
+2019-03-11 17:30:10.617621: Marked relevant: qL7_XGkBNnvwcWWytLLB
+2019-03-11 17:30:23.800280: Marked relevant: 57rkXGkBNnvwcWWyq-db
+2019-03-11 17:30:43.689224: Clicked docid: -r79XGkBNnvwcWWyXDmb
+2019-03-11 17:30:49.035659: Clicked docid: ar32XGkBNnvwcWWynamJ
+2019-03-11 17:30:57.267889: Entered query: black bear attract cosmetics
+2019-03-11 17:31:21.101293: Entered query: black bear repel method
+2019-03-11 17:31:34.900072: Marked relevant: yLvmXGkBNnvwcWWyT0VG
+2019-03-11 17:32:09.168423: Clicked docid: XLvlXGkBNnvwcWWy2DCO
+2019-03-11 17:32:28.520759: Entered query: black bear repel method cosmetics
+2019-03-11 17:33:13.250404: Marked relevant: 9L7_XGkBNnvwcWWyeaZh
+2019-03-11 17:33:51.917994: Entered query: black bear wildlife
+2019-03-11 17:34:11.073860: Marked relevant: 477_XGkBNnvwcWWyRZwV
+2019-03-11 17:34:45.161034: Entered query: black bear  attack humans
+2019-03-11 17:34:57.001353: Entered query: black bear control and modify
+2019-03-11 17:34:58.875497: Entered query: black bear control modify
+2019-03-11 17:35:06.194459: Marked relevant: s7rkXGkBNnvwcWWyit85
+2019-03-11 17:35:24.387761: Clicked docid: zLrhXGkBNnvwcWWy1Atw
+2019-03-11 17:35:32.449429: Marked relevant: zLrhXGkBNnvwcWWy1Atw
+2019-03-11 17:35:55.460156: Clicked docid: 47riXGkBNnvwcWWyWjVJ
+2019-03-11 17:36:40.175366: Clicked docid: N8ADXWkBNnvwcWWyXL4v
+2019-03-11 17:36:54.926005: Marked relevant: pbfbXGkBNnvwcWWyh80d

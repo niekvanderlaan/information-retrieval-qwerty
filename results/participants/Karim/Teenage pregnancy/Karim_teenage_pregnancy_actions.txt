@@ -1,0 +1,31 @@
+2019-03-11 17:37:38.819112: Entered query: Teenage pregnancy
+2019-03-11 17:37:41.820027: Entered query: Teenage pregnancy US
+2019-03-11 17:37:53.826666: Entered query: Teenage pregnancy united states
+2019-03-11 17:37:54.400668: Entered query: Teenage pregnancy united states
+2019-03-11 17:37:56.588325: Marked relevant: RL8AXWkBNnvwcWWyXw7d
+2019-03-11 17:38:11.588640: Marked relevant: LcACXWkBNnvwcWWyRyai
+2019-03-11 17:38:25.604358: Clicked docid: CLrkXGkBNnvwcWWypeZp
+2019-03-11 17:38:31.401800: Marked relevant: CLrkXGkBNnvwcWWypeZp
+2019-03-11 17:38:38.036260: Marked relevant: 2rriXGkBNnvwcWWyulLJ
+2019-03-11 17:38:48.914528: Entered query: Teenage pregnancy united states cause
+2019-03-11 17:39:03.911115: Clicked docid: JLnfXGkBNnvwcWWyIjNn
+2019-03-11 17:39:09.130379: Marked relevant: JLnfXGkBNnvwcWWyIjNn
+2019-03-11 17:39:13.309862: Clicked docid: sb7-XGkBNnvwcWWyHV5k
+2019-03-11 17:39:25.293480: Marked relevant: sb7-XGkBNnvwcWWyHV5k
+2019-03-11 17:39:30.605511: Clicked docid: 2rriXGkBNnvwcWWyulLJ
+2019-03-11 17:39:34.596001: Clicked docid: QLriXGkBNnvwcWWyulPJ
+2019-03-11 17:39:48.578609: Clicked docid: or4AXWkBNnvwcWWyANW2
+2019-03-11 17:40:15.951390: Clicked docid: PbjcXGkBNnvwcWWy-FD1
+2019-03-11 17:40:46.113600: Entered query: Teenage pregnancy  reduction
+2019-03-11 17:40:52.969944: Clicked docid: b8IFXWkBNnvwcWWyqQPM
+2019-03-11 17:41:25.368141: Clicked docid: TLztXGkBNnvwcWWyGWtO
+2019-03-11 17:41:50.808625: Marked relevant: TLztXGkBNnvwcWWyGWtO
+2019-03-11 17:42:13.872355: Clicked docid: Z7vlXGkBNnvwcWWymCV8
+2019-03-11 17:42:27.455717: Clicked docid: srngXGkBNnvwcWWyU5NX
+2019-03-11 17:42:38.277261: Marked relevant: srngXGkBNnvwcWWyU5NX
+2019-03-11 17:42:40.695671: Marked irrelevant: srngXGkBNnvwcWWyU5NX
+2019-03-11 17:42:42.482161: Marked relevant: j7ngXGkBNnvwcWWyWJVw
+2019-03-11 17:42:49.326507: Clicked docid: krriXGkBNnvwcWWyGCAK
+2019-03-11 17:42:59.096994: Marked relevant: krriXGkBNnvwcWWyGCAK
+2019-03-11 17:43:08.963123: Clicked docid: Cr8AXWkBNnvwcWWysT5O
+2019-03-11 17:43:51.998066: Clicked docid: urztXGkBNnvwcWWyAWfX

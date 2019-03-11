@@ -1,0 +1,27 @@
+2019-03-11 17:45:16.956071: Entered query: wildlife extinction prevention
+2019-03-11 17:45:29.770170: Entered query: wildlife extinction prevention method
+2019-03-11 17:45:37.076782: Clicked docid: CsQJXWkBNnvwcWWyrENr
+2019-03-11 17:45:42.053580: Marked relevant: CsQJXWkBNnvwcWWyrENr
+2019-03-11 17:45:44.971171: Clicked docid: l7jeXGkBNnvwcWWyTt2D
+2019-03-11 17:46:07.568892: Marked relevant: yrjdXGkBNnvwcWWyyqas
+2019-03-11 17:46:09.800035: Marked relevant: 2cIHXWkBNnvwcWWyNelV
+2019-03-11 17:46:37.166342: Clicked docid: QsEFXWkBNnvwcWWyCqeA
+2019-03-11 17:46:46.647819: Marked relevant: QsEFXWkBNnvwcWWyCqeA
+2019-03-11 17:47:41.185388: Marked relevant: 5MULXWkBNnvwcWWyRSy6
+2019-03-11 17:47:43.404792: Marked relevant: cb8BXWkBNnvwcWWyWJ1r
+2019-03-11 17:47:59.152866: Marked relevant: RsMIXWkBNnvwcWWy--TY
+2019-03-11 17:48:10.624909: Marked relevant: hcACXWkBNnvwcWWyQyOT
+2019-03-11 17:48:13.636865: Marked relevant: 8MULXWkBNnvwcWWyYj1k
+2019-03-11 17:48:45.089145: Entered query: native wildlife extinction prevention method
+2019-03-11 17:48:48.720020: Marked relevant: 5rneXGkBNnvwcWWyngLh
+2019-03-11 17:48:51.259701: Marked relevant: 278AXWkBNnvwcWWy0E3p
+2019-03-11 17:48:53.159729: Marked irrelevant: 278AXWkBNnvwcWWy0E3p
+2019-03-11 17:48:53.927454: Clicked docid: 278AXWkBNnvwcWWy0E3p
+2019-03-11 17:49:01.064547: Marked relevant: 278AXWkBNnvwcWWy0E3p
+2019-03-11 17:49:06.528548: Marked relevant: 1sQJXWkBNnvwcWWyii0p
+2019-03-11 17:49:13.208090: Marked relevant: 078BXWkBNnvwcWWyU5r1
+2019-03-11 17:49:16.942661: Clicked docid: D7fbXGkBNnvwcWWyhM2c
+2019-03-11 17:51:23.926438: Clicked docid: obvlXGkBNnvwcWWyAwFX
+2019-03-11 17:51:43.385147: Entered query: native wildlife extinction 
+2019-03-11 17:51:47.390700: Marked relevant: TrnhXGkBNnvwcWWyROKO
+2019-03-11 17:51:50.890115: Clicked docid: WLriXGkBNnvwcWWy5GFY

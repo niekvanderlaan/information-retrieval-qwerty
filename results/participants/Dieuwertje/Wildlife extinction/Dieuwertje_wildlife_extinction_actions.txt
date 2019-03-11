@@ -1,0 +1,39 @@
+2019-03-11 16:48:18.035711: Entered query: endangered species measurements countries
+2019-03-11 16:48:21.391872: Clicked docid: F7zqXGkBNnvwcWWyhAMc
+2019-03-11 16:49:14.059434: Marked relevant: -LzvXGkBNnvwcWWy_8s1
+2019-03-11 16:49:17.012297: Marked relevant: S8QKXWkBNnvwcWWysNoM
+2019-03-11 16:49:28.455949: Clicked docid: u8MHXWkBNnvwcWWy6Eqr
+2019-03-11 16:49:46.929525: Marked relevant: u8MHXWkBNnvwcWWy6Eqr
+2019-03-11 16:49:51.888861: Clicked docid: T8ULXWkBNnvwcWWyWDjw
+2019-03-11 16:49:56.700337: Marked relevant: T8ULXWkBNnvwcWWyWDjw
+2019-03-11 16:50:07.382519: Clicked docid: 5cIGXWkBNnvwcWWyYm7c
+2019-03-11 16:50:12.215710: Marked relevant: 5cIGXWkBNnvwcWWyYm7c
+2019-03-11 16:50:16.333818: Marked relevant: LMMIXWkBNnvwcWWyoKzT
+2019-03-11 16:50:18.730511: Marked irrelevant: LMMIXWkBNnvwcWWyoKzT
+2019-03-11 16:50:22.472790: Clicked docid: LMMIXWkBNnvwcWWyoKzT
+2019-03-11 16:50:34.057885: Marked relevant: LMMIXWkBNnvwcWWyoKzT
+2019-03-11 16:50:42.539787: Clicked docid: dsADXWkBNnvwcWWycsvX
+2019-03-11 16:51:10.790035: Marked relevant: BcULXWkBNnvwcWWyVjaN
+2019-03-11 16:51:12.877178: Marked relevant: dsADXWkBNnvwcWWycsvX
+2019-03-11 16:51:17.294422: Marked relevant: dcACXWkBNnvwcWWyFAdf
+2019-03-11 16:51:47.309574: Entered query: prevention wildlife extinction
+2019-03-11 16:51:51.767015: Marked relevant: 278AXWkBNnvwcWWy0E3p
+2019-03-11 16:51:54.159059: Marked relevant: yrjdXGkBNnvwcWWyyqas
+2019-03-11 16:51:55.829840: Clicked docid: yrjdXGkBNnvwcWWyyqas
+2019-03-11 16:52:00.299801: Marked irrelevant: yrjdXGkBNnvwcWWyyqas
+2019-03-11 16:52:17.496760: Entered query: prevention wildlife extinction measurements
+2019-03-11 16:52:25.485684: Clicked docid: 078BXWkBNnvwcWWyU5r1
+2019-03-11 16:52:43.096240: Entered query: prevention wildlife extinction actions government
+2019-03-11 16:52:59.200022: Marked relevant: cMIHXWkBNnvwcWWyXP6A
+2019-03-11 16:53:03.059471: Clicked docid: QcMJXWkBNnvwcWWyAOas
+2019-03-11 16:53:10.662763: Marked relevant: QcMJXWkBNnvwcWWyAOas
+2019-03-11 16:53:13.309268: Marked relevant: yrjdXGkBNnvwcWWyyqas
+2019-03-11 16:53:20.895458: Clicked docid: YrrkXGkBNnvwcWWyneRG
+2019-03-11 16:53:29.347079: Marked relevant: YrrkXGkBNnvwcWWyneRG
+2019-03-11 16:53:34.263154: Clicked docid: D7fbXGkBNnvwcWWyhM2c
+2019-03-11 16:53:42.216885: Marked relevant: D7fbXGkBNnvwcWWyhM2c
+2019-03-11 16:54:22.799826: Entered query: efforts prevention wildlife extinction
+2019-03-11 16:54:27.299914: Marked relevant: 5MULXWkBNnvwcWWyRSy6
+2019-03-11 16:54:33.940295: Marked relevant: Dr7_XGkBNnvwcWWyxrn4
+2019-03-11 16:54:45.166601: Marked relevant: m8MJXWkBNnvwcWWyDO3M
+2019-03-11 16:54:50.664691: Marked relevant: h78CXWkBNnvwcWWyBP6M

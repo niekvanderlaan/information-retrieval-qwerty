@@ -1,0 +1,39 @@
+2019-03-11 16:33:11.925930: Entered query: teenage pregnancy states
+2019-03-11 16:33:25.054797: Clicked docid: e78AXWkBNnvwcWWy4Ffb
+2019-03-11 16:33:33.877770: Marked relevant: e78AXWkBNnvwcWWy4Ffb
+2019-03-11 16:33:38.728780: Clicked docid: JLnfXGkBNnvwcWWyIjNn
+2019-03-11 16:34:03.215419: Marked relevant: JLnfXGkBNnvwcWWyIjNn
+2019-03-11 16:34:10.291530: Clicked docid: CLrkXGkBNnvwcWWypeZp
+2019-03-11 16:34:18.301801: Marked relevant: CLrkXGkBNnvwcWWypeZp
+2019-03-11 16:34:21.284501: Clicked docid: sb7-XGkBNnvwcWWyHV5k
+2019-03-11 16:34:42.127911: Marked relevant: sb7-XGkBNnvwcWWyHV5k
+2019-03-11 16:34:52.974252: Entered query: us teenage abortion
+2019-03-11 16:34:59.906874: Clicked docid: HLvqXGkBNnvwcWWyYf7X
+2019-03-11 16:35:19.904675: Clicked docid: G73yXGkBNnvwcWWy1y9K
+2019-03-11 16:35:36.304029: Marked relevant: G73yXGkBNnvwcWWy1y9K
+2019-03-11 16:35:55.023376: Entered query: teen pregnant us
+2019-03-11 16:35:58.175375: Clicked docid: 2r4AXWkBNnvwcWWyHOVA
+2019-03-11 16:36:07.062867: Marked relevant: 78IGXWkBNnvwcWWyOVnn
+2019-03-11 16:36:09.766985: Clicked docid: F7vnXGkBNnvwcWWyPnGD
+2019-03-11 16:36:19.933592: Marked relevant: F7vnXGkBNnvwcWWyPnGD
+2019-03-11 16:36:30.857305: Clicked docid: zrvlXGkBNnvwcWWy8TQy
+2019-03-11 16:36:40.853960: Marked relevant: zrvlXGkBNnvwcWWy8TQy
+2019-03-11 16:36:44.026358: Clicked docid: SbnhXGkBNnvwcWWyqv5L
+2019-03-11 16:36:55.312971: Clicked docid: j730XGkBNnvwcWWymGgB
+2019-03-11 16:36:59.982224: Marked relevant: j730XGkBNnvwcWWymGgB
+2019-03-11 16:37:06.189936: Clicked docid: 57nhXGkBNnvwcWWyAMw7
+2019-03-11 16:37:18.908259: Clicked docid: SrngXGkBNnvwcWWyU5NX
+2019-03-11 16:37:23.296853: Marked relevant: SrngXGkBNnvwcWWyU5NX
+2019-03-11 16:37:38.753249: Entered query: teen pregnancy united states
+2019-03-11 16:37:43.212550: Clicked docid: LbrkXGkBNnvwcWWy2_ai
+2019-03-11 16:37:46.370609: Marked relevant: LbrkXGkBNnvwcWWy2_ai
+2019-03-11 16:37:50.482144: Clicked docid: QbngXGkBNnvwcWWyWJVw
+2019-03-11 16:37:58.162320: Marked relevant: QbngXGkBNnvwcWWyWJVw
+2019-03-11 16:38:11.807534: Clicked docid: c7zvXGkBNnvwcWWyuMJF
+2019-03-11 16:38:20.610356: Marked relevant: c7zvXGkBNnvwcWWyuMJF
+2019-03-11 16:38:26.940488: Clicked docid: jbzuXGkBNnvwcWWytKH4
+2019-03-11 16:38:30.877539: Marked relevant: jbzuXGkBNnvwcWWytKH4
+2019-03-11 16:38:40.760366: Clicked docid: mbriXGkBNnvwcWWyvlNo
+2019-03-11 16:39:00.244052: Entered query: teen abortion
+2019-03-11 16:39:18.263805: Clicked docid: j7ngXGkBNnvwcWWyWJVw
+2019-03-11 16:39:22.699786: Marked relevant: j7ngXGkBNnvwcWWyWJVw
