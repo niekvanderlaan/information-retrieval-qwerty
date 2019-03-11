@@ -1,0 +1,25 @@
+2019-03-11 12:11:56.747942: Entered query: black bear attacks
+2019-03-11 12:12:02.651295: Clicked docid: 57rkXGkBNnvwcWWyq-db
+2019-03-11 12:12:38.002081: Clicked docid: ZL7-XGkBNnvwcWWyGF0a
+2019-03-11 12:13:16.424292: Marked relevant: ZL7-XGkBNnvwcWWyGF0a
+2019-03-11 12:13:18.657130: Marked relevant: 57rkXGkBNnvwcWWyq-db
+2019-03-11 12:13:33.035292: Entered query: black bear attack frequency
+2019-03-11 12:13:36.584674: Clicked docid: UL79XGkBNnvwcWWy8FU9
+2019-03-11 12:13:43.906825: Marked relevant: UL79XGkBNnvwcWWy8FU9
+2019-03-11 12:13:47.373332: Clicked docid: -r79XGkBNnvwcWWyXDmb
+2019-03-11 12:14:21.439717: Clicked docid: vbzrXGkBNnvwcWWyjCuH
+2019-03-11 12:15:23.760412: Clicked docid: 47riXGkBNnvwcWWyWjVJ
+2019-03-11 12:15:46.478303: Marked relevant: 5LriXGkBNnvwcWWyWjVJ
+2019-03-11 12:15:47.097986: Marked relevant: 47riXGkBNnvwcWWyWjVJ
+2019-03-11 12:15:49.527022: Clicked docid: 5LriXGkBNnvwcWWyWjVJ
+2019-03-11 12:16:10.078195: Entered query: black bear attack cause
+2019-03-11 12:16:12.749887: Clicked docid: qbrkXGkBNnvwcWWyiN9L
+2019-03-11 12:16:33.125252: Clicked docid: frrkXGkBNnvwcWWyiN9L
+2019-03-11 12:16:44.237962: Clicked docid: -r79XGkBNnvwcWWyXDmb
+2019-03-11 12:17:18.519673: Clicked docid: WsEDXWkBNnvwcWWy5Ac_
+2019-03-11 12:17:27.821608: Clicked docid: eLnhXGkBNnvwcWWynvoi
+2019-03-11 12:17:56.741647: Clicked docid: Tr7_XGkBNnvwcWWyhamg
+2019-03-11 12:18:02.459259: Marked relevant: -r79XGkBNnvwcWWyXDmb
+2019-03-11 12:18:10.486405: Clicked docid: qL7_XGkBNnvwcWWytLLB
+2019-03-11 12:18:19.033142: Marked relevant: qL7_XGkBNnvwcWWytLLB
+2019-03-11 12:18:37.887428: Clicked docid: Tr7_XGkBNnvwcWWyhamg

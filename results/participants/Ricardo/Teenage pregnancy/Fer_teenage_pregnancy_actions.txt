@@ -1,0 +1,41 @@
+2019-03-11 12:20:02.597840: Entered query: teen pregnancy rate
+2019-03-11 12:20:08.356976: Clicked docid: j7ngXGkBNnvwcWWyWJVw
+2019-03-11 12:20:23.047405: Marked relevant: j7ngXGkBNnvwcWWyWJVw
+2019-03-11 12:20:23.488085: Marked relevant: srngXGkBNnvwcWWyU5NX
+2019-03-11 12:20:24.754560: Marked relevant: SrngXGkBNnvwcWWyU5NX
+2019-03-11 12:20:28.764388: Clicked docid: CLrkXGkBNnvwcWWypeZp
+2019-03-11 12:20:33.283882: Marked relevant: CLrkXGkBNnvwcWWypeZp
+2019-03-11 12:20:36.830946: Marked relevant: 78IGXWkBNnvwcWWyOVnn
+2019-03-11 12:20:39.698164: Clicked docid: Cr30XGkBNnvwcWWyjWf3
+2019-03-11 12:20:58.450677: Clicked docid: Cr30XGkBNnvwcWWyjWf3
+2019-03-11 12:21:03.893239: Clicked docid: X730XGkBNnvwcWWyjWf3
+2019-03-11 12:21:09.634445: Marked relevant: Cr30XGkBNnvwcWWyjWf3
+2019-03-11 12:21:10.102752: Marked relevant: X730XGkBNnvwcWWyjWf3
+2019-03-11 12:21:26.425820: Clicked docid: 2r4AXWkBNnvwcWWyHOVA
+2019-03-11 12:21:36.180095: Marked relevant: 2r4AXWkBNnvwcWWyHOVA
+2019-03-11 12:21:40.051898: Clicked docid: LcACXWkBNnvwcWWyRyai
+2019-03-11 12:21:48.592930: Marked relevant: LcACXWkBNnvwcWWyRyai
+2019-03-11 12:21:52.187628: Clicked docid: Hb33XGkBNnvwcWWyFro8
+2019-03-11 12:22:07.560068: Marked relevant: Hb33XGkBNnvwcWWyFro8
+2019-03-11 12:22:10.700635: Clicked docid: zrvlXGkBNnvwcWWy8TQy
+2019-03-11 12:22:33.421207: Marked relevant: zrvlXGkBNnvwcWWy8TQy
+2019-03-11 12:22:39.805506: Clicked docid: 0rrjXGkBNnvwcWWyvqV4
+2019-03-11 12:23:02.685758: Clicked docid: LbrkXGkBNnvwcWWy2_ai
+2019-03-11 12:23:18.636198: Marked relevant: LbrkXGkBNnvwcWWy2_ai
+2019-03-11 12:23:24.758851: Marked relevant: QbngXGkBNnvwcWWyWJVw
+2019-03-11 12:23:26.039701: Marked relevant: BrngXGkBNnvwcWWyU5RX
+2019-03-11 12:23:32.805276: Clicked docid: sLriXGkBNnvwcWWyBxsR
+2019-03-11 12:23:58.923843: Marked relevant: sLriXGkBNnvwcWWyBxsR
+2019-03-11 12:24:04.841080: Entered query: teen pregnancy cause
+2019-03-11 12:24:24.452611: Clicked docid: 8rzrXGkBNnvwcWWyxDQq
+2019-03-11 12:24:52.294856: Marked relevant: 8rzrXGkBNnvwcWWyxDQq
+2019-03-11 12:25:03.042049: Entered query: prevent teen pregnancy
+2019-03-11 12:25:07.161719: Clicked docid: sb7-XGkBNnvwcWWyHV5k
+2019-03-11 12:25:35.313973: Marked relevant: sb7-XGkBNnvwcWWyHV5k
+2019-03-11 12:25:43.586479: Clicked docid: y7ngXGkBNnvwcWWywbcr
+2019-03-11 12:26:25.119406: Clicked docid: lbriXGkBNnvwcWWyulLJ
+2019-03-11 12:26:37.992760: Clicked docid: 57zuXGkBNnvwcWWytKD4
+2019-03-11 12:26:46.756958: Marked relevant: 57zuXGkBNnvwcWWytKD4
+2019-03-11 12:26:52.090505: Clicked docid: j730XGkBNnvwcWWymGgB
+2019-03-11 12:26:59.901539: Marked relevant: j730XGkBNnvwcWWymGgB
+2019-03-11 12:27:01.345464: Marked relevant: lr30XGkBNnvwcWWymGgB
