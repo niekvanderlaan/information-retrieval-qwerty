@@ -1,3 +1,0 @@
-#Queries: 3
-#Relevant: 5
-#Clicked: 7
