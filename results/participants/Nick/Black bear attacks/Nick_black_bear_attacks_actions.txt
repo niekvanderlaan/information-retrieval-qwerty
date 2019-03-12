@@ -1,28 +1,28 @@
 2019-03-09 19:58:24.010417: Entered query: black bear attacks
 2019-03-09 19:58:34.803037: Entered query: black bear attacks motive
-2019-03-09 19:58:56.360344: Marked qL7_XGkBNnvwcWWytLLB as relevant
+2019-03-09 19:58:56.360344: Marked relevant: qL7_XGkBNnvwcWWytLLB
 2019-03-09 19:59:00.018879: Entered query: black bear attacks reasons
-2019-03-09 19:59:26.837627: Marked UL79XGkBNnvwcWWy8FU9 as relevant
-2019-03-09 19:59:42.319647: Marked ZL7-XGkBNnvwcWWyGF0a as relevant
+2019-03-09 19:59:26.837627: Marked relevant: UL79XGkBNnvwcWWy8FU9
+2019-03-09 19:59:42.319647: Marked relevant: ZL7-XGkBNnvwcWWyGF0a
 2019-03-09 19:59:48.822636: Entered query: black bear attacks reasons for defending
-2019-03-09 20:00:00.587704: Marked 57rkXGkBNnvwcWWyq-db as relevant
-2019-03-09 20:00:13.928633: Marked YbnfXGkBNnvwcWWyPzrT as relevant
-2019-03-09 20:00:14.380876: Unmarked YbnfXGkBNnvwcWWyPzrT as relevant
-2019-03-09 20:00:16.865891: Marked 0MUMXWkBNnvwcWWyMrV2 as relevant
-2019-03-09 20:00:24.163234: Marked k7fbXGkBNnvwcWWyl9OR as relevant
-2019-03-09 20:00:35.808559: Unmarked k7fbXGkBNnvwcWWyl9OR as relevant
-2019-03-09 20:00:36.448525: Marked Tr7_XGkBNnvwcWWyhamg as relevant
+2019-03-09 20:00:00.587704: Marked relevant: 57rkXGkBNnvwcWWyq-db
+2019-03-09 20:00:13.928633: Marked relevant: YbnfXGkBNnvwcWWyPzrT
+2019-03-09 20:00:14.380876: Marked unrelevant: YbnfXGkBNnvwcWWyPzrT as relevant
+2019-03-09 20:00:16.865891: Marked relevant: 0MUMXWkBNnvwcWWyMrV2
+2019-03-09 20:00:24.163234: Marked relevant: k7fbXGkBNnvwcWWyl9OR
+2019-03-09 20:00:35.808559: Marked unrelevant: k7fbXGkBNnvwcWWyl9OR as relevant
+2019-03-09 20:00:36.448525: Marked relevant: Tr7_XGkBNnvwcWWyhamg
 2019-03-09 20:00:55.887022: Entered query: black bear attacking
-2019-03-09 20:01:50.431433: Marked O7rkXGkBNnvwcWWy0fOZ as relevant
-2019-03-09 20:02:11.031050: Marked sbrkXGkBNnvwcWWyXtOM as relevant
-2019-03-09 20:02:34.211464: Marked WsEDXWkBNnvwcWWy5Ac_ as relevant
+2019-03-09 20:01:50.431433: Marked relevant: O7rkXGkBNnvwcWWy0fOZ
+2019-03-09 20:02:11.031050: Marked relevant: sbrkXGkBNnvwcWWyXtOM
+2019-03-09 20:02:34.211464: Marked relevant: WsEDXWkBNnvwcWWy5Ac_
 2019-03-09 20:02:39.996463: Entered query: black bear kills
 2019-03-09 20:03:10.440827: Entered query: black bear kills -brown
 2019-03-09 20:03:55.687762: Entered query: black bear attacks people
 2019-03-09 20:04:11.900450: Entered query: preventing black bear attack
-2019-03-09 20:04:26.805904: Marked -r79XGkBNnvwcWWyXDmb as relevant
-2019-03-09 20:04:33.111991: Marked eLnhXGkBNnvwcWWynvoi as relevant
-2019-03-09 20:04:36.231283: Marked EbnhXGkBNnvwcWWynvoi as relevant
-2019-03-09 20:04:45.031674: Marked qbrkXGkBNnvwcWWyiN9L as relevant
-2019-03-09 20:04:54.514329: Marked frrkXGkBNnvwcWWyiN9L as relevant
-2019-03-09 20:05:06.118366: Marked fL3yXGkBNnvwcWWycyBs as relevant
+2019-03-09 20:04:26.805904: Marked relevant: -r79XGkBNnvwcWWyXDmb
+2019-03-09 20:04:33.111991: Marked relevant: eLnhXGkBNnvwcWWynvoi
+2019-03-09 20:04:36.231283: Marked relevant: EbnhXGkBNnvwcWWynvoi
+2019-03-09 20:04:45.031674: Marked relevant: qbrkXGkBNnvwcWWyiN9L
+2019-03-09 20:04:54.514329: Marked relevant: frrkXGkBNnvwcWWyiN9L
+2019-03-09 20:05:06.118366: Marked relevant: fL3yXGkBNnvwcWWycyBs

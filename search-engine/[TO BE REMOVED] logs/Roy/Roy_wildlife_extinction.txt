@@ -3,25 +3,25 @@
 2019-03-10 11:00:30.398202: Entered query: decreasing number of owls
 2019-03-10 11:01:05.264768: Entered query: wildlife exinction
 2019-03-10 11:01:10.419721: Entered query: wildlife extinction
-2019-03-10 11:01:18.116017: Marked 078BXWkBNnvwcWWyU5r1 as relevant
+2019-03-10 11:01:18.116017: Marked relevant: 078BXWkBNnvwcWWyU5r1
 2019-03-10 11:01:28.918234: Entered query: wildlife extinction why
-2019-03-10 11:01:36.677228: Marked 5rneXGkBNnvwcWWyngLh as relevant
-2019-03-10 11:01:43.175975: Marked 2cIHXWkBNnvwcWWyNelV as relevant
+2019-03-10 11:01:36.677228: Marked relevant: 5rneXGkBNnvwcWWyngLh
+2019-03-10 11:01:43.175975: Marked relevant: 2cIHXWkBNnvwcWWyNelV
 2019-03-10 11:02:19.490489: Entered query: decreasing number of wildlife
-2019-03-10 11:02:22.328780: Marked McIGXWkBNnvwcWWyDz8Y as relevant
-2019-03-10 11:02:26.331219: Marked F8ACXWkBNnvwcWWyYjZt as relevant
-2019-03-10 11:02:28.859194: Marked PcMHXWkBNnvwcWWyxjiv as relevant
+2019-03-10 11:02:22.328780: Marked relevant: McIGXWkBNnvwcWWyDz8Y
+2019-03-10 11:02:26.331219: Marked relevant: F8ACXWkBNnvwcWWyYjZt
+2019-03-10 11:02:28.859194: Marked relevant: PcMHXWkBNnvwcWWyxjiv
 2019-03-10 11:02:57.953814: Entered query: extinction of wildlife 
 2019-03-10 11:03:36.348299: Entered query: animal extinction
-2019-03-10 11:03:50.105079: Marked LMEEXWkBNnvwcWWyqW_7 as relevant
+2019-03-10 11:03:50.105079: Marked relevant: LMEEXWkBNnvwcWWyqW_7
 2019-03-10 11:04:19.360525: Entered query: species in danger of extinction
-2019-03-10 11:04:40.609413: Marked BsMHXWkBNnvwcWWyfxP6 as relevant
-2019-03-10 11:04:47.015945: Marked wsUMXWkBNnvwcWWyXM3Z as relevant
-2019-03-10 11:04:53.326662: Marked RsMHXWkBNnvwcWWyYwI8 as relevant
-2019-03-10 11:04:56.764908: Marked 7MEDXWkBNnvwcWWy-hTO as relevant
-2019-03-10 11:05:13.910220: Marked HbrjXGkBNnvwcWWyEW8- as relevant
-2019-03-10 11:05:38.104247: Marked FsIGXWkBNnvwcWWyrpwf as relevant
-2019-03-10 11:05:42.035654: Marked 0cMHXWkBNnvwcWWydQyu as relevant
+2019-03-10 11:04:40.609413: Marked relevant: BsMHXWkBNnvwcWWyfxP6
+2019-03-10 11:04:47.015945: Marked relevant: wsUMXWkBNnvwcWWyXM3Z
+2019-03-10 11:04:53.326662: Marked relevant: RsMHXWkBNnvwcWWyYwI8
+2019-03-10 11:04:56.764908: Marked relevant: 7MEDXWkBNnvwcWWy-hTO
+2019-03-10 11:05:13.910220: Marked relevant: HbrjXGkBNnvwcWWyEW8-
+2019-03-10 11:05:38.104247: Marked relevant: FsIGXWkBNnvwcWWyrpwf
+2019-03-10 11:05:42.035654: Marked relevant: 0cMHXWkBNnvwcWWydQyu
 2019-03-10 11:06:02.824200: Entered query: endangered species
 2019-03-10 11:06:08.004765: Clicked docid: F7zqXGkBNnvwcWWyhAMc
 2019-03-10 11:06:21.668607: Entered query: endangered animal species

@@ -164,6 +164,8 @@
 
 [Window: Search Engine - Google Chrome - at Sun Mar 10 19:24:00 2019] y
 
+[Window: Search Engine - Google Chrome - at Sun Mar 10 19:24:01 2019] [ENTER]
+
 [Window: Search Engine - Google Chrome - at Sun Mar 10 19:26:43 2019] [BACKSPACE]
 
 [Window: Search Engine - Google Chrome - at Sun Mar 10 19:26:45 2019]  
