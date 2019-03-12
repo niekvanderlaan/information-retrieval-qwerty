@@ -6,5 +6,5 @@ Typed Characters / Query: 10.444444444444445
 Error Characters / Query: 1.2222222222222223
 Output Characters / Query: 9.222222222222221
 Number of Queries: 9
-Documents Marked: 0
+Documents Marked: 19
 Documents clicked: 3

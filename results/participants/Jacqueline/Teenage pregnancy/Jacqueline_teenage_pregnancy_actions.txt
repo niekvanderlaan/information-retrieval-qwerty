@@ -1,0 +1,19 @@
+2019-03-12 09:45:13.413573: Entered query: teenage pregnancy USA
+2019-03-12 09:45:23.120957: Marked relevant: LcACXWkBNnvwcWWyRyai
+2019-03-12 09:45:43.410155: Marked relevant: RL8AXWkBNnvwcWWyXw7d
+2019-03-12 09:45:54.532819: Entered query: teenage pregnancy America
+2019-03-12 09:46:07.692206: Clicked docid: RL8AXWkBNnvwcWWyXw7d
+2019-03-12 09:46:31.103352: Clicked docid: LcACXWkBNnvwcWWyRyai
+2019-03-12 09:47:02.926054: Entered query: teenage pregnancy America abortion
+2019-03-12 09:47:22.124019: Clicked docid: QLriXGkBNnvwcWWyulPJ
+2019-03-12 09:47:38.003377: Marked relevant: QLriXGkBNnvwcWWyulPJ
+2019-03-12 09:48:20.738584: Entered query: clinton teenage pregnancy
+2019-03-12 09:48:25.648066: Marked relevant: e78AXWkBNnvwcWWy4Ffb
+2019-03-12 09:48:34.632597: Entered query: US teenage pregnancy
+2019-03-12 09:48:54.860236: Entered query: US birth control
+2019-03-12 09:49:03.610793: Clicked docid: bbvmXGkBNnvwcWWyT0VG
+2019-03-12 09:49:08.760084: Marked relevant: bbvmXGkBNnvwcWWyT0VG
+2019-03-12 09:49:18.674761: Clicked docid: i730XGkBNnvwcWWyZGG9
+2019-03-12 09:49:43.341752: Clicked docid: 9LrkXGkBNnvwcWWyit85
+2019-03-12 09:50:04.226863: Clicked docid: 27nhXGkBNnvwcWWyY-fF
+2019-03-12 09:50:35.155896: Entered query: US birth control teenage

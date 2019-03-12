@@ -1,0 +1,27 @@
+2019-03-12 10:02:39.167641: Entered query: wildlife extinction
+2019-03-12 10:02:45.283940: Marked relevant: 078BXWkBNnvwcWWyU5r1
+2019-03-12 10:02:53.568989: Clicked docid: D7fbXGkBNnvwcWWyhM2c
+2019-03-12 10:03:21.024548: Marked relevant: D7fbXGkBNnvwcWWyhM2c
+2019-03-12 10:03:29.154998: Clicked docid: 5rneXGkBNnvwcWWyngLh
+2019-03-12 10:03:36.186793: Clicked docid: 5rneXGkBNnvwcWWyngLh
+2019-03-12 10:03:45.134826: Marked relevant: 5rneXGkBNnvwcWWyngLh
+2019-03-12 10:03:49.215937: Marked relevant: 2cIHXWkBNnvwcWWyNelV
+2019-03-12 10:04:09.105084: Marked relevant: Y7jeXGkBNnvwcWWyVeDs
+2019-03-12 10:04:15.598310: Clicked docid: cb8BXWkBNnvwcWWyWJ1r
+2019-03-12 10:04:58.725058: Clicked docid: QcMJXWkBNnvwcWWyAOas
+2019-03-12 10:05:43.017007: Marked relevant: QcMJXWkBNnvwcWWyAOas
+2019-03-12 10:05:51.339636: Entered query: wildlife perservation
+2019-03-12 10:06:01.456255: Clicked docid: ab4AXWkBNnvwcWWyLvDr
+2019-03-12 10:06:19.946630: Entered query: wildlife extinction conservation
+2019-03-12 10:06:27.456208: Clicked docid: 5MULXWkBNnvwcWWyRSy6
+2019-03-12 10:06:46.008822: Marked relevant: 5MULXWkBNnvwcWWyRSy6
+2019-03-12 10:06:49.924792: Clicked docid: pcIGXWkBNnvwcWWySGJP
+2019-03-12 10:07:19.715318: Marked relevant: pcIGXWkBNnvwcWWySGJP
+2019-03-12 10:07:30.763276: Clicked docid: FcQJXWkBNnvwcWWy9W6M
+2019-03-12 10:08:23.889332: Entered query: protection wildlife extinction
+2019-03-12 10:08:32.541071: Clicked docid: cMIHXWkBNnvwcWWyXP6A
+2019-03-12 10:08:58.933793: Marked relevant: FcQJXWkBNnvwcWWy9W6M
+2019-03-12 10:09:19.067975: Clicked docid: LbvmXGkBNnvwcWWyFDs-
+2019-03-12 10:09:51.044057: Entered query: danger of extinction
+2019-03-12 10:09:54.135583: Marked relevant: AcULXWkBNnvwcWWyXjyM
+2019-03-12 10:09:57.537698: Marked relevant: BsMHXWkBNnvwcWWyfxP6

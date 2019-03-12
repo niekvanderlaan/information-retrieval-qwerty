@@ -1,0 +1,15 @@
+2019-03-12 10:25:23.579795: Entered query: black bear attacks
+2019-03-12 10:26:00.387428: Entered query: reasons black bear attacks
+2019-03-12 10:26:19.127610: Entered query: black bear attacks
+2019-03-12 10:26:24.266962: Clicked docid: qL7_XGkBNnvwcWWytLLB
+2019-03-12 10:27:16.205983: Marked relevant: qL7_XGkBNnvwcWWytLLB
+2019-03-12 10:27:19.560143: Clicked docid: 57rkXGkBNnvwcWWyq-db
+2019-03-12 10:28:20.125836: Entered query: Black bear attacking people
+2019-03-12 10:28:26.064324: Clicked docid: 3b79XGkBNnvwcWWybD0K
+2019-03-12 10:29:08.880184: Marked relevant: 3b79XGkBNnvwcWWybD0K
+2019-03-12 10:29:45.488974: Entered query: What attracks bears
+2019-03-12 10:30:20.414486: Entered query: What food do bears like
+2019-03-12 10:30:24.166405: Clicked docid: UL79XGkBNnvwcWWy8FU9
+2019-03-12 10:31:28.511504: Entered query: Why do bears attack
+2019-03-12 10:31:45.994339: Clicked docid: -r79XGkBNnvwcWWyXDmb
+2019-03-12 10:32:17.684763: Marked relevant: -r79XGkBNnvwcWWyXDmb

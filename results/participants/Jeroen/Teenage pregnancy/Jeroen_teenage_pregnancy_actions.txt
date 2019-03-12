@@ -1,0 +1,24 @@
+2019-03-12 10:41:17.644758: Entered query: Teenage pregnancy United States
+2019-03-12 10:41:31.089575: Clicked docid: RL8AXWkBNnvwcWWyXw7d
+2019-03-12 10:42:18.593797: Marked relevant: RL8AXWkBNnvwcWWyXw7d
+2019-03-12 10:42:41.580696: Clicked docid: LcACXWkBNnvwcWWyRyai
+2019-03-12 10:43:20.795918: Entered query: Teenage pregnancy
+2019-03-12 10:43:34.603544: Clicked docid: b8IFXWkBNnvwcWWyqQPM
+2019-03-12 10:43:55.173229: Entered query: United States teen pregnancy rate
+2019-03-12 10:44:00.586689: Clicked docid: CLrkXGkBNnvwcWWypeZp
+2019-03-12 10:44:14.856266: Marked relevant: CLrkXGkBNnvwcWWypeZp
+2019-03-12 10:44:18.518435: Clicked docid: 2r4AXWkBNnvwcWWyHOVA
+2019-03-12 10:45:04.355699: Marked relevant: 2r4AXWkBNnvwcWWyHOVA
+2019-03-12 10:45:06.648050: Marked relevant: 78IGXWkBNnvwcWWyOVnn
+2019-03-12 10:45:14.106622: Marked relevant: j730XGkBNnvwcWWymGgB
+2019-03-12 10:45:16.350818: Marked relevant: LbrkXGkBNnvwcWWy2_ai
+2019-03-12 10:45:31.053618: Marked relevant: lr30XGkBNnvwcWWymGgB
+2019-03-12 10:45:31.994327: Marked relevant: srngXGkBNnvwcWWyU5NX
+2019-03-12 10:45:39.219295: Marked relevant: j7ngXGkBNnvwcWWyWJVw
+2019-03-12 10:45:43.834552: Clicked docid: srngXGkBNnvwcWWyU5NX
+2019-03-12 10:45:48.694659: Clicked docid: j7ngXGkBNnvwcWWyWJVw
+2019-03-12 10:46:07.786893: Clicked docid: SrngXGkBNnvwcWWyU5NX
+2019-03-12 10:46:12.119862: Marked relevant: SrngXGkBNnvwcWWyU5NX
+2019-03-12 10:46:49.026580: Clicked docid: sb7-XGkBNnvwcWWyHV5k
+2019-03-12 10:47:26.485648: Marked relevant: sb7-XGkBNnvwcWWyHV5k
+2019-03-12 10:48:03.708290: Entered query: United States steps against teen pregnancy 
