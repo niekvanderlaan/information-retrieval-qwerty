@@ -1,0 +1,20 @@
+2019-03-12 14:54:02.062211: Entered query: protect against black bear
+2019-03-12 14:54:11.108197: Clicked docid: qL7_XGkBNnvwcWWytLLB
+2019-03-12 14:55:16.685306: Marked relevant: X8EFXWkBNnvwcWWyCqeA
+2019-03-12 14:55:31.287524: Clicked docid: 57rkXGkBNnvwcWWyq-db
+2019-03-12 14:56:15.937195: Marked relevant: 57rkXGkBNnvwcWWyq-db
+2019-03-12 14:56:27.073047: Clicked docid: 2LztXGkBNnvwcWWyi3oE
+2019-03-12 14:56:43.107393: Clicked docid: vbzrXGkBNnvwcWWyjCuH
+2019-03-12 14:57:32.557116: Entered query: reason black bear attack
+2019-03-12 14:57:50.377791: Entered query: provocation black bear attack
+2019-03-12 14:57:57.806970: Entered query: provocation black bear attack why
+2019-03-12 14:58:15.095462: Clicked docid: DbjcXGkBNnvwcWWyNgz-
+2019-03-12 14:58:27.348563: Entered query: black bear shooting frequency
+2019-03-12 14:58:46.670472: Clicked docid: 57rkXGkBNnvwcWWyq-db
+2019-03-12 14:59:10.821546: Clicked docid: 2sUMXWkBNnvwcWWyF6TH
+2019-03-12 14:59:21.991854: Marked relevant: 2sUMXWkBNnvwcWWyF6TH
+2019-03-12 14:59:44.587469: Entered query: prevent black bear attack
+2019-03-12 14:59:48.746310: Clicked docid: UL79XGkBNnvwcWWy8FU9
+2019-03-12 15:00:21.273334: Marked relevant: UL79XGkBNnvwcWWy8FU9
+2019-03-12 15:00:24.687111: Clicked docid: UL79XGkBNnvwcWWy8FU9
+2019-03-12 15:00:50.518656: Entered query: prevent black bear attack measures

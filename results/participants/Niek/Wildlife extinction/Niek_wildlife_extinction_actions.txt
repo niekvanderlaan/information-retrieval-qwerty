@@ -1,0 +1,22 @@
+2019-03-12 14:45:51.076579: Entered query: Wildlife extinction prevention netherlands
+2019-03-12 14:45:56.027142: Clicked docid: 278AXWkBNnvwcWWy0E3p
+2019-03-12 14:46:23.953588: Marked relevant: 278AXWkBNnvwcWWy0E3p
+2019-03-12 14:46:30.257570: Clicked docid: yrjdXGkBNnvwcWWyyqas
+2019-03-12 14:47:18.137352: Marked relevant: yrjdXGkBNnvwcWWyyqas
+2019-03-12 14:47:20.962818: Clicked docid: 078BXWkBNnvwcWWyU5r1
+2019-03-12 14:47:37.885465: Clicked docid: 2cIHXWkBNnvwcWWyNelV
+2019-03-12 14:47:42.551178: Clicked docid: 5rneXGkBNnvwcWWyngLh
+2019-03-12 14:48:03.270241: Marked relevant: 5rneXGkBNnvwcWWyngLh
+2019-03-12 14:49:17.118460: Clicked docid: cb8BXWkBNnvwcWWyWJ1r
+2019-03-12 14:49:53.446686: Clicked docid: QsEFXWkBNnvwcWWyCqeA
+2019-03-12 14:50:17.190186: Entered query: prevent wildlife extinction measures
+2019-03-12 14:50:23.177328: Clicked docid: VLjdXGkBNnvwcWWyvKBa
+2019-03-12 14:50:32.083053: Marked relevant: VLjdXGkBNnvwcWWyvKBa
+2019-03-12 14:50:35.397179: Clicked docid: B8ACXWkBNnvwcWWyhErS
+2019-03-12 14:50:58.175711: Marked relevant: B8ACXWkBNnvwcWWyhErS
+2019-03-12 14:51:09.264031: Clicked docid: N78BXWkBNnvwcWWy2-hy
+2019-03-12 14:51:27.569386: Entered query: prevent extinction of measures
+2019-03-12 14:51:33.846367: Clicked docid: LMMIXWkBNnvwcWWyhZxC
+2019-03-12 14:51:57.453974: Marked relevant: LMMIXWkBNnvwcWWyhZxC
+2019-03-12 14:52:00.336973: Clicked docid: c7jdXGkBNnvwcWWyHV-h
+2019-03-12 14:52:31.227589: Clicked docid: WsIGXWkBNnvwcWWyb3bc

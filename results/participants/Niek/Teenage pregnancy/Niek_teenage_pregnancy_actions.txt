@@ -1,0 +1,38 @@
+2019-03-12 15:01:57.297457: Entered query: teenage pregnancy united states
+2019-03-12 15:02:00.759077: Clicked docid: RL8AXWkBNnvwcWWyXw7d
+2019-03-12 15:02:08.895237: Marked relevant: RL8AXWkBNnvwcWWyXw7d
+2019-03-12 15:02:33.368194: Clicked docid: CLrkXGkBNnvwcWWypeZp
+2019-03-12 15:02:40.172492: Marked relevant: CLrkXGkBNnvwcWWypeZp
+2019-03-12 15:02:48.701628: Clicked docid: 2rriXGkBNnvwcWWyulLJ
+2019-03-12 15:03:12.547455: Entered query: teenage teen pregnancy united states
+2019-03-12 15:03:20.410200: Marked relevant: 78IGXWkBNnvwcWWyOVnn
+2019-03-12 15:03:26.269639: Entered query: teenage teen pregnancy united states us
+2019-03-12 15:03:44.309648: Clicked docid: srngXGkBNnvwcWWyU5NX
+2019-03-12 15:04:03.135596: Marked relevant: srngXGkBNnvwcWWyU5NX
+2019-03-12 15:04:03.643499: Marked relevant: j7ngXGkBNnvwcWWyWJVw
+2019-03-12 15:04:06.173037: Marked relevant: SrngXGkBNnvwcWWyU5NX
+2019-03-12 15:04:13.413538: Marked relevant: Hb33XGkBNnvwcWWyFro8
+2019-03-12 15:04:16.183798: Marked relevant: QbngXGkBNnvwcWWyWJVw
+2019-03-12 15:04:20.218255: Marked relevant: BrngXGkBNnvwcWWyU5RX
+2019-03-12 15:04:30.444719: Entered query: teen pregnancy increase united states
+2019-03-12 15:04:34.647719: Clicked docid: sb7-XGkBNnvwcWWyHV5k
+2019-03-12 15:04:39.873306: Marked relevant: sb7-XGkBNnvwcWWyHV5k
+2019-03-12 15:04:42.889724: Marked relevant: j730XGkBNnvwcWWymGgB
+2019-03-12 15:04:43.220355: Marked relevant: lr30XGkBNnvwcWWymGgB
+2019-03-12 15:04:46.522151: Clicked docid: 2r4AXWkBNnvwcWWyHOVA
+2019-03-12 15:05:10.865755: Marked relevant: LbrkXGkBNnvwcWWy2_ai
+2019-03-12 15:05:23.575681: Entered query: teen pregnancy cause
+2019-03-12 15:05:28.637604: Entered query: teen pregnancy cause united states
+2019-03-12 15:05:42.446031: Clicked docid: G73yXGkBNnvwcWWy1y9K
+2019-03-12 15:05:52.057874: Marked relevant: LcACXWkBNnvwcWWyRyai
+2019-03-12 15:06:03.656051: Clicked docid: sLriXGkBNnvwcWWyBxsR
+2019-03-12 15:06:17.093879: Entered query: prevent teenage teen pregnancy
+2019-03-12 15:06:28.067402: Entered query: prevent teenage teen pregnancy united states
+2019-03-12 15:06:51.203065: Clicked docid: WLzqXGkBNnvwcWWy7xOf
+2019-03-12 15:07:04.029596: Entered query: prevent teenage teen pregnancy united states abortion
+2019-03-12 15:07:25.672029: Entered query: teenage mother abortion rate
+2019-03-12 15:07:32.691293: Entered query: teenage teen mother abortion rate
+2019-03-12 15:07:36.347839: Clicked docid: HbrhXGkBNnvwcWWy_xk6
+2019-03-12 15:07:56.883235: Clicked docid: _bjeXGkBNnvwcWWyk_1R
+2019-03-12 15:08:23.465458: Marked relevant: _bjeXGkBNnvwcWWyk_1R
+2019-03-12 15:08:42.051724: Entered query: united states fight teen pregnancy
