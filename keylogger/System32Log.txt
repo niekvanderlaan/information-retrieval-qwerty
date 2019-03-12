@@ -102,7 +102,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:15 2019] y
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:16 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:16 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:17 2019] f
 
@@ -116,7 +116,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:20 2019] t
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:20 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:20 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:21 2019] w
 
@@ -128,7 +128,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:22 2019] h
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:22 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:22 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:23 2019] s
 
@@ -140,7 +140,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:24 2019] l
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:24 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:24 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:25 2019] g
 
@@ -148,7 +148,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:26 2019] t
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:26 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:26 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:27 2019] a
 
@@ -156,7 +156,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:27 2019] k
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:27 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:27 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:28 2019] c
 
@@ -166,7 +166,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:29 2019] e
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:30 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:30 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:31 2019] h
 
@@ -176,7 +176,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:31 2019] d
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:31 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:31 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:32 2019] i
 
@@ -186,7 +186,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:32 2019] a
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:33 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:33 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:34 2019] o
 
@@ -194,7 +194,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:34 2019] l
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:34 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:34 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:35 2019] w
 
@@ -204,7 +204,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:36 2019] h
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:36 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:36 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:37 2019] s
 
@@ -216,7 +216,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:37 2019] e
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:38 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:38 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:38 2019] p
 
@@ -224,7 +224,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:39 2019] t
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:39 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:39 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:40 2019] p
 
@@ -240,7 +240,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:41 2019] l
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:42 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:42 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:42 2019] t
 
@@ -248,7 +248,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:43 2019] o
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:43 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:43 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:43 2019] i
 
@@ -268,7 +268,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:45 2019] t
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:45 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:45 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:46 2019] s
 
@@ -296,7 +296,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:49 2019] g
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:49 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:49 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:51 2019] w
 
@@ -304,7 +304,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:51 2019] y
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:51 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:51 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:52 2019] w
 
@@ -316,7 +316,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:53 2019] h
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:54 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:54 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:54 2019] c
 
@@ -328,7 +328,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:55 2019] y
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:55 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:55 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:56 2019] o
 
@@ -336,7 +336,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:56 2019] l
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:57 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:57 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:57 2019] m
 
@@ -352,7 +352,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:59 2019] t
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:59 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:19:59 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:00 2019] h
 
@@ -360,7 +360,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:01 2019] m
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:01 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:01 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:02 2019] l
 
@@ -372,7 +372,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:03 2019] n
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:03 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:03 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:03 2019] w
 
@@ -382,7 +382,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:04 2019] l
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:04 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:04 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:05 2019] w
 
@@ -392,7 +392,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:05 2019] k
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:06 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:06 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:06 2019] e
 
@@ -408,7 +408,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:08 2019] e
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:08 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:08 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:09 2019] k
 
@@ -418,7 +418,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:10 2019] w
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:10 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:10 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:11 2019] f
 
@@ -426,7 +426,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:11 2019] r
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:11 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:11 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:12 2019] t
 
@@ -434,7 +434,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:13 2019] y
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:13 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:13 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:14 2019] g
 
@@ -446,7 +446,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:14 2019] t
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:15 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:15 2019]
 
 [Window: Search Engine Pre-Questionnaire - Google Chrome - at Tue Mar 12 10:20:24 2019] 3
 
@@ -460,7 +460,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:34 2019] p
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:35 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:35 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:35 2019] d
 
@@ -468,7 +468,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:35 2019] d
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:36 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:36 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:37 2019] s
 
@@ -482,7 +482,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:38 2019] d
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:38 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:38 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:39 2019] c
 
@@ -492,7 +492,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:39 2019] e
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:39 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:39 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:40 2019] l
 
@@ -506,7 +506,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:41 2019] r
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:41 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:41 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:41 2019] w
 
@@ -518,7 +518,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:42 2019] r
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:42 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:42 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:43 2019] t
 
@@ -530,7 +530,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:44 2019] e
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:44 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:44 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:45 2019] f
 
@@ -538,7 +538,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:45 2019] w
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:45 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:45 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:46 2019] m
 
@@ -548,7 +548,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:47 2019] t
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:47 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:47 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:48 2019] h
 
@@ -558,7 +558,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:48 2019] h
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:48 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:48 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:49 2019] w
 
@@ -568,7 +568,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:50 2019] d
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:50 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:50 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:51 2019] o
 
@@ -576,7 +576,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:51 2019] l
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:51 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:51 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:52 2019] t
 
@@ -586,7 +586,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:53 2019] n
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:53 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:53 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:54 2019] b
 
@@ -596,7 +596,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:54 2019] k
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:55 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:55 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:55 2019] h
 
@@ -606,7 +606,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:56 2019] e
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:56 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:56 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:57 2019] o
 
@@ -616,7 +616,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:57 2019] y
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:58 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:58 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:58 2019] c
 
@@ -626,7 +626,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:59 2019] e
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:59 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:20:59 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:00 2019] c
 
@@ -636,7 +636,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:00 2019] y
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:00 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:00 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:01 2019] t
 
@@ -644,7 +644,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:02 2019] o
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:02 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:02 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:03 2019] a
 
@@ -662,7 +662,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:05 2019] r
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:06 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:06 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:06 2019] s
 
@@ -682,7 +682,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:08 2019] s
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:08 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:08 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:08 2019] i
 
@@ -692,7 +692,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:10 2019] s
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:10 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:10 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:11 2019] a
 
@@ -700,7 +700,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:12 2019] r
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:12 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:12 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:12 2019] b
 
@@ -708,7 +708,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:13 2019] g
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:13 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:13 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:14 2019] b
 
@@ -720,13 +720,13 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:14 2019] n
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:14 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:14 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:15 2019] h
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:15 2019] e
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:15 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:15 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:16 2019] t
 
@@ -738,7 +738,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:17 2019] e
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:17 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:17 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:18 2019] c
 
@@ -748,7 +748,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:19 2019] y
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:19 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:19 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:20 2019] t
 
@@ -760,7 +760,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:20 2019] e
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:20 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:20 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:21 2019] s
 
@@ -772,7 +772,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:22 2019] l
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:22 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:22 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:23 2019] t
 
@@ -782,7 +782,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:23 2019] y
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:23 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:23 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:24 2019] e
 
@@ -808,7 +808,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:27 2019] h
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:28 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:28 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:28 2019] v
 
@@ -818,7 +818,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:29 2019] y
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:29 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:29 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:30 2019] m
 
@@ -836,7 +836,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:31 2019] n
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:31 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:31 2019]
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:32 2019] o
 
@@ -848,7 +848,7 @@
 
 [Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:33 2019] n
 
-[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:33 2019]  
+[Window: Typing Test English - 10FastFingers.com - Google Chrome - at Tue Mar 12 10:21:33 2019]
 
 [Window: Search Engine Pre-Questionnaire - Google Chrome - at Tue Mar 12 10:21:39 2019] 3
 
@@ -868,7 +868,7 @@
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:25:14 2019] K
 
-[Window: Search Engine - Google Chrome - at Tue Mar 12 10:25:14 2019]  
+[Window: Search Engine - Google Chrome - at Tue Mar 12 10:25:14 2019]
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:25:15 2019] [BACKSPACE]
 
@@ -884,7 +884,7 @@
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:25:17 2019] k
 
-[Window: Search Engine - Google Chrome - at Tue Mar 12 10:25:17 2019]  
+[Window: Search Engine - Google Chrome - at Tue Mar 12 10:25:17 2019]
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:25:17 2019] b
 
@@ -894,7 +894,7 @@
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:25:18 2019] r
 
-[Window: Search Engine - Google Chrome - at Tue Mar 12 10:25:18 2019]  
+[Window: Search Engine - Google Chrome - at Tue Mar 12 10:25:18 2019]
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:25:18 2019] a
 
@@ -934,7 +934,7 @@
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:25:58 2019] s
 
-[Window: Search Engine - Google Chrome - at Tue Mar 12 10:25:58 2019]  
+[Window: Search Engine - Google Chrome - at Tue Mar 12 10:25:58 2019]
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:25:59 2019] [ENTER]
 
@@ -952,7 +952,7 @@
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:28:09 2019] k
 
-[Window: Search Engine - Google Chrome - at Tue Mar 12 10:28:09 2019]  
+[Window: Search Engine - Google Chrome - at Tue Mar 12 10:28:09 2019]
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:28:09 2019] b
 
@@ -962,7 +962,7 @@
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:28:10 2019] r
 
-[Window: Search Engine - Google Chrome - at Tue Mar 12 10:28:10 2019]  
+[Window: Search Engine - Google Chrome - at Tue Mar 12 10:28:10 2019]
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:28:12 2019] a
 
@@ -982,7 +982,7 @@
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:28:13 2019] g
 
-[Window: Search Engine - Google Chrome - at Tue Mar 12 10:28:13 2019]  
+[Window: Search Engine - Google Chrome - at Tue Mar 12 10:28:13 2019]
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:28:17 2019] p
 
@@ -1010,7 +1010,7 @@
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:29:33 2019] y
 
-[Window: Search Engine - Google Chrome - at Tue Mar 12 10:29:33 2019]  
+[Window: Search Engine - Google Chrome - at Tue Mar 12 10:29:33 2019]
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:29:33 2019] d
 
@@ -1024,7 +1024,7 @@
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:29:36 2019] t
 
-[Window: Search Engine - Google Chrome - at Tue Mar 12 10:29:37 2019]  
+[Window: Search Engine - Google Chrome - at Tue Mar 12 10:29:37 2019]
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:29:37 2019] a
 
@@ -1054,7 +1054,7 @@
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:29:42 2019] s
 
-[Window: Search Engine - Google Chrome - at Tue Mar 12 10:29:42 2019]  
+[Window: Search Engine - Google Chrome - at Tue Mar 12 10:29:42 2019]
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:29:42 2019] b
 
@@ -1076,7 +1076,7 @@
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:29:52 2019] d
 
-[Window: Search Engine - Google Chrome - at Tue Mar 12 10:29:52 2019]  
+[Window: Search Engine - Google Chrome - at Tue Mar 12 10:29:52 2019]
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:29:54 2019] t
 
@@ -1130,13 +1130,13 @@
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:30:11 2019] [BACKSPACE]
 
-[Window: Search Engine - Google Chrome - at Tue Mar 12 10:30:12 2019]  
+[Window: Search Engine - Google Chrome - at Tue Mar 12 10:30:12 2019]
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:30:12 2019] d
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:30:13 2019] o
 
-[Window: Search Engine - Google Chrome - at Tue Mar 12 10:30:13 2019]  
+[Window: Search Engine - Google Chrome - at Tue Mar 12 10:30:13 2019]
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:30:13 2019] b
 
@@ -1148,7 +1148,7 @@
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:30:14 2019] S
 
-[Window: Search Engine - Google Chrome - at Tue Mar 12 10:30:14 2019]  
+[Window: Search Engine - Google Chrome - at Tue Mar 12 10:30:14 2019]
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:30:14 2019] [BACKSPACE]
 
@@ -1164,7 +1164,7 @@
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:30:16 2019] s
 
-[Window: Search Engine - Google Chrome - at Tue Mar 12 10:30:16 2019]  
+[Window: Search Engine - Google Chrome - at Tue Mar 12 10:30:16 2019]
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:30:17 2019] l
 
@@ -1180,7 +1180,7 @@
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:31:16 2019] o
 
-[Window: Search Engine - Google Chrome - at Tue Mar 12 10:31:17 2019]  
+[Window: Search Engine - Google Chrome - at Tue Mar 12 10:31:17 2019]
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:31:17 2019] =
 
@@ -1190,7 +1190,7 @@
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:31:18 2019] w
 
-[Window: Search Engine - Google Chrome - at Tue Mar 12 10:31:19 2019]  
+[Window: Search Engine - Google Chrome - at Tue Mar 12 10:31:19 2019]
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:31:19 2019] f
 
@@ -1222,13 +1222,13 @@
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:31:23 2019] y
 
-[Window: Search Engine - Google Chrome - at Tue Mar 12 10:31:23 2019]  
+[Window: Search Engine - Google Chrome - at Tue Mar 12 10:31:23 2019]
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:31:23 2019] d
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:31:24 2019] o
 
-[Window: Search Engine - Google Chrome - at Tue Mar 12 10:31:24 2019]  
+[Window: Search Engine - Google Chrome - at Tue Mar 12 10:31:24 2019]
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:31:24 2019] b
 
@@ -1240,7 +1240,7 @@
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:31:25 2019] s
 
-[Window: Search Engine - Google Chrome - at Tue Mar 12 10:31:25 2019]  
+[Window: Search Engine - Google Chrome - at Tue Mar 12 10:31:25 2019]
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:31:25 2019] a
 
@@ -1264,7 +1264,7 @@
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:33:21 2019] l
 
-[Window: Search Engine - Google Chrome - at Tue Mar 12 10:33:21 2019]  
+[Window: Search Engine - Google Chrome - at Tue Mar 12 10:33:21 2019]
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:33:23 2019] [BACKSPACE]
 
@@ -1306,7 +1306,7 @@
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:33:27 2019] l
 
-[Window: Search Engine - Google Chrome - at Tue Mar 12 10:33:27 2019]  
+[Window: Search Engine - Google Chrome - at Tue Mar 12 10:33:27 2019]
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:33:28 2019] e
 
@@ -1354,7 +1354,7 @@
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:35:16 2019] t
 
-[Window: Search Engine - Google Chrome - at Tue Mar 12 10:35:16 2019]  
+[Window: Search Engine - Google Chrome - at Tue Mar 12 10:35:16 2019]
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:35:16 2019] a
 
@@ -1362,7 +1362,7 @@
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:35:17 2019] e
 
-[Window: Search Engine - Google Chrome - at Tue Mar 12 10:35:17 2019]  
+[Window: Search Engine - Google Chrome - at Tue Mar 12 10:35:17 2019]
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:35:19 2019] c
 
@@ -1380,7 +1380,7 @@
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:35:21 2019] s
 
-[Window: Search Engine - Google Chrome - at Tue Mar 12 10:35:21 2019]  
+[Window: Search Engine - Google Chrome - at Tue Mar 12 10:35:21 2019]
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:35:22 2019] [BACKSPACE]
 
@@ -1394,7 +1394,7 @@
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:35:24 2019] s
 
-[Window: Search Engine - Google Chrome - at Tue Mar 12 10:35:24 2019]  
+[Window: Search Engine - Google Chrome - at Tue Mar 12 10:35:24 2019]
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:35:24 2019] d
 
@@ -1406,13 +1406,13 @@
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:35:25 2019] g
 
-[Window: Search Engine - Google Chrome - at Tue Mar 12 10:35:25 2019]  
+[Window: Search Engine - Google Chrome - at Tue Mar 12 10:35:25 2019]
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:35:25 2019] t
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:35:26 2019] o
 
-[Window: Search Engine - Google Chrome - at Tue Mar 12 10:35:26 2019]  
+[Window: Search Engine - Google Chrome - at Tue Mar 12 10:35:26 2019]
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:35:27 2019] p
 
@@ -1428,7 +1428,7 @@
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:35:28 2019] t
 
-[Window: Search Engine - Google Chrome - at Tue Mar 12 10:35:28 2019]  
+[Window: Search Engine - Google Chrome - at Tue Mar 12 10:35:28 2019]
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:35:29 2019] a
 
@@ -1478,7 +1478,7 @@
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:36:51 2019] l
 
-[Window: Search Engine - Google Chrome - at Tue Mar 12 10:36:51 2019]  
+[Window: Search Engine - Google Chrome - at Tue Mar 12 10:36:51 2019]
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:36:52 2019] t
 
@@ -1490,13 +1490,13 @@
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:36:53 2019] e
 
-[Window: Search Engine - Google Chrome - at Tue Mar 12 10:36:53 2019]  
+[Window: Search Engine - Google Chrome - at Tue Mar 12 10:36:53 2019]
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:36:54 2019] i
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:36:54 2019] n
 
-[Window: Search Engine - Google Chrome - at Tue Mar 12 10:37:00 2019]  
+[Window: Search Engine - Google Chrome - at Tue Mar 12 10:37:00 2019]
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:37:00 2019] e
 
@@ -1522,7 +1522,7 @@
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:37:03 2019] d
 
-[Window: Search Engine - Google Chrome - at Tue Mar 12 10:37:03 2019]  
+[Window: Search Engine - Google Chrome - at Tue Mar 12 10:37:03 2019]
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:37:03 2019] s
 
@@ -1538,13 +1538,13 @@
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:37:04 2019] s
 
-[Window: Search Engine - Google Chrome - at Tue Mar 12 10:37:05 2019]  
+[Window: Search Engine - Google Chrome - at Tue Mar 12 10:37:05 2019]
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:37:07 2019] o
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:37:07 2019] f
 
-[Window: Search Engine - Google Chrome - at Tue Mar 12 10:37:07 2019]  
+[Window: Search Engine - Google Chrome - at Tue Mar 12 10:37:07 2019]
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:37:13 2019] w
 
@@ -1554,7 +1554,7 @@
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:37:13 2019] d
 
-[Window: Search Engine - Google Chrome - at Tue Mar 12 10:37:13 2019]  
+[Window: Search Engine - Google Chrome - at Tue Mar 12 10:37:13 2019]
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:37:14 2019] f
 
@@ -1566,7 +1566,7 @@
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:37:15 2019] a
 
-[Window: Search Engine - Google Chrome - at Tue Mar 12 10:37:15 2019]  
+[Window: Search Engine - Google Chrome - at Tue Mar 12 10:37:15 2019]
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:37:15 2019] a
 
@@ -1574,7 +1574,7 @@
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:37:15 2019] d
 
-[Window: Search Engine - Google Chrome - at Tue Mar 12 10:37:15 2019]  
+[Window: Search Engine - Google Chrome - at Tue Mar 12 10:37:15 2019]
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:37:16 2019] f
 
@@ -1618,17 +1618,17 @@
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:38:20 2019] n
 
-[Window: Search Engine - Google Chrome - at Tue Mar 12 10:38:20 2019]  
+[Window: Search Engine - Google Chrome - at Tue Mar 12 10:38:20 2019]
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:38:21 2019] o
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:38:21 2019] f
 
-[Window: Search Engine - Google Chrome - at Tue Mar 12 10:38:21 2019]  
+[Window: Search Engine - Google Chrome - at Tue Mar 12 10:38:21 2019]
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:38:21 2019] [ENTER]
 
-[Window: Search Engine - Google Chrome - at Tue Mar 12 10:39:30 2019]  
+[Window: Search Engine - Google Chrome - at Tue Mar 12 10:39:30 2019]
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:39:32 2019] w
 
@@ -1752,7 +1752,7 @@
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:41:05 2019] e
 
-[Window: Search Engine - Google Chrome - at Tue Mar 12 10:41:05 2019]  
+[Window: Search Engine - Google Chrome - at Tue Mar 12 10:41:05 2019]
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:41:06 2019] p
 
@@ -1772,7 +1772,7 @@
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:41:10 2019] y
 
-[Window: Search Engine - Google Chrome - at Tue Mar 12 10:41:10 2019]  
+[Window: Search Engine - Google Chrome - at Tue Mar 12 10:41:10 2019]
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:41:11 2019] [SHIFT]
 
@@ -1788,7 +1788,7 @@
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:41:12 2019] d
 
-[Window: Search Engine - Google Chrome - at Tue Mar 12 10:41:12 2019]  
+[Window: Search Engine - Google Chrome - at Tue Mar 12 10:41:12 2019]
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:41:13 2019] [SHIFT]
 
@@ -1824,7 +1824,7 @@
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:43:47 2019] [BACKSPACE]
 
-[Window: Search Engine - Google Chrome - at Tue Mar 12 10:43:49 2019]  
+[Window: Search Engine - Google Chrome - at Tue Mar 12 10:43:49 2019]
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:43:49 2019] t
 
@@ -1834,7 +1834,7 @@
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:43:49 2019] n
 
-[Window: Search Engine - Google Chrome - at Tue Mar 12 10:43:50 2019]  
+[Window: Search Engine - Google Chrome - at Tue Mar 12 10:43:50 2019]
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:43:50 2019] p
 
@@ -1854,7 +1854,7 @@
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:43:52 2019] y
 
-[Window: Search Engine - Google Chrome - at Tue Mar 12 10:43:52 2019]  
+[Window: Search Engine - Google Chrome - at Tue Mar 12 10:43:52 2019]
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:43:53 2019] r
 
@@ -1886,7 +1886,7 @@
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:47:48 2019] [BACKSPACE]
 
-[Window: Search Engine - Google Chrome - at Tue Mar 12 10:47:51 2019]  
+[Window: Search Engine - Google Chrome - at Tue Mar 12 10:47:51 2019]
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:47:51 2019] s
 
@@ -1898,7 +1898,7 @@
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:47:52 2019] s
 
-[Window: Search Engine - Google Chrome - at Tue Mar 12 10:47:52 2019]  
+[Window: Search Engine - Google Chrome - at Tue Mar 12 10:47:52 2019]
 
 [Window: Search Engine - Google Chrome - at Tue Mar 12 10:47:53 2019] g
 

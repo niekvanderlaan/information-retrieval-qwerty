@@ -81,7 +81,7 @@ def view_result(docid):
 
 if __name__ == '__main__':
     app.secret_key = 'mysecret'
-    handler = RotatingFileHandler('jeroen.log', maxBytes=10000, backupCount=1)
+    handler = RotatingFileHandler('username.log', maxBytes=10000, backupCount=1)
     handler.setLevel(logging.INFO)
     app.logger.addHandler(handler)
     app.run(host='0.0.0.0', port=5000)
