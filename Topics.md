@@ -46,3 +46,6 @@ teenage pregnancies.
 <h4> Narrative: </h4>
 Relevant documents will discuss teenage pregnancy in the United States.
 Also relevant is information on teenage abortions.
+
+---
+These topics are a subset of the topics used in TREC 2005 Robust track, https://trec.nist.gov/data/robust/05/05.50.topics.txt.
