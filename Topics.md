@@ -5,11 +5,6 @@ During the user study, the user will be asked to find relevant documents for the
 <h2> Black Bear Attacks </h2>
 
 <h4> Description: </h4>
-A relevant document would discuss the frequency
-of vicious black bear attacks worldwide and the
-possible causes for this savage behavior.
-
-<h4> Narrative: </h4>
 It has been reported that food or cosmetics
 sometimes attract hungry black bears, causing
 them to viciously attack humans.  Relevant
@@ -22,6 +17,10 @@ taken or new methods devised by wildlife
 officials to control and/or modify the
 savageness of the black bear.
 
+<h4> Narrative: </h4>
+A relevant document would discuss the frequency
+of vicious black bear attacks worldwide and the
+possible causes for this savage behavior.
 
 <h2> Wildlife Extinction </h2>
 
